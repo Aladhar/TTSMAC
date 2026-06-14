@@ -6,6 +6,15 @@ import asyncio
 import edge_tts
 import tempfile
 import os
+import time
+import mss
+import cv2
+import numpy as np
+
+try:
+    from pynput import keyboard
+except ImportError:
+    keyboard = None
 
 
 # ==============================
@@ -13,6 +22,44 @@ import os
 # ==============================
 
 IMG_PATH = "image.png"
+
+# INPUT_MODE options:
+# "image" = read IMG_PATH once
+# "screen" = capture a fixed region of your live screen
+INPUT_MODE = "screen"
+
+# Capture a broad browser/manga area. Auto-crop will find the manga page inside it.
+CAPTURE_REGION = {
+    "left": 300,
+    "top": 120,
+    "width": 900,
+    "height": 1200,
+}
+
+# If True, tries to crop the manga page out of the broader screen capture.
+AUTO_CROP_MANGA_PAGE = True
+SAVE_AUTO_CROP_DEBUG = False
+
+# Seconds between captures if auto-scan mode is used.
+CAPTURE_INTERVAL_SECONDS = 0.8
+
+# Saves live capture as live_capture.png for debugging.
+SAVE_LIVE_CAPTURE = False
+
+# If True, run mouse-position helper instead of OCR.
+CALIBRATE_REGION = False
+
+# Global hotkey mode works even when Terminal is not focused.
+# Requires: python -m pip install pynput
+# macOS also requires Accessibility permission for Terminal/VS Code.
+USE_GLOBAL_HOTKEY = True
+READ_HOTKEY = "r"
+
+# Fallback mode: press Enter in Terminal to read once.
+READ_ON_ENTER_ONLY = False
+
+# Pressing r while speaking stops current audio and restarts with current screen.
+INTERRUPT_AND_RESTART_ON_HOTKEY = True
 
 # Manga is usually right-to-left.
 READING_DIRECTION = "rtl"
@@ -22,23 +69,33 @@ READING_DIRECTION = "rtl"
 MIN_CONF = 25
 
 # Edge neural voice settings.
-# Try:
+# Good voices:
 # en-US-AriaNeural
 # en-US-GuyNeural
 # en-US-JennyNeural
 # en-US-DavisNeural
 VOICE = "en-US-AriaNeural"
-RATE = "-8%"
+RATE = "+8%"
 VOLUME = "+0%"
 
-# If True, saves debug image with detected text boxes.
-SAVE_DEBUG_IMAGE = True
+# Saves debug image with detected OCR boxes.
+SAVE_DEBUG_IMAGE = False
 
-# If True, speaks text out loud.
+# Speaks text out loud.
 SPEAK_OUT_LOUD = True
 
-# If True, prints the text that is sent to TTS after pronunciation fixes.
+# True = one TTS call for whole page.
+# False = bubble-by-bubble; starts faster and interrupts cleaner.
+SPEAK_COMBINED_TEXT = False
+
+# Prints final TTS text after pronunciation fixes.
 PRINT_TTS_TEXT = False
+
+# Avoid repeating same screen/dialogue.
+SKIP_REPEATED_TEXT = True
+
+# If True, live mode exits after one read.
+EXIT_AFTER_ONE_READ = False
 
 
 VALID_SHORT_WORDS = {
@@ -59,24 +116,30 @@ BAD_WORDS = {
 
 def fix_pronunciation(text):
     fixes = {
-        "Rize-san": "Ree-zay sahn",
-        "RIZE-SAN": "Ree-zay sahn",
-        "Rize": "Ree-zay",
-        "RIZE": "Ree-zay",
-        "Kaneki": "Kah-neh-kee",
-        "KANEKI": "Kah-neh-kee",
-        "Touka": "Toh-kah",
-        "TOUKA": "Toh-kah",
-        "Aogiri": "Ah-oh-gee-ree",
-        "AOGIRI": "Ah-oh-gee-ree",
+        "Rize-san": "Ree zay sawn",
+        "RIZE-SAN": "Ree zay sawn",
+        "RIZE SAN": "Ree zay sawn",
+        "RIZE, SAN": "Ree zay sawn",
+        "Rize": "Ree zay",
+        "RIZE": "Ree zay",
+        "Kaneki": "Kah neh kee",
+        "KANEKI": "Kah neh kee",
+        "Touka": "Toh kah",
+        "TOUKA": "Toh kah",
+        "Aogiri": "Ah oh gee ree",
+        "AOGIRI": "Ah oh gee ree",
     }
 
     for wrong, fixed in sorted(fixes.items(), key=lambda item: len(item[0]), reverse=True):
         text = text.replace(wrong, fixed)
 
-    # Context fixes for "live"
-    # TTS often reads all-caps LIVE like "live on YouTube".
-    # Use \s+ so it still works when OCR text has line breaks like REALLY\nLIVE.
+    text = re.sub(
+        r"\bRIZE\s*[-,]?\s*SAN\b",
+        "Ree zay sawn",
+        text,
+        flags=re.IGNORECASE,
+    )
+
     live_context_patterns = [
         r"\bREALLY\s+LIVE\b",
         r"\bDO\s+YOU\s+LIVE\b",
@@ -99,15 +162,84 @@ def fix_pronunciation(text):
 
 
 # ==============================
-# IMAGE PREPROCESSING
+# IMAGE / CROP
 # ==============================
+
+def auto_crop_manga_page(img):
+    """
+    Finds the main manga page inside a larger screen capture.
+    This helps if the manga image moves around or page sizes change.
+    """
+    arr = np.array(img.convert("RGB"))
+    gray = cv2.cvtColor(arr, cv2.COLOR_RGB2GRAY)
+
+    blurred = cv2.GaussianBlur(gray, (5, 5), 0)
+    edges = cv2.Canny(blurred, 40, 120)
+
+    kernel = np.ones((15, 15), np.uint8)
+    dilated = cv2.dilate(edges, kernel, iterations=2)
+
+    contours, _ = cv2.findContours(
+        dilated,
+        cv2.RETR_EXTERNAL,
+        cv2.CHAIN_APPROX_SIMPLE,
+    )
+
+    if not contours:
+        return img
+
+    h, w = gray.shape
+    candidates = []
+
+    for contour in contours:
+        x, y, cw, ch = cv2.boundingRect(contour)
+        area = cw * ch
+
+        if area < (w * h * 0.05):
+            continue
+
+        aspect = ch / max(cw, 1)
+
+        # Normal manga pages are tall-ish. This still allows wide-ish panels.
+        if aspect < 0.75:
+            continue
+
+        if cw < w * 0.18 or ch < h * 0.25:
+            continue
+
+        # Avoid grabbing very thin UI bars.
+        if cw < 250 or ch < 300:
+            continue
+
+        candidates.append((area, x, y, cw, ch))
+
+    if not candidates:
+        return img
+
+    _, x, y, cw, ch = max(candidates, key=lambda c: c[0])
+
+    pad = 20
+    x1 = max(0, x - pad)
+    y1 = max(0, y - pad)
+    x2 = min(w, x + cw + pad)
+    y2 = min(h, y + ch + pad)
+
+    cropped = img.crop((x1, y1, x2, y2))
+
+    if SAVE_AUTO_CROP_DEBUG:
+        cropped.save("auto_cropped_manga.png")
+
+        debug = arr.copy()
+        cv2.rectangle(debug, (x1, y1), (x2, y2), (255, 0, 0), 4)
+        Image.fromarray(debug).save("auto_crop_debug.png")
+
+    return cropped
+
 
 def preprocess(img):
     """
-    Makes manga text easier for OCR:
-    - grayscale
-    - increase contrast
-    - upscale small text
+    Makes manga text easier for OCR.
+    Keep scale=2 for accuracy. Lower scale is faster but worse.
     """
     img = ImageOps.grayscale(img)
     img = ImageEnhance.Contrast(img).enhance(2.5)
@@ -123,12 +255,8 @@ def preprocess(img):
 # ==============================
 
 def normalize_token(raw):
-    """
-    Cleans individual OCR words/tokens.
-    """
     raw = raw.strip()
 
-    # Tesseract often reads capital I as a vertical bar.
     if raw in {"|", "l", "I"}:
         return "I"
 
@@ -154,7 +282,6 @@ def normalize_token(raw):
     if token in replacements:
         return replacements[token]
 
-    # Restore punctuation if it was stripped.
     if raw.endswith("?") and not token.endswith("?"):
         token += "?"
 
@@ -168,15 +295,17 @@ def normalize_token(raw):
 
 
 def clean_bubble_text(text):
-    """
-    Cleans full speech bubble text after OCR grouping.
-    """
     replacements = {
         "YOu": "YOU",
         "S07": "SO?",
         "S0?": "SO?",
         "$0?": "SO?",
         "507": "SO?",
+        "YOU RE": "YOU'RE",
+        "YOURE": "YOU'RE",
+        "DONT": "DON'T",
+        "CANT": "CAN'T",
+        "WONT": "WON'T",
         "INSTRUC-\nTIONS?": "INSTRUCTIONS?",
         "INSTRUC\nTIONS?": "INSTRUCTIONS?",
         "INSTRUC- TIONS?": "INSTRUCTIONS?",
@@ -186,23 +315,15 @@ def clean_bubble_text(text):
     for bad, good in replacements.items():
         text = text.replace(bad, good)
 
-    # Join hyphenated line breaks.
     text = text.replace("-\n", "")
-
-    # Clean repeated spaces/newlines.
     text = re.sub(r"\n+", "\n", text)
     text = re.sub(r"[ \t]+", " ", text)
-
-    # If OCR missed the capital I in "I WONDER".
     text = re.sub(r"(?m)^WONDER$", "I WONDER", text)
 
     return text.strip()
 
 
 def is_good_bubble(text):
-    """
-    Rejects garbage OCR bubbles before speaking.
-    """
     if not text:
         return False
 
@@ -242,7 +363,6 @@ def is_good_bubble(text):
     if any(phrase in lower for phrase in banned_phrases):
         return False
 
-    # Reject incomplete page-title / character-label OCR near the bottom of pages.
     compact = re.sub(r"[^A-Za-z0-9]", "", text).upper()
     bad_fragments = {
         "KANEK",
@@ -258,20 +378,17 @@ def is_good_bubble(text):
 
 
 # ==============================
-# OCR LINE DETECTION
+# OCR DETECTION
 # ==============================
 
 def get_ocr_lines(img):
-    """
-    Runs OCR and returns detected lines with bounding boxes.
-    """
     config = "--oem 3 --psm 11"
 
     data = pytesseract.image_to_data(
         img,
         lang="eng",
         config=config,
-        output_type=pytesseract.Output.DICT
+        output_type=pytesseract.Output.DICT,
     )
 
     grouped = {}
@@ -353,16 +470,8 @@ def get_ocr_lines(img):
     return lines
 
 
-# ==============================
-# GROUP LINES INTO BUBBLES
-# ==============================
-
 def group_lines_into_bubbles(lines):
-    """
-    Groups nearby OCR lines into speech bubbles.
-    """
     lines = sorted(lines, key=lambda l: (l["y1"], l["x1"]))
-
     bubbles = []
 
     for line in lines:
@@ -379,8 +488,6 @@ def group_lines_into_bubbles(lines):
             vertical_gap = line["y1"] - by2
             x_distance = abs(line["cx"] - bcx)
 
-            # Same speech bubble usually has similar center x
-            # and the next line appears below the previous line.
             if -25 <= vertical_gap <= 90 and x_distance <= 170:
                 score = abs(vertical_gap) + x_distance
 
@@ -422,21 +529,11 @@ def group_lines_into_bubbles(lines):
     return bubble_objs
 
 
-# ==============================
-# SORT BUBBLES IN MANGA ORDER
-# ==============================
-
 def sort_bubbles_reading_order(bubbles, page_height):
-    """
-    Sorts detected speech bubbles:
-    - row by row
-    - right-to-left inside each row for manga
-    """
     if not bubbles:
         return []
 
     row_tolerance = page_height * 0.08
-
     rows = []
 
     for bubble in sorted(bubbles, key=lambda b: b["y1"]):
@@ -466,14 +563,7 @@ def sort_bubbles_reading_order(bubbles, page_height):
     return sorted_bubbles
 
 
-# ==============================
-# DEBUG IMAGE
-# ==============================
-
 def draw_debug(img, bubbles):
-    """
-    Saves image with red boxes around detected bubbles.
-    """
     debug = img.convert("RGB")
     draw = ImageDraw.Draw(debug)
 
@@ -483,7 +573,7 @@ def draw_debug(img, bubbles):
         draw.text(
             (bubble["x1"], max(0, bubble["y1"] - 30)),
             str(idx),
-            fill="red"
+            fill="red",
         )
 
     debug.save("debug_detected_bubbles.png")
@@ -493,10 +583,7 @@ def draw_debug(img, bubbles):
 # SPEECH
 # ==============================
 
-async def edge_speak_async(text):
-    """
-    Speaks text using Microsoft Edge neural voices.
-    """
+async def edge_speak_async(text, should_cancel=None, process_holder=None):
     tts_text = fix_pronunciation(text)
 
     if PRINT_TTS_TEXT:
@@ -510,37 +597,104 @@ async def edge_speak_async(text):
         text=tts_text,
         voice=VOICE,
         rate=RATE,
-        volume=VOLUME
+        volume=VOLUME,
     )
 
     await communicate.save(audio_path)
 
-    subprocess.run(["afplay", audio_path])
-    os.remove(audio_path)
+    if should_cancel is not None and should_cancel():
+        if os.path.exists(audio_path):
+            os.remove(audio_path)
+        return
+
+    proc = subprocess.Popen(["afplay", audio_path])
+
+    if process_holder is not None:
+        process_holder["process"] = proc
+
+    try:
+        while proc.poll() is None:
+            if should_cancel is not None and should_cancel():
+                try:
+                    proc.terminate()
+                    proc.wait(timeout=0.2)
+                except subprocess.TimeoutExpired:
+                    proc.kill()
+                break
+
+            await asyncio.sleep(0.05)
+
+    finally:
+        if process_holder is not None and process_holder.get("process") is proc:
+            process_holder["process"] = None
+
+        if os.path.exists(audio_path):
+            os.remove(audio_path)
 
 
-def speak(text):
-    """
-    Wrapper so the rest of the code can just call speak(text).
-    """
+def speak(text, should_cancel=None, process_holder=None):
     if not SPEAK_OUT_LOUD:
         return
 
     if text.strip():
-        asyncio.run(edge_speak_async(text))
+        asyncio.run(edge_speak_async(
+            text,
+            should_cancel=should_cancel,
+            process_holder=process_holder,
+        ))
 
 
 # ==============================
-# MAIN
+# SCREEN CAPTURE / READING
 # ==============================
 
-def main():
-    if not os.path.exists(IMG_PATH):
-        print(f"Could not find {IMG_PATH}")
-        print("Put your manga screenshot in this folder and name it image.png")
+def calibrate_region_helper():
+    try:
+        import pyautogui
+    except ImportError:
+        print("Install pyautogui first:")
+        print("python -m pip install pyautogui")
         return
 
-    original = Image.open(IMG_PATH)
+    print("Move your mouse to the TOP-LEFT of the manga/browser reading area, then wait.")
+    time.sleep(4)
+    x1, y1 = pyautogui.position()
+    print(f"Top-left: x={x1}, y={y1}")
+
+    print("Move your mouse to the BOTTOM-RIGHT of the manga/browser reading area, then wait.")
+    time.sleep(4)
+    x2, y2 = pyautogui.position()
+    print(f"Bottom-right: x={x2}, y={y2}")
+
+    left = min(x1, x2)
+    top = min(y1, y2)
+    width = abs(x2 - x1)
+    height = abs(y2 - y1)
+
+    print("\nUse this CAPTURE_REGION:")
+    print("CAPTURE_REGION = {")
+    print(f'    "left": {left},')
+    print(f'    "top": {top},')
+    print(f'    "width": {width},')
+    print(f'    "height": {height},')
+    print("}")
+
+
+def capture_screen_region():
+    with mss.MSS() as sct:
+        shot = sct.grab(CAPTURE_REGION)
+        img = Image.frombytes("RGB", shot.size, shot.rgb)
+
+    if SAVE_LIVE_CAPTURE:
+        img.save("live_capture.png")
+
+    return img
+
+
+def read_page_image(original):
+    if AUTO_CROP_MANGA_PAGE:
+        original = auto_crop_manga_page(original)
+
     img = preprocess(original)
 
     lines = get_ocr_lines(img)
@@ -551,12 +705,9 @@ def main():
         draw_debug(img, bubbles)
         print("Saved debug image: debug_detected_bubbles.png")
 
-    print("\nDETECTED TEXT IN READING ORDER:")
-    print("================================")
-
     final_text = []
 
-    for i, bubble in enumerate(bubbles, start=1):
+    for bubble in bubbles:
         text = clean_bubble_text(bubble["text"])
 
         if not is_good_bubble(text):
@@ -564,14 +715,220 @@ def main():
 
         final_text.append(text)
 
+    return final_text
+
+
+def run_image_mode():
+    if not os.path.exists(IMG_PATH):
+        print(f"Could not find {IMG_PATH}")
+        print("Put your manga screenshot in this folder and name it image.png")
+        return
+
+    original = Image.open(IMG_PATH)
+    final_text = read_page_image(original)
+
+    print("\nDETECTED TEXT IN READING ORDER:")
+    print("================================")
+
+    for i, text in enumerate(final_text, start=1):
         print(f"\n[{i}]")
         print(text)
 
-        speak(text)
+    combined_text = "\n\n".join(final_text)
+
+    if SPEAK_COMBINED_TEXT:
+        speak(combined_text)
+    else:
+        for text in final_text:
+            speak(text)
 
     print("\n\nFINAL COMBINED TEXT:")
     print("================================")
-    print("\n\n".join(final_text))
+    print(combined_text)
+
+
+def run_screen_mode():
+    print("Live screen mode started.")
+    print("Press Ctrl+C to stop.")
+    print("Current CAPTURE_REGION:", CAPTURE_REGION)
+
+    use_global_hotkey = USE_GLOBAL_HOTKEY and keyboard is not None
+    use_enter_mode = READ_ON_ENTER_ONLY or not use_global_hotkey
+
+    if use_global_hotkey:
+        print(f'Global hotkey mode: press "{READ_HOTKEY}" anywhere to capture/read.')
+        print("Pressing the hotkey again interrupts current speech and restarts.")
+        print("If the hotkey does not trigger, enable Accessibility permission for Terminal/VS Code.")
+    elif use_enter_mode:
+        print("Enter fallback mode: focus this terminal and press Enter to capture/read.")
+        if USE_GLOBAL_HOTKEY and keyboard is None:
+            print("pynput is not installed, so global hotkey mode is unavailable.")
+    else:
+        print("Auto-scan mode is on.")
+
+    last_combined = ""
+    read_requested = False
+    latest_request_id = 0
+    active_audio = {"process": None}
+
+    def request_read():
+        nonlocal read_requested, latest_request_id
+
+        latest_request_id += 1
+        read_requested = True
+
+        if INTERRUPT_AND_RESTART_ON_HOTKEY:
+            proc = active_audio.get("process")
+            if proc is not None and proc.poll() is None:
+                try:
+                    proc.terminate()
+                except Exception:
+                    pass
+
+    def on_press(key):
+        try:
+            if key.char and key.char.lower() == READ_HOTKEY.lower():
+                request_read()
+        except AttributeError:
+            pass
+
+    listener = None
+
+    if use_global_hotkey:
+        listener = keyboard.Listener(on_press=on_press)
+        listener.start()
+
+    try:
+        while True:
+            if use_global_hotkey:
+                if not read_requested:
+                    time.sleep(0.03)
+                    continue
+
+                read_requested = False
+                current_request_id = latest_request_id
+
+            elif use_enter_mode:
+                print("\nFocus this terminal, then press Enter to read current page/region...", flush=True)
+                input()
+                latest_request_id += 1
+                current_request_id = latest_request_id
+
+            else:
+                latest_request_id += 1
+                current_request_id = latest_request_id
+
+            print("\nCapturing current screen region...")
+            original = capture_screen_region()
+
+            print("Running OCR...")
+            final_text = read_page_image(original)
+            combined = "\n\n".join(final_text).strip()
+
+            if INTERRUPT_AND_RESTART_ON_HOTKEY and current_request_id != latest_request_id:
+                print("\nNew hotkey detected during OCR. Discarding old result and restarting.")
+                continue
+
+            if not combined:
+                print("\nNo readable text detected in region.")
+
+                if not use_global_hotkey and not use_enter_mode:
+                    time.sleep(CAPTURE_INTERVAL_SECONDS)
+
+                continue
+
+            if SKIP_REPEATED_TEXT and combined == last_combined:
+                print("\nSame text as last capture. Skipping speech.")
+
+                if not use_global_hotkey and not use_enter_mode:
+                    time.sleep(CAPTURE_INTERVAL_SECONDS)
+
+                continue
+
+            print("\nDETECTED LIVE TEXT:")
+            print("================================")
+
+            for i, text in enumerate(final_text, start=1):
+                print(f"\n[{i}]")
+                print(text)
+
+            def should_cancel():
+                return (
+                    INTERRUPT_AND_RESTART_ON_HOTKEY
+                    and current_request_id != latest_request_id
+                )
+
+            was_interrupted = False
+
+            if SPEAK_COMBINED_TEXT:
+                speak(
+                    combined,
+                    should_cancel=should_cancel,
+                    process_holder=active_audio,
+                )
+                if should_cancel():
+                    was_interrupted = True
+            else:
+                for text in final_text:
+                    if should_cancel():
+                        was_interrupted = True
+                        break
+
+                    speak(
+                        text,
+                        should_cancel=should_cancel,
+                        process_holder=active_audio,
+                    )
+
+                    if should_cancel():
+                        was_interrupted = True
+                        break
+
+            if was_interrupted:
+                print("\nCurrent speech was interrupted. Restarting with newest screen.")
+                continue
+
+            last_combined = combined
+
+            print("\nFinished speaking current screen. Press hotkey again for the next one.")
+
+            if EXIT_AFTER_ONE_READ:
+                print("\nFinished one read. Exiting.")
+                break
+
+            if not use_global_hotkey and not use_enter_mode:
+                time.sleep(CAPTURE_INTERVAL_SECONDS)
+
+    except KeyboardInterrupt:
+        print("\nStopped live screen mode.")
+    finally:
+        proc = active_audio.get("process")
+        if proc is not None and proc.poll() is None:
+            try:
+                proc.terminate()
+            except Exception:
+                pass
+
+        if listener is not None:
+            listener.stop()
+
+
+# ==============================
+# MAIN
+# ==============================
+
+def main():
+    if CALIBRATE_REGION:
+        calibrate_region_helper()
+        return
+
+    if INPUT_MODE == "image":
+        run_image_mode()
+    elif INPUT_MODE == "screen":
+        run_screen_mode()
+    else:
+        print(f"Unknown INPUT_MODE: {INPUT_MODE}")
+        print('Use INPUT_MODE = "image" or INPUT_MODE = "screen"')
 
 
 if __name__ == "__main__":
