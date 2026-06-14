@@ -18,18 +18,17 @@ BAD_WORDS = {
 # These chunks are based on your current full manga-page screenshot.
 # Format: name, left %, top %, right %, bottom %
 CHUNKS = [
-    # top panel, right-to-left
-    ("top_right_rize",      0.78, 0.08, 1.00, 0.40),
-    ("top_middle_quote",   0.58, 0.08, 0.82, 0.40),
-    ("top_left_question",  0.05, 0.08, 0.35, 0.40),
+    # top panel, manga right-to-left
+    ("top_right_rize",      0.78, 0.09, 1.00, 0.40),
+    ("top_middle_quote",   0.60, 0.09, 0.82, 0.40),
+    ("top_left_question",  0.08, 0.09, 0.35, 0.40),
 
-    # middle row, right-to-left
-    ("middle_right",       0.55, 0.40, 1.00, 0.82),
-    ("middle_center",      0.42, 0.40, 0.56, 0.82),
-    ("middle_left",        0.02, 0.40, 0.43, 0.82),
+    # middle row, manga right-to-left
+    ("middle_right_kaneki", 0.50, 0.40, 1.00, 0.82),
+    ("middle_center_rize", 0.38, 0.40, 0.58, 0.82),
+    ("middle_left_funeral",0.02, 0.40, 0.44, 0.82),
 
-    # skip bottom title panel for now
-    # ("bottom_panel",     0.02, 0.80, 1.00, 1.00),
+    # keep bottom skipped for now
 ]
 
 def preprocess(img):
