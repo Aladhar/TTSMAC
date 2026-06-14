@@ -1,7 +1,7 @@
 from PIL import Image, ImageOps, ImageEnhance
 import pytesseract
 
-img_path = "/Users/YOUR_MAC_USERNAME/Desktop/test_manga.png"
+img_path = "image.png"
 
 img = Image.open(img_path)
 
