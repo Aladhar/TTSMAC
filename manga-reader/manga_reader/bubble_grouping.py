@@ -1,8 +1,11 @@
 from manga_reader.config import (
     BUBBLE_VERTICAL_GAP_THRESHOLD,
     BUBBLE_HORIZONTAL_PADDING,
+    BUBBLE_VERTICAL_OVERLAP_TOLERANCE,
 )
 from manga_reader.cleanup import clean_ocr_text, clean_tts_text
+from manga_reader.models import Bubble, OCRLine, as_ocr_line
+from typing import Union
 
 
 def boxes_have_horizontal_overlap_or_close(bbox_a, bbox_b, padding: float) -> bool:
@@ -24,7 +27,7 @@ def merge_bboxes(bbox_a, bbox_b):
     ]
 
 
-def group_text_lines_into_bubbles(ocr_items: list[dict]) -> list[dict]:
+def group_text_lines_into_bubbles(ocr_items: list[Union[OCRLine, dict]]) -> list[Bubble]:
     """
     Groups OCR text lines into rough speech bubbles / readable text blocks.
 
@@ -32,24 +35,29 @@ def group_text_lines_into_bubbles(ocr_items: list[dict]) -> list[dict]:
     Later we can improve it using bubble shape detection and panel detection.
     """
 
-    cleaned_items = []
+    cleaned_items: list[OCRLine] = []
 
     for item in ocr_items:
-        text = clean_ocr_text(item["text"])
+        line = as_ocr_line(item)
+        text = clean_ocr_text(line.text)
         if not text:
             continue
 
-        new_item = dict(item)
-        new_item["text"] = text
-        cleaned_items.append(new_item)
+        cleaned_items.append(OCRLine(
+            page=line.page,
+            text=text,
+            bbox=line.bbox,
+            confidence=line.confidence,
+            source=line.source,
+        ))
 
     # Sort by top y position first.
-    cleaned_items.sort(key=lambda item: item["bbox"][1])
+    cleaned_items.sort(key=lambda item: item.bbox[1])
 
     groups = []
 
     for item in cleaned_items:
-        bbox = item["bbox"]
+        bbox = item.bbox
         x1, y1, x2, y2 = bbox
 
         placed = False
@@ -59,7 +67,11 @@ def group_text_lines_into_bubbles(ocr_items: list[dict]) -> list[dict]:
 
             vertical_gap = y1 - gy2
 
-            vertical_close = -20 <= vertical_gap <= BUBBLE_VERTICAL_GAP_THRESHOLD
+            vertical_close = (
+                -BUBBLE_VERTICAL_OVERLAP_TOLERANCE
+                <= vertical_gap
+                <= BUBBLE_VERTICAL_GAP_THRESHOLD
+            )
             horizontal_close = boxes_have_horizontal_overlap_or_close(
                 bbox,
                 group["bbox"],
@@ -82,24 +94,24 @@ def group_text_lines_into_bubbles(ocr_items: list[dict]) -> list[dict]:
 
     for index, group in enumerate(groups):
         # Inside one bubble, lines should read top-to-bottom.
-        lines = sorted(group["items"], key=lambda item: item["bbox"][1])
+        lines = sorted(group["items"], key=lambda item: item.bbox[1])
 
-        text_display = "\n".join(line["text"] for line in lines)
+        text_display = "\n".join(line.text for line in lines)
         text_tts = clean_tts_text(text_display)
 
         if not text_tts:
             continue
 
-        avg_confidence = sum(line["confidence"] for line in lines) / len(lines)
+        avg_confidence = sum(line.confidence for line in lines) / len(lines)
 
-        bubbles.append({
-            "page": lines[0]["page"],
-            "index": index,
-            "text_display": text_display,
-            "text_tts": text_tts,
-            "bbox": group["bbox"],
-            "items": lines,
-            "confidence": avg_confidence,
-        })
+        bubbles.append(Bubble(
+            page=lines[0].page,
+            index=index,
+            text_display=text_display,
+            text_tts=text_tts,
+            bbox=group["bbox"],
+            items=lines,
+            confidence=avg_confidence,
+        ))
 
     return bubbles

@@ -1,23 +1,26 @@
 import argparse
 
+from manga_reader.cache import ensure_cache_dirs
+from manga_reader.debug_overlay import save_debug_overlay
 from manga_reader.pdf_renderer import render_page
 from manga_reader.ocr_engine import run_ocr
 from manga_reader.bubble_grouping import group_text_lines_into_bubbles
 from manga_reader.reading_order import sort_bubbles_manga_order
+from manga_reader.utils import require_existing_file
 
 
-def print_bubbles(bubbles: list[dict]):
+def print_bubbles(bubbles):
     if not bubbles:
         print("No readable text bubbles detected.")
         return
 
     for bubble in bubbles:
-        page_num = bubble["page"] + 1
-        index = bubble["index"]
+        page_num = bubble.page + 1
+        index = bubble.index
 
         print()
         print(f"[Page {page_num} - Bubble {index}]")
-        print(bubble["text_display"])
+        print(bubble.text_display)
 
 
 def main():
@@ -44,10 +47,18 @@ def main():
         help="Render zoom for OCR. Higher is sharper but slower."
     )
 
+    parser.add_argument(
+        "--debug",
+        action="store_true",
+        help="Save a debug overlay with OCR boxes, bubble boxes, and reading-order numbers."
+    )
+
     args = parser.parse_args()
+    ensure_cache_dirs()
+    pdf_path = require_existing_file(args.pdf)
 
     print(f"Rendering page {args.page}...")
-    page_data = render_page(args.pdf, args.page, args.zoom)
+    page_data = render_page(str(pdf_path), args.page, args.zoom)
 
     print(f"Saved page image: {page_data['image_path']}")
 
@@ -63,6 +74,15 @@ def main():
 
     print("Sorting bubbles in manga reading order...")
     ordered_bubbles = sort_bubbles_manga_order(bubbles)
+
+    if args.debug:
+        debug_path = save_debug_overlay(
+            page_data["image_path"],
+            ocr_items,
+            ordered_bubbles,
+            args.page,
+        )
+        print(f"Saved debug image: {debug_path}")
 
     print_bubbles(ordered_bubbles)
 

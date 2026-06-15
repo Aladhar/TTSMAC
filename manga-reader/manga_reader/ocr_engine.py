@@ -1,6 +1,7 @@
-from paddleocr import PaddleOCR
+import os
 
-from manga_reader.config import MIN_OCR_CONFIDENCE
+from manga_reader.config import MIN_OCR_CONFIDENCE, PADDLE_CACHE_DIR
+from manga_reader.models import OCRLine
 
 
 _ocr_instance = None
@@ -14,15 +15,32 @@ def get_ocr():
     global _ocr_instance
 
     if _ocr_instance is None:
+        PADDLE_CACHE_DIR.mkdir(parents=True, exist_ok=True)
+        os.environ.setdefault("PADDLE_PDX_CACHE_HOME", str(PADDLE_CACHE_DIR.resolve()))
+
+        from paddleocr import PaddleOCR
+
         _ocr_instance = PaddleOCR(
             use_angle_cls=True,
-            lang="en"
+            lang="en",
+            show_log=False,
         )
 
     return _ocr_instance
 
 
-def run_ocr(image_path: str, page_index: int) -> list[dict]:
+def _iter_paddle_lines(result):
+    if not result:
+        return
+
+    page_lines = result[0] if len(result) == 1 and isinstance(result[0], list) else result
+
+    for line in page_lines or []:
+        if line and len(line) >= 2:
+            yield line
+
+
+def run_ocr(image_path: str, page_index: int) -> list[OCRLine]:
     """
     Runs OCR on an image and returns OCR items with bounding boxes.
 
@@ -33,12 +51,9 @@ def run_ocr(image_path: str, page_index: int) -> list[dict]:
     ocr = get_ocr()
     result = ocr.ocr(image_path, cls=True)
 
-    items = []
+    items: list[OCRLine] = []
 
-    if not result or not result[0]:
-        return items
-
-    for line in result[0]:
+    for line in _iter_paddle_lines(result):
         points = line[0]
         text = line[1][0]
         confidence = float(line[1][1])
@@ -56,12 +71,12 @@ def run_ocr(image_path: str, page_index: int) -> list[dict]:
             float(max(ys)),
         ]
 
-        items.append({
-            "page": page_index,
-            "text": text,
-            "bbox": bbox,
-            "confidence": confidence,
-            "source": "paddleocr",
-        })
+        items.append(OCRLine(
+            page=page_index,
+            text=text,
+            bbox=bbox,
+            confidence=confidence,
+            source="paddleocr",
+        ))
 
     return items

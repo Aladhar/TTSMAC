@@ -18,29 +18,25 @@ def render_page(pdf_path: str, page_index: int, zoom: float = DEFAULT_RENDER_ZOO
     if not pdf_path.exists():
         raise FileNotFoundError(f"PDF not found: {pdf_path}")
 
-    doc = fitz.open(str(pdf_path))
+    with fitz.open(str(pdf_path)) as doc:
+        if page_index < 0 or page_index >= len(doc):
+            raise ValueError(f"Page index {page_index} is out of range. PDF has {len(doc)} pages.")
 
-    if page_index < 0 or page_index >= len(doc):
-        raise ValueError(f"Page index {page_index} is out of range. PDF has {len(doc)} pages.")
+        page = doc[page_index]
 
-    page = doc[page_index]
+        matrix = fitz.Matrix(zoom, zoom)
+        pix = page.get_pixmap(matrix=matrix, alpha=False)
 
-    matrix = fitz.Matrix(zoom, zoom)
-    pix = page.get_pixmap(matrix=matrix, alpha=False)
+        image_path = PAGE_CACHE_DIR / f"page_{page_index:04d}.png"
+        pix.save(str(image_path))
 
-    image_path = PAGE_CACHE_DIR / f"page_{page_index:04d}.png"
-    pix.save(str(image_path))
-
-    page_data = {
-        "pdf_path": str(pdf_path),
-        "page_index": page_index,
-        "image_path": str(image_path),
-        "pdf_width": float(page.rect.width),
-        "pdf_height": float(page.rect.height),
-        "image_width": pix.width,
-        "image_height": pix.height,
-        "zoom": zoom,
-    }
-
-    doc.close()
-    return page_data
+        return {
+            "pdf_path": str(pdf_path),
+            "page_index": page_index,
+            "image_path": str(image_path),
+            "pdf_width": float(page.rect.width),
+            "pdf_height": float(page.rect.height),
+            "image_width": pix.width,
+            "image_height": pix.height,
+            "zoom": zoom,
+        }

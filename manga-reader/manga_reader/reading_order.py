@@ -1,17 +1,21 @@
 from manga_reader.config import ROW_Y_THRESHOLD
+from manga_reader.models import Bubble, as_bubble
+from typing import Union
 
 
-def center_y(bubble: dict) -> float:
-    x1, y1, x2, y2 = bubble["bbox"]
+def center_y(bubble: Union[Bubble, dict]) -> float:
+    bubble = as_bubble(bubble)
+    x1, y1, x2, y2 = bubble.bbox
     return (y1 + y2) / 2
 
 
-def center_x(bubble: dict) -> float:
-    x1, y1, x2, y2 = bubble["bbox"]
+def center_x(bubble: Union[Bubble, dict]) -> float:
+    bubble = as_bubble(bubble)
+    x1, y1, x2, y2 = bubble.bbox
     return (x1 + x2) / 2
 
 
-def sort_bubbles_manga_order(bubbles: list[dict]) -> list[dict]:
+def sort_bubbles_manga_order(bubbles: list[Union[Bubble, dict]]) -> list[Bubble]:
     """
     Sort bubbles in manga order:
     rows top-to-bottom, then bubbles inside each row right-to-left.
@@ -19,6 +23,8 @@ def sort_bubbles_manga_order(bubbles: list[dict]) -> list[dict]:
 
     if not bubbles:
         return []
+
+    bubbles = [as_bubble(bubble) for bubble in bubbles]
 
     # First sort by vertical position.
     bubbles = sorted(bubbles, key=center_y)
@@ -58,6 +64,6 @@ def sort_bubbles_manga_order(bubbles: list[dict]) -> list[dict]:
 
     # Re-index final reading order.
     for i, bubble in enumerate(ordered, start=1):
-        bubble["index"] = i
+        bubble.index = i
 
     return ordered

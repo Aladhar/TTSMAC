@@ -16,12 +16,16 @@ def clean_ocr_text(text: str) -> str:
         "|": "I",
         "ﬁ": "fi",
         "ﬂ": "fl",
+        "“": '"',
+        "”": '"',
+        "‘": "'",
+        "’": "'",
     }
 
     for wrong, right in fixes.items():
         text = text.replace(wrong, right)
 
-    # Remove weird repeated whitespace.
+    text = re.sub(r"([A-Za-z])-\s+([A-Za-z])", r"\1\2", text)
     text = re.sub(r"\s+", " ", text)
 
     return text.strip()

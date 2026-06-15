@@ -3,6 +3,7 @@ from pathlib import Path
 CACHE_DIR = Path("cache")
 PAGE_CACHE_DIR = CACHE_DIR / "pages"
 DETECTION_CACHE_DIR = CACHE_DIR / "detections"
+PADDLE_CACHE_DIR = CACHE_DIR / "paddle"
 DEBUG_DIR = Path("debug")
 
 DEFAULT_RENDER_ZOOM = 2.5
@@ -14,6 +15,7 @@ READING_MODE = "manga_rtl"
 # Used for grouping OCR text lines into bubbles.
 BUBBLE_VERTICAL_GAP_THRESHOLD = 55
 BUBBLE_HORIZONTAL_PADDING = 120
+BUBBLE_VERTICAL_OVERLAP_TOLERANCE = 5
 
 # Used for row grouping in manga reading order.
 ROW_Y_THRESHOLD = 90
