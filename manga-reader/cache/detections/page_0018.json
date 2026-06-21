@@ -1,0 +1,793 @@
+{
+  "page_data": {
+    "pdf_path": "Manga/Tokyo Ghoul Volume 1.pdf",
+    "page_index": 18,
+    "image_path": "cache/pages/page_0018.png",
+    "pdf_width": 1115.0,
+    "pdf_height": 1600.0,
+    "image_width": 2788,
+    "image_height": 4000,
+    "zoom": 2.5
+  },
+  "ocr_items": [
+    {
+      "page": 18,
+      "text": ".DROPPED",
+      "bbox": [
+        2111.0,
+        558.0,
+        2420.0,
+        638.0
+      ],
+      "confidence": 0.9920710325241089,
+      "source": "paddleocr"
+    },
+    {
+      "page": 18,
+      "text": "That",
+      "bbox": [
+        1518.0,
+        600.0,
+        1626.0,
+        663.0
+      ],
+      "confidence": 0.9707070589065552,
+      "source": "paddleocr"
+    },
+    {
+      "page": 18,
+      "text": "THEBOOK",
+      "bbox": [
+        2103.0,
+        642.0,
+        2402.0,
+        700.0
+      ],
+      "confidence": 0.9911341071128845,
+      "source": "paddleocr"
+    },
+    {
+      "page": 18,
+      "text": "one's",
+      "bbox": [
+        1504.0,
+        665.0,
+        1645.0,
+        735.0
+      ],
+      "confidence": 0.9556986093521118,
+      "source": "paddleocr"
+    },
+    {
+      "page": 18,
+      "text": "AT THE",
+      "bbox": [
+        2137.0,
+        712.0,
+        2361.0,
+        788.0
+      ],
+      "confidence": 0.932050883769989,
+      "source": "paddleocr"
+    },
+    {
+      "page": 18,
+      "text": "good",
+      "bbox": [
+        1515.0,
+        726.0,
+        1648.0,
+        812.0
+      ],
+      "confidence": 0.9969506859779358,
+      "source": "paddleocr"
+    },
+    {
+      "page": 18,
+      "text": "PERFECT",
+      "bbox": [
+        2120.0,
+        792.0,
+        2386.0,
+        850.0
+      ],
+      "confidence": 0.9939128756523132,
+      "source": "paddleocr"
+    },
+    {
+      "page": 18,
+      "text": "too!",
+      "bbox": [
+        1539.0,
+        808.0,
+        1635.0,
+        858.0
+      ],
+      "confidence": 0.8291470408439636,
+      "source": "paddleocr"
+    },
+    {
+      "page": 18,
+      "text": "MOMENT!!",
+      "bbox": [
+        2094.0,
+        853.0,
+        2407.0,
+        934.0
+      ],
+      "confidence": 0.9681547284126282,
+      "source": "paddleocr"
+    },
+    {
+      "page": 18,
+      "text": "H",
+      "bbox": [
+        975.0,
+        2729.0,
+        1000.0,
+        2767.0
+      ],
+      "confidence": 0.6693581938743591,
+      "source": "paddleocr"
+    },
+    {
+      "page": 18,
+      "text": "GUESS",
+      "bbox": [
+        896.0,
+        2771.0,
+        1066.0,
+        2833.0
+      ],
+      "confidence": 0.9933711886405945,
+      "source": "paddleocr"
+    },
+    {
+      "page": 18,
+      "text": "NO",
+      "bbox": [
+        2348.0,
+        2775.0,
+        2456.0,
+        2842.0
+      ],
+      "confidence": 0.9969850778579712,
+      "source": "paddleocr"
+    },
+    {
+      "page": 18,
+      "text": "MIZUO",
+      "bbox": [
+        1626.0,
+        2828.0,
+        1694.0,
+        3063.0
+      ],
+      "confidence": 0.9634235501289368,
+      "source": "paddleocr"
+    },
+    {
+      "page": 18,
+      "text": "EVERY-",
+      "bbox": [
+        896.0,
+        2838.0,
+        1058.0,
+        2883.0
+      ],
+      "confidence": 0.9673216342926025,
+      "source": "paddleocr"
+    },
+    {
+      "page": 18,
+      "text": "WAY...",
+      "bbox": [
+        2303.0,
+        2850.0,
+        2489.0,
+        2929.0
+      ],
+      "confidence": 0.9748067259788513,
+      "source": "paddleocr"
+    },
+    {
+      "page": 18,
+      "text": "BODY",
+      "bbox": [
+        909.0,
+        2888.0,
+        1050.0,
+        2946.0
+      ],
+      "confidence": 0.9869160652160645,
+      "source": "paddleocr"
+    },
+    {
+      "page": 18,
+      "text": "GETS",
+      "bbox": [
+        913.0,
+        2946.0,
+        1050.0,
+        3004.0
+      ],
+      "confidence": 0.9801492691040039,
+      "source": "paddleocr"
+    },
+    {
+      "page": 18,
+      "text": "AND",
+      "bbox": [
+        2087.0,
+        2938.0,
+        2211.0,
+        3004.0
+      ],
+      "confidence": 0.9983523488044739,
+      "source": "paddleocr"
+    },
+    {
+      "page": 18,
+      "text": "LUCKY",
+      "bbox": [
+        904.0,
+        3000.0,
+        1054.0,
+        3058.0
+      ],
+      "confidence": 0.9878666996955872,
+      "source": "paddleocr"
+    },
+    {
+      "page": 18,
+      "text": "sO YOU",
+      "bbox": [
+        2037.0,
+        3008.0,
+        2265.0,
+        3067.0
+      ],
+      "confidence": 0.6089432835578918,
+      "source": "paddleocr"
+    },
+    {
+      "page": 18,
+      "text": "ONCE",
+      "bbox": [
+        909.0,
+        3058.0,
+        1050.0,
+        3117.0
+      ],
+      "confidence": 0.9976704716682434,
+      "source": "paddleocr"
+    },
+    {
+      "page": 18,
+      "text": "GUYS ARE",
+      "bbox": [
+        2004.0,
+        3071.0,
+        2298.0,
+        3142.0
+      ],
+      "confidence": 0.9477942585945129,
+      "source": "paddleocr"
+    },
+    {
+      "page": 18,
+      "text": "INA",
+      "bbox": [
+        933.0,
+        3121.0,
+        1037.0,
+        3171.0
+      ],
+      "confidence": 0.9944148063659668,
+      "source": "paddleocr"
+    },
+    {
+      "page": 18,
+      "text": "GOING",
+      "bbox": [
+        2054.0,
+        3146.0,
+        2249.0,
+        3204.0
+      ],
+      "confidence": 0.9708126783370972,
+      "source": "paddleocr"
+    },
+    {
+      "page": 18,
+      "text": "WHILE.",
+      "bbox": [
+        900.0,
+        3171.0,
+        1058.0,
+        3229.0
+      ],
+      "confidence": 0.9933895468711853,
+      "source": "paddleocr"
+    },
+    {
+      "page": 18,
+      "text": "OUT ON",
+      "bbox": [
+        2037.0,
+        3208.0,
+        2265.0,
+        3279.0
+      ],
+      "confidence": 0.955217182636261,
+      "source": "paddleocr"
+    },
+    {
+      "page": 18,
+      "text": "A DATE?",
+      "bbox": [
+        2033.0,
+        3283.0,
+        2261.0,
+        3342.0
+      ],
+      "confidence": 0.8930075764656067,
+      "source": "paddleocr"
+    },
+    {
+      "page": 18,
+      "text": "19",
+      "bbox": [
+        216.0,
+        3733.0,
+        282.0,
+        3783.0
+      ],
+      "confidence": 0.9987593293190002,
+      "source": "paddleocr"
+    }
+  ],
+  "bubbles": [
+    {
+      "page": 18,
+      "index": 1,
+      "text_display": ".DROPPED\nTHEBOOK\nAT THE\nPERFECT\nMOMENT!!",
+      "text_tts": ".DROPPED THEBOOK AT THE PERFECT MOMENT!!",
+      "bbox": [
+        2094.0,
+        558.0,
+        2420.0,
+        934.0
+      ],
+      "items": [
+        {
+          "page": 18,
+          "text": ".DROPPED",
+          "bbox": [
+            2111.0,
+            558.0,
+            2420.0,
+            638.0
+          ],
+          "confidence": 0.9920710325241089,
+          "source": "paddleocr"
+        },
+        {
+          "page": 18,
+          "text": "THEBOOK",
+          "bbox": [
+            2103.0,
+            642.0,
+            2402.0,
+            700.0
+          ],
+          "confidence": 0.9911341071128845,
+          "source": "paddleocr"
+        },
+        {
+          "page": 18,
+          "text": "AT THE",
+          "bbox": [
+            2137.0,
+            712.0,
+            2361.0,
+            788.0
+          ],
+          "confidence": 0.932050883769989,
+          "source": "paddleocr"
+        },
+        {
+          "page": 18,
+          "text": "PERFECT",
+          "bbox": [
+            2120.0,
+            792.0,
+            2386.0,
+            850.0
+          ],
+          "confidence": 0.9939128756523132,
+          "source": "paddleocr"
+        },
+        {
+          "page": 18,
+          "text": "MOMENT!!",
+          "bbox": [
+            2094.0,
+            853.0,
+            2407.0,
+            934.0
+          ],
+          "confidence": 0.9681547284126282,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9754647254943848
+    },
+    {
+      "page": 18,
+      "index": 2,
+      "text_display": "good\ntoo!",
+      "text_tts": "good too!",
+      "bbox": [
+        1515.0,
+        726.0,
+        1648.0,
+        858.0
+      ],
+      "items": [
+        {
+          "page": 18,
+          "text": "good",
+          "bbox": [
+            1515.0,
+            726.0,
+            1648.0,
+            812.0
+          ],
+          "confidence": 0.9969506859779358,
+          "source": "paddleocr"
+        },
+        {
+          "page": 18,
+          "text": "too!",
+          "bbox": [
+            1539.0,
+            808.0,
+            1635.0,
+            858.0
+          ],
+          "confidence": 0.8291470408439636,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9130488634109497
+    },
+    {
+      "page": 18,
+      "index": 3,
+      "text_display": "That\none's",
+      "text_tts": "That one's",
+      "bbox": [
+        1504.0,
+        600.0,
+        1645.0,
+        735.0
+      ],
+      "items": [
+        {
+          "page": 18,
+          "text": "That",
+          "bbox": [
+            1518.0,
+            600.0,
+            1626.0,
+            663.0
+          ],
+          "confidence": 0.9707070589065552,
+          "source": "paddleocr"
+        },
+        {
+          "page": 18,
+          "text": "one's",
+          "bbox": [
+            1504.0,
+            665.0,
+            1645.0,
+            735.0
+          ],
+          "confidence": 0.9556986093521118,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9632028341293335
+    },
+    {
+      "page": 18,
+      "index": 4,
+      "text_display": "MIZUO",
+      "text_tts": "MIZUO",
+      "bbox": [
+        1626.0,
+        2828.0,
+        1694.0,
+        3063.0
+      ],
+      "items": [
+        {
+          "page": 18,
+          "text": "MIZUO",
+          "bbox": [
+            1626.0,
+            2828.0,
+            1694.0,
+            3063.0
+          ],
+          "confidence": 0.9634235501289368,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9634235501289368
+    },
+    {
+      "page": 18,
+      "index": 5,
+      "text_display": "H\nGUESS\nEVERY-\nBODY\nGETS\nLUCKY\nONCE\nINA\nWHILE.",
+      "text_tts": "H GUESS EVERY- BODY GETS LUCKY ONCE INA WHILE.",
+      "bbox": [
+        896.0,
+        2729.0,
+        1066.0,
+        3229.0
+      ],
+      "items": [
+        {
+          "page": 18,
+          "text": "H",
+          "bbox": [
+            975.0,
+            2729.0,
+            1000.0,
+            2767.0
+          ],
+          "confidence": 0.6693581938743591,
+          "source": "paddleocr"
+        },
+        {
+          "page": 18,
+          "text": "GUESS",
+          "bbox": [
+            896.0,
+            2771.0,
+            1066.0,
+            2833.0
+          ],
+          "confidence": 0.9933711886405945,
+          "source": "paddleocr"
+        },
+        {
+          "page": 18,
+          "text": "EVERY-",
+          "bbox": [
+            896.0,
+            2838.0,
+            1058.0,
+            2883.0
+          ],
+          "confidence": 0.9673216342926025,
+          "source": "paddleocr"
+        },
+        {
+          "page": 18,
+          "text": "BODY",
+          "bbox": [
+            909.0,
+            2888.0,
+            1050.0,
+            2946.0
+          ],
+          "confidence": 0.9869160652160645,
+          "source": "paddleocr"
+        },
+        {
+          "page": 18,
+          "text": "GETS",
+          "bbox": [
+            913.0,
+            2946.0,
+            1050.0,
+            3004.0
+          ],
+          "confidence": 0.9801492691040039,
+          "source": "paddleocr"
+        },
+        {
+          "page": 18,
+          "text": "LUCKY",
+          "bbox": [
+            904.0,
+            3000.0,
+            1054.0,
+            3058.0
+          ],
+          "confidence": 0.9878666996955872,
+          "source": "paddleocr"
+        },
+        {
+          "page": 18,
+          "text": "ONCE",
+          "bbox": [
+            909.0,
+            3058.0,
+            1050.0,
+            3117.0
+          ],
+          "confidence": 0.9976704716682434,
+          "source": "paddleocr"
+        },
+        {
+          "page": 18,
+          "text": "INA",
+          "bbox": [
+            933.0,
+            3121.0,
+            1037.0,
+            3171.0
+          ],
+          "confidence": 0.9944148063659668,
+          "source": "paddleocr"
+        },
+        {
+          "page": 18,
+          "text": "WHILE.",
+          "bbox": [
+            900.0,
+            3171.0,
+            1058.0,
+            3229.0
+          ],
+          "confidence": 0.9933895468711853,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9522730973031786
+    },
+    {
+      "page": 18,
+      "index": 6,
+      "text_display": "NO\nWAY...\nAND\nsO YOU\nGUYS ARE\nGOING\nOUT ON\nA DATE?",
+      "text_tts": "NO WAY... AND sO YOU GUYS ARE GOING OUT ON A DATE?",
+      "bbox": [
+        2004.0,
+        2775.0,
+        2489.0,
+        3342.0
+      ],
+      "items": [
+        {
+          "page": 18,
+          "text": "NO",
+          "bbox": [
+            2348.0,
+            2775.0,
+            2456.0,
+            2842.0
+          ],
+          "confidence": 0.9969850778579712,
+          "source": "paddleocr"
+        },
+        {
+          "page": 18,
+          "text": "WAY...",
+          "bbox": [
+            2303.0,
+            2850.0,
+            2489.0,
+            2929.0
+          ],
+          "confidence": 0.9748067259788513,
+          "source": "paddleocr"
+        },
+        {
+          "page": 18,
+          "text": "AND",
+          "bbox": [
+            2087.0,
+            2938.0,
+            2211.0,
+            3004.0
+          ],
+          "confidence": 0.9983523488044739,
+          "source": "paddleocr"
+        },
+        {
+          "page": 18,
+          "text": "sO YOU",
+          "bbox": [
+            2037.0,
+            3008.0,
+            2265.0,
+            3067.0
+          ],
+          "confidence": 0.6089432835578918,
+          "source": "paddleocr"
+        },
+        {
+          "page": 18,
+          "text": "GUYS ARE",
+          "bbox": [
+            2004.0,
+            3071.0,
+            2298.0,
+            3142.0
+          ],
+          "confidence": 0.9477942585945129,
+          "source": "paddleocr"
+        },
+        {
+          "page": 18,
+          "text": "GOING",
+          "bbox": [
+            2054.0,
+            3146.0,
+            2249.0,
+            3204.0
+          ],
+          "confidence": 0.9708126783370972,
+          "source": "paddleocr"
+        },
+        {
+          "page": 18,
+          "text": "OUT ON",
+          "bbox": [
+            2037.0,
+            3208.0,
+            2265.0,
+            3279.0
+          ],
+          "confidence": 0.955217182636261,
+          "source": "paddleocr"
+        },
+        {
+          "page": 18,
+          "text": "A DATE?",
+          "bbox": [
+            2033.0,
+            3283.0,
+            2261.0,
+            3342.0
+          ],
+          "confidence": 0.8930075764656067,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9182398915290833
+    },
+    {
+      "page": 18,
+      "index": 7,
+      "text_display": "19",
+      "text_tts": "19",
+      "bbox": [
+        216.0,
+        3733.0,
+        282.0,
+        3783.0
+      ],
+      "items": [
+        {
+          "page": 18,
+          "text": "19",
+          "bbox": [
+            216.0,
+            3733.0,
+            282.0,
+            3783.0
+          ],
+          "confidence": 0.9987593293190002,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9987593293190002
+    }
+  ]
+}

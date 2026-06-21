@@ -1,0 +1,1612 @@
+{
+  "page_data": {
+    "pdf_path": "Manga/Tokyo Ghoul Volume 1.pdf",
+    "page_index": 6,
+    "image_path": "cache/pages/page_0006.png",
+    "pdf_width": 1115.0,
+    "pdf_height": 1600.0,
+    "image_width": 2788,
+    "image_height": 4000,
+    "zoom": 2.5
+  },
+  "ocr_items": [
+    {
+      "page": 6,
+      "text": "THE",
+      "bbox": [
+        2290.0,
+        358.0,
+        2402.0,
+        421.0
+      ],
+      "confidence": 0.9984567761421204,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "REMAINS",
+      "bbox": [
+        2228.0,
+        425.0,
+        2473.0,
+        483.0
+      ],
+      "confidence": 0.9974881410598755,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "OFAMAN'S",
+      "bbox": [
+        2191.0,
+        492.0,
+        2502.0,
+        550.0
+      ],
+      "confidence": 0.937014639377594,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "BODY WERE",
+      "bbox": [
+        2177.0,
+        541.0,
+        2502.0,
+        621.0
+      ],
+      "confidence": 0.9205977320671082,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "BODY",
+      "bbox": [
+        714.0,
+        604.0,
+        880.0,
+        667.0
+      ],
+      "confidence": 0.9910291433334351,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "FOUND ON",
+      "bbox": [
+        2203.0,
+        621.0,
+        2489.0,
+        679.0
+      ],
+      "confidence": 0.9324508905410767,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "FLUID",
+      "bbox": [
+        714.0,
+        675.0,
+        875.0,
+        738.0
+      ],
+      "confidence": 0.994646430015564,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "TAKADA",
+      "bbox": [
+        2249.0,
+        683.0,
+        2448.0,
+        746.0
+      ],
+      "confidence": 0.9975726008415222,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "BELIEVED",
+      "bbox": [
+        656.0,
+        742.0,
+        938.0,
+        812.0
+      ],
+      "confidence": 0.9939943552017212,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "BUILDING",
+      "bbox": [
+        2220.0,
+        750.0,
+        2473.0,
+        808.0
+      ],
+      "confidence": 0.9933142066001892,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "TO HAVE",
+      "bbox": [
+        672.0,
+        804.0,
+        922.0,
+        884.0
+      ],
+      "confidence": 0.9384873509407043,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "STREET ON",
+      "bbox": [
+        2195.0,
+        812.0,
+        2502.0,
+        871.0
+      ],
+      "confidence": 0.937842607498169,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "COME",
+      "bbox": [
+        709.0,
+        883.0,
+        888.0,
+        946.0
+      ],
+      "confidence": 0.9979636669158936,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "THE28TH.",
+      "bbox": [
+        2207.0,
+        879.0,
+        2481.0,
+        938.0
+      ],
+      "confidence": 0.9808618426322937,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "FROMA",
+      "bbox": [
+        680.0,
+        950.0,
+        913.0,
+        1021.0
+      ],
+      "confidence": 0.9968277812004089,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "GHOUL",
+      "bbox": [
+        697.0,
+        1021.0,
+        892.0,
+        1083.0
+      ],
+      "confidence": 0.9970864057540894,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "THE",
+      "bbox": [
+        394.0,
+        1071.0,
+        514.0,
+        1138.0
+      ],
+      "confidence": 0.9983375668525696,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "WAS FOUND",
+      "bbox": [
+        626.0,
+        1078.0,
+        963.0,
+        1159.0
+      ],
+      "confidence": 0.9681122899055481,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "AUTHORI-",
+      "bbox": [
+        307.0,
+        1142.0,
+        589.0,
+        1212.0
+      ],
+      "confidence": 0.9925127029418945,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "AT THE",
+      "bbox": [
+        693.0,
+        1158.0,
+        896.0,
+        1221.0
+      ],
+      "confidence": 0.9216774106025696,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "TIES HAVE",
+      "bbox": [
+        307.0,
+        1217.0,
+        606.0,
+        1288.0
+      ],
+      "confidence": 0.9543362855911255,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "SCENE.",
+      "bbox": [
+        689.0,
+        1225.0,
+        892.0,
+        1288.0
+      ],
+      "confidence": 0.9675621390342712,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "3F7",
+      "bbox": [
+        29.0,
+        1263.0,
+        137.0,
+        1308.0
+      ],
+      "confidence": 0.7649007439613342,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "BEGUN",
+      "bbox": [
+        340.0,
+        1288.0,
+        564.0,
+        1358.0
+      ],
+      "confidence": 0.9938217401504517,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "INVESTI-",
+      "bbox": [
+        319.0,
+        1358.0,
+        577.0,
+        1429.0
+      ],
+      "confidence": 0.9874353408813477,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "GATING",
+      "bbox": [
+        340.0,
+        1433.0,
+        573.0,
+        1504.0
+      ],
+      "confidence": 0.9960824847221375,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "THIS AS",
+      "bbox": [
+        340.0,
+        1504.0,
+        577.0,
+        1575.0
+      ],
+      "confidence": 0.9551281929016113,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "A GHOUL",
+      "bbox": [
+        315.0,
+        1575.0,
+        581.0,
+        1650.0
+      ],
+      "confidence": 0.9531489014625549,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "ATTACK.",
+      "bbox": [
+        324.0,
+        1650.0,
+        573.0,
+        1721.0
+      ],
+      "confidence": 0.9896267056465149,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "THE",
+      "bbox": [
+        2323.0,
+        2142.0,
+        2427.0,
+        2204.0
+      ],
+      "confidence": 0.9985883235931396,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "HORRIFIC",
+      "bbox": [
+        2269.0,
+        2200.0,
+        2481.0,
+        2258.0
+      ],
+      "confidence": 0.9964377880096436,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "GHOULS",
+      "bbox": [
+        2274.0,
+        2254.0,
+        2477.0,
+        2312.0
+      ],
+      "confidence": 0.9966760277748108,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "HAUNTING",
+      "bbox": [
+        2252.0,
+        2308.0,
+        2494.0,
+        2376.0
+      ],
+      "confidence": 0.9954660534858704,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "THE",
+      "bbox": [
+        2327.0,
+        2375.0,
+        2423.0,
+        2425.0
+      ],
+      "confidence": 0.9978964924812317,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "STREETS",
+      "bbox": [
+        2265.0,
+        2433.0,
+        2485.0,
+        2479.0
+      ],
+      "confidence": 0.9923188090324402,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "OF TOKYO...",
+      "bbox": [
+        2228.0,
+        2483.0,
+        2510.0,
+        2542.0
+      ],
+      "confidence": 0.9404520392417908,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "DAMN...",
+      "bbox": [
+        266.0,
+        2504.0,
+        469.0,
+        2562.0
+      ],
+      "confidence": 0.9380865097045898,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "WHAT",
+      "bbox": [
+        2307.0,
+        2542.0,
+        2448.0,
+        2600.0
+      ],
+      "confidence": 0.9974798560142517,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "THE TAKADA",
+      "bbox": [
+        207.0,
+        2567.0,
+        535.0,
+        2625.0
+      ],
+      "confidence": 0.961295485496521,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "EXACTLY",
+      "bbox": [
+        2274.0,
+        2604.0,
+        2477.0,
+        2650.0
+      ],
+      "confidence": 0.9905955195426941,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "BUILDING",
+      "bbox": [
+        241.0,
+        2637.0,
+        502.0,
+        2696.0
+      ],
+      "confidence": 0.9899001121520996,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "ARE THEY?",
+      "bbox": [
+        2253.0,
+        2658.0,
+        2502.0,
+        2704.0
+      ],
+      "confidence": 0.9151942133903503,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "ISN'T THAT",
+      "bbox": [
+        228.0,
+        2708.0,
+        519.0,
+        2767.0
+      ],
+      "confidence": 0.9078757166862488,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "TO",
+      "bbox": [
+        2170.0,
+        2763.0,
+        2240.0,
+        2812.0
+      ],
+      "confidence": 0.9961942434310913,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "FAR FROM",
+      "bbox": [
+        236.0,
+        2783.0,
+        514.0,
+        2829.0
+      ],
+      "confidence": 0.937785267829895,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "ANSWER",
+      "bbox": [
+        2098.0,
+        2807.0,
+        2304.0,
+        2876.0
+      ],
+      "confidence": 0.996635913848877,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "HERE.",
+      "bbox": [
+        286.0,
+        2846.0,
+        461.0,
+        2908.0
+      ],
+      "confidence": 0.9927765130996704,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "THAT",
+      "bbox": [
+        2153.0,
+        2871.0,
+        2257.0,
+        2921.0
+      ],
+      "confidence": 0.9984685182571411,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "OUR",
+      "bbox": [
+        2153.0,
+        2975.0,
+        2257.0,
+        3025.0
+      ],
+      "confidence": 0.9935509562492371,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "OOH.",
+      "bbox": [
+        1539.0,
+        3029.0,
+        1701.0,
+        3108.0
+      ],
+      "confidence": 0.9892702102661133,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "GUEST",
+      "bbox": [
+        2124.0,
+        3025.0,
+        2286.0,
+        3083.0
+      ],
+      "confidence": 0.9956508874893188,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "TODAY IS",
+      "bbox": [
+        2103.0,
+        3075.0,
+        2303.0,
+        3133.0
+      ],
+      "confidence": 0.9260528087615967,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "GHOUL",
+      "bbox": [
+        2128.0,
+        3138.0,
+        2274.0,
+        3183.0
+      ],
+      "confidence": 0.9964274168014526,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "RESEARCHER",
+      "bbox": [
+        2062.0,
+        3183.0,
+        2344.0,
+        3234.0
+      ],
+      "confidence": 0.9958409070968628,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "DR.OGURA",
+      "bbox": [
+        2079.0,
+        3242.0,
+        2315.0,
+        3287.0
+      ],
+      "confidence": 0.9784395694732666,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "CHECK",
+      "bbox": [
+        1377.0,
+        3279.0,
+        1589.0,
+        3346.0
+      ],
+      "confidence": 0.9965737462043762,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "OUT THIS",
+      "bbox": [
+        1336.0,
+        3350.0,
+        1626.0,
+        3421.0
+      ],
+      "confidence": 0.9426266551017761,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "SKETCHY",
+      "bbox": [
+        1336.0,
+        3425.0,
+        1622.0,
+        3500.0
+      ],
+      "confidence": 0.9889447093009949,
+      "source": "paddleocr"
+    },
+    {
+      "page": 6,
+      "text": "DUDE.",
+      "bbox": [
+        1372.0,
+        3495.0,
+        1578.0,
+        3580.0
+      ],
+      "confidence": 0.9924746751785278,
+      "source": "paddleocr"
+    }
+  ],
+  "bubbles": [
+    {
+      "page": 6,
+      "index": 1,
+      "text_display": "THE\nREMAINS\nOFAMAN'S",
+      "text_tts": "THE REMAINS OFAMAN'S",
+      "bbox": [
+        2191.0,
+        358.0,
+        2502.0,
+        550.0
+      ],
+      "items": [
+        {
+          "page": 6,
+          "text": "THE",
+          "bbox": [
+            2290.0,
+            358.0,
+            2402.0,
+            421.0
+          ],
+          "confidence": 0.9984567761421204,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "REMAINS",
+          "bbox": [
+            2228.0,
+            425.0,
+            2473.0,
+            483.0
+          ],
+          "confidence": 0.9974881410598755,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "OFAMAN'S",
+          "bbox": [
+            2191.0,
+            492.0,
+            2502.0,
+            550.0
+          ],
+          "confidence": 0.937014639377594,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9776531855265299
+    },
+    {
+      "page": 6,
+      "index": 2,
+      "text_display": "BODY WERE\nFOUND ON\nTAKADA\nBUILDING\nSTREET ON\nTHE28TH.",
+      "text_tts": "BODY WERE FOUND ON TAKADA BUILDING STREET ON THE28TH.",
+      "bbox": [
+        2177.0,
+        541.0,
+        2502.0,
+        938.0
+      ],
+      "items": [
+        {
+          "page": 6,
+          "text": "BODY WERE",
+          "bbox": [
+            2177.0,
+            541.0,
+            2502.0,
+            621.0
+          ],
+          "confidence": 0.9205977320671082,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "FOUND ON",
+          "bbox": [
+            2203.0,
+            621.0,
+            2489.0,
+            679.0
+          ],
+          "confidence": 0.9324508905410767,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "TAKADA",
+          "bbox": [
+            2249.0,
+            683.0,
+            2448.0,
+            746.0
+          ],
+          "confidence": 0.9975726008415222,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "BUILDING",
+          "bbox": [
+            2220.0,
+            750.0,
+            2473.0,
+            808.0
+          ],
+          "confidence": 0.9933142066001892,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "STREET ON",
+          "bbox": [
+            2195.0,
+            812.0,
+            2502.0,
+            871.0
+          ],
+          "confidence": 0.937842607498169,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "THE28TH.",
+          "bbox": [
+            2207.0,
+            879.0,
+            2481.0,
+            938.0
+          ],
+          "confidence": 0.9808618426322937,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9604399800300598
+    },
+    {
+      "page": 6,
+      "index": 3,
+      "text_display": "BODY\nFLUID\nBELIEVED",
+      "text_tts": "BODY FLUID BELIEVED",
+      "bbox": [
+        656.0,
+        604.0,
+        938.0,
+        812.0
+      ],
+      "items": [
+        {
+          "page": 6,
+          "text": "BODY",
+          "bbox": [
+            714.0,
+            604.0,
+            880.0,
+            667.0
+          ],
+          "confidence": 0.9910291433334351,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "FLUID",
+          "bbox": [
+            714.0,
+            675.0,
+            875.0,
+            738.0
+          ],
+          "confidence": 0.994646430015564,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "BELIEVED",
+          "bbox": [
+            656.0,
+            742.0,
+            938.0,
+            812.0
+          ],
+          "confidence": 0.9939943552017212,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9932233095169067
+    },
+    {
+      "page": 6,
+      "index": 4,
+      "text_display": "TO HAVE\nCOME\nFROMA\nGHOUL\nWAS FOUND\nAT THE\nTIES HAVE\nBEGUN\nINVESTI-\nGATING\nTHIS AS\nA GHOUL\nATTACK.",
+      "text_tts": "TO HAVE COME FROMA GHOUL WAS FOUND AT THE TIES HAVE BEGUN INVESTI- GATING THIS AS A GHOUL ATTACK.",
+      "bbox": [
+        307.0,
+        804.0,
+        963.0,
+        1721.0
+      ],
+      "items": [
+        {
+          "page": 6,
+          "text": "TO HAVE",
+          "bbox": [
+            672.0,
+            804.0,
+            922.0,
+            884.0
+          ],
+          "confidence": 0.9384873509407043,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "COME",
+          "bbox": [
+            709.0,
+            883.0,
+            888.0,
+            946.0
+          ],
+          "confidence": 0.9979636669158936,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "FROMA",
+          "bbox": [
+            680.0,
+            950.0,
+            913.0,
+            1021.0
+          ],
+          "confidence": 0.9968277812004089,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "GHOUL",
+          "bbox": [
+            697.0,
+            1021.0,
+            892.0,
+            1083.0
+          ],
+          "confidence": 0.9970864057540894,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "WAS FOUND",
+          "bbox": [
+            626.0,
+            1078.0,
+            963.0,
+            1159.0
+          ],
+          "confidence": 0.9681122899055481,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "AT THE",
+          "bbox": [
+            693.0,
+            1158.0,
+            896.0,
+            1221.0
+          ],
+          "confidence": 0.9216774106025696,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "TIES HAVE",
+          "bbox": [
+            307.0,
+            1217.0,
+            606.0,
+            1288.0
+          ],
+          "confidence": 0.9543362855911255,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "BEGUN",
+          "bbox": [
+            340.0,
+            1288.0,
+            564.0,
+            1358.0
+          ],
+          "confidence": 0.9938217401504517,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "INVESTI-",
+          "bbox": [
+            319.0,
+            1358.0,
+            577.0,
+            1429.0
+          ],
+          "confidence": 0.9874353408813477,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "GATING",
+          "bbox": [
+            340.0,
+            1433.0,
+            573.0,
+            1504.0
+          ],
+          "confidence": 0.9960824847221375,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "THIS AS",
+          "bbox": [
+            340.0,
+            1504.0,
+            577.0,
+            1575.0
+          ],
+          "confidence": 0.9551281929016113,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "A GHOUL",
+          "bbox": [
+            315.0,
+            1575.0,
+            581.0,
+            1650.0
+          ],
+          "confidence": 0.9531489014625549,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "ATTACK.",
+          "bbox": [
+            324.0,
+            1650.0,
+            573.0,
+            1721.0
+          ],
+          "confidence": 0.9896267056465149,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9730565043596121
+    },
+    {
+      "page": 6,
+      "index": 5,
+      "text_display": "THE\nAUTHORI-\nSCENE.",
+      "text_tts": "THE AUTHORI- SCENE.",
+      "bbox": [
+        307.0,
+        1071.0,
+        892.0,
+        1288.0
+      ],
+      "items": [
+        {
+          "page": 6,
+          "text": "THE",
+          "bbox": [
+            394.0,
+            1071.0,
+            514.0,
+            1138.0
+          ],
+          "confidence": 0.9983375668525696,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "AUTHORI-",
+          "bbox": [
+            307.0,
+            1142.0,
+            589.0,
+            1212.0
+          ],
+          "confidence": 0.9925127029418945,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "SCENE.",
+          "bbox": [
+            689.0,
+            1225.0,
+            892.0,
+            1288.0
+          ],
+          "confidence": 0.9675621390342712,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9861374696095785
+    },
+    {
+      "page": 6,
+      "index": 6,
+      "text_display": "3F7",
+      "text_tts": "3F7",
+      "bbox": [
+        29.0,
+        1263.0,
+        137.0,
+        1308.0
+      ],
+      "items": [
+        {
+          "page": 6,
+          "text": "3F7",
+          "bbox": [
+            29.0,
+            1263.0,
+            137.0,
+            1308.0
+          ],
+          "confidence": 0.7649007439613342,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.7649007439613342
+    },
+    {
+      "page": 6,
+      "index": 7,
+      "text_display": "THE\nHORRIFIC\nGHOULS\nHAUNTING\nTHE\nSTREETS\nOF TOKYO...\nWHAT\nEXACTLY\nARE THEY?",
+      "text_tts": "THE HORRIFIC GHOULS HAUNTING THE STREETS OF TOKYO... WHAT EXACTLY ARE THEY?",
+      "bbox": [
+        2228.0,
+        2142.0,
+        2510.0,
+        2704.0
+      ],
+      "items": [
+        {
+          "page": 6,
+          "text": "THE",
+          "bbox": [
+            2323.0,
+            2142.0,
+            2427.0,
+            2204.0
+          ],
+          "confidence": 0.9985883235931396,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "HORRIFIC",
+          "bbox": [
+            2269.0,
+            2200.0,
+            2481.0,
+            2258.0
+          ],
+          "confidence": 0.9964377880096436,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "GHOULS",
+          "bbox": [
+            2274.0,
+            2254.0,
+            2477.0,
+            2312.0
+          ],
+          "confidence": 0.9966760277748108,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "HAUNTING",
+          "bbox": [
+            2252.0,
+            2308.0,
+            2494.0,
+            2376.0
+          ],
+          "confidence": 0.9954660534858704,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "THE",
+          "bbox": [
+            2327.0,
+            2375.0,
+            2423.0,
+            2425.0
+          ],
+          "confidence": 0.9978964924812317,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "STREETS",
+          "bbox": [
+            2265.0,
+            2433.0,
+            2485.0,
+            2479.0
+          ],
+          "confidence": 0.9923188090324402,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "OF TOKYO...",
+          "bbox": [
+            2228.0,
+            2483.0,
+            2510.0,
+            2542.0
+          ],
+          "confidence": 0.9404520392417908,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "WHAT",
+          "bbox": [
+            2307.0,
+            2542.0,
+            2448.0,
+            2600.0
+          ],
+          "confidence": 0.9974798560142517,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "EXACTLY",
+          "bbox": [
+            2274.0,
+            2604.0,
+            2477.0,
+            2650.0
+          ],
+          "confidence": 0.9905955195426941,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "ARE THEY?",
+          "bbox": [
+            2253.0,
+            2658.0,
+            2502.0,
+            2704.0
+          ],
+          "confidence": 0.9151942133903503,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9821105122566223
+    },
+    {
+      "page": 6,
+      "index": 8,
+      "text_display": "DAMN...\nTHE TAKADA\nBUILDING\nISN'T THAT\nFAR FROM\nHERE.",
+      "text_tts": "DAMN... THE TAKADA BUILDING ISN'T THAT FAR FROM HERE.",
+      "bbox": [
+        207.0,
+        2504.0,
+        535.0,
+        2908.0
+      ],
+      "items": [
+        {
+          "page": 6,
+          "text": "DAMN...",
+          "bbox": [
+            266.0,
+            2504.0,
+            469.0,
+            2562.0
+          ],
+          "confidence": 0.9380865097045898,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "THE TAKADA",
+          "bbox": [
+            207.0,
+            2567.0,
+            535.0,
+            2625.0
+          ],
+          "confidence": 0.961295485496521,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "BUILDING",
+          "bbox": [
+            241.0,
+            2637.0,
+            502.0,
+            2696.0
+          ],
+          "confidence": 0.9899001121520996,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "ISN'T THAT",
+          "bbox": [
+            228.0,
+            2708.0,
+            519.0,
+            2767.0
+          ],
+          "confidence": 0.9078757166862488,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "FAR FROM",
+          "bbox": [
+            236.0,
+            2783.0,
+            514.0,
+            2829.0
+          ],
+          "confidence": 0.937785267829895,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "HERE.",
+          "bbox": [
+            286.0,
+            2846.0,
+            461.0,
+            2908.0
+          ],
+          "confidence": 0.9927765130996704,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9546199341615041
+    },
+    {
+      "page": 6,
+      "index": 9,
+      "text_display": "TO\nANSWER\nTHAT\nOUR\nGUEST\nGHOUL\nRESEARCHER\nDR.OGURA",
+      "text_tts": "TO ANSWER THAT OUR GUEST GHOUL RESEARCHER DR.OGURA",
+      "bbox": [
+        2062.0,
+        2763.0,
+        2344.0,
+        3287.0
+      ],
+      "items": [
+        {
+          "page": 6,
+          "text": "TO",
+          "bbox": [
+            2170.0,
+            2763.0,
+            2240.0,
+            2812.0
+          ],
+          "confidence": 0.9961942434310913,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "ANSWER",
+          "bbox": [
+            2098.0,
+            2807.0,
+            2304.0,
+            2876.0
+          ],
+          "confidence": 0.996635913848877,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "THAT",
+          "bbox": [
+            2153.0,
+            2871.0,
+            2257.0,
+            2921.0
+          ],
+          "confidence": 0.9984685182571411,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "OUR",
+          "bbox": [
+            2153.0,
+            2975.0,
+            2257.0,
+            3025.0
+          ],
+          "confidence": 0.9935509562492371,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "GUEST",
+          "bbox": [
+            2124.0,
+            3025.0,
+            2286.0,
+            3083.0
+          ],
+          "confidence": 0.9956508874893188,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "GHOUL",
+          "bbox": [
+            2128.0,
+            3138.0,
+            2274.0,
+            3183.0
+          ],
+          "confidence": 0.9964274168014526,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "RESEARCHER",
+          "bbox": [
+            2062.0,
+            3183.0,
+            2344.0,
+            3234.0
+          ],
+          "confidence": 0.9958409070968628,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "DR.OGURA",
+          "bbox": [
+            2079.0,
+            3242.0,
+            2315.0,
+            3287.0
+          ],
+          "confidence": 0.9784395694732666,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9939010515809059
+    },
+    {
+      "page": 6,
+      "index": 10,
+      "text_display": "TODAY IS",
+      "text_tts": "TODAY IS",
+      "bbox": [
+        2103.0,
+        3075.0,
+        2303.0,
+        3133.0
+      ],
+      "items": [
+        {
+          "page": 6,
+          "text": "TODAY IS",
+          "bbox": [
+            2103.0,
+            3075.0,
+            2303.0,
+            3133.0
+          ],
+          "confidence": 0.9260528087615967,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9260528087615967
+    },
+    {
+      "page": 6,
+      "index": 11,
+      "text_display": "OOH.",
+      "text_tts": "OOH.",
+      "bbox": [
+        1539.0,
+        3029.0,
+        1701.0,
+        3108.0
+      ],
+      "items": [
+        {
+          "page": 6,
+          "text": "OOH.",
+          "bbox": [
+            1539.0,
+            3029.0,
+            1701.0,
+            3108.0
+          ],
+          "confidence": 0.9892702102661133,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9892702102661133
+    },
+    {
+      "page": 6,
+      "index": 12,
+      "text_display": "CHECK\nOUT THIS\nSKETCHY\nDUDE.",
+      "text_tts": "CHECK OUT THIS SKETCHY DUDE.",
+      "bbox": [
+        1336.0,
+        3279.0,
+        1626.0,
+        3580.0
+      ],
+      "items": [
+        {
+          "page": 6,
+          "text": "CHECK",
+          "bbox": [
+            1377.0,
+            3279.0,
+            1589.0,
+            3346.0
+          ],
+          "confidence": 0.9965737462043762,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "OUT THIS",
+          "bbox": [
+            1336.0,
+            3350.0,
+            1626.0,
+            3421.0
+          ],
+          "confidence": 0.9426266551017761,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "SKETCHY",
+          "bbox": [
+            1336.0,
+            3425.0,
+            1622.0,
+            3500.0
+          ],
+          "confidence": 0.9889447093009949,
+          "source": "paddleocr"
+        },
+        {
+          "page": 6,
+          "text": "DUDE.",
+          "bbox": [
+            1372.0,
+            3495.0,
+            1578.0,
+            3580.0
+          ],
+          "confidence": 0.9924746751785278,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9801549464464188
+    }
+  ]
+}

@@ -1,0 +1,1123 @@
+{
+  "page_data": {
+    "pdf_path": "Manga/Tokyo Ghoul Volume 1.pdf",
+    "page_index": 20,
+    "image_path": "cache/pages/page_0020.png",
+    "pdf_width": 1115.0,
+    "pdf_height": 1600.0,
+    "image_width": 2788,
+    "image_height": 4000,
+    "zoom": 2.5
+  },
+  "ocr_items": [
+    {
+      "page": 20,
+      "text": "\"THISI",
+      "bbox": [
+        1153.0,
+        329.0,
+        1419.0,
+        433.0
+      ],
+      "confidence": 0.9428494572639465,
+      "source": "paddleocr"
+    },
+    {
+      "page": 20,
+      "text": "OSAMU",
+      "bbox": [
+        2203.0,
+        367.0,
+        2460.0,
+        454.0
+      ],
+      "confidence": 0.9827218055725098,
+      "source": "paddleocr"
+    },
+    {
+      "page": 20,
+      "text": "WANT-TO",
+      "bbox": [
+        1133.0,
+        421.0,
+        1435.0,
+        508.0
+      ],
+      "confidence": 0.9497527480125427,
+      "source": "paddleocr"
+    },
+    {
+      "page": 20,
+      "text": "DAZAI",
+      "bbox": [
+        2210.0,
+        440.0,
+        2445.0,
+        543.0
+      ],
+      "confidence": 0.929362416267395,
+      "source": "paddleocr"
+    },
+    {
+      "page": 20,
+      "text": "BELIEVE",
+      "bbox": [
+        1145.0,
+        508.0,
+        1427.0,
+        583.0
+      ],
+      "confidence": 0.990949809551239,
+      "source": "paddleocr"
+    },
+    {
+      "page": 20,
+      "text": "WROTE",
+      "bbox": [
+        2207.0,
+        533.0,
+        2464.0,
+        621.0
+      ],
+      "confidence": 0.992577075958252,
+      "source": "paddleocr"
+    },
+    {
+      "page": 20,
+      "text": "IMPLICITLY:",
+      "bbox": [
+        1108.0,
+        592.0,
+        1465.0,
+        663.0
+      ],
+      "confidence": 0.9767903685569763,
+      "source": "paddleocr"
+    },
+    {
+      "page": 20,
+      "text": "INTHE",
+      "bbox": [
+        2215.0,
+        621.0,
+        2444.0,
+        696.0
+      ],
+      "confidence": 0.9670580625534058,
+      "source": "paddleocr"
+    },
+    {
+      "page": 20,
+      "text": "MAN WAS",
+      "bbox": [
+        1124.0,
+        671.0,
+        1435.0,
+        746.0
+      ],
+      "confidence": 0.9590352177619934,
+      "source": "paddleocr"
+    },
+    {
+      "page": 20,
+      "text": "SETTING",
+      "bbox": [
+        2177.0,
+        691.0,
+        2482.0,
+        788.0
+      ],
+      "confidence": 0.9791155457496643,
+      "source": "paddleocr"
+    },
+    {
+      "page": 20,
+      "text": "BORNFOR",
+      "bbox": [
+        1099.0,
+        754.0,
+        1452.0,
+        825.0
+      ],
+      "confidence": 0.9912316203117371,
+      "source": "paddleocr"
+    },
+    {
+      "page": 20,
+      "text": "SUN..",
+      "bbox": [
+        2209.0,
+        765.0,
+        2441.0,
+        868.0
+      ],
+      "confidence": 0.8805876970291138,
+      "source": "paddleocr"
+    },
+    {
+      "page": 20,
+      "text": "LOVE AND",
+      "bbox": [
+        1108.0,
+        829.0,
+        1452.0,
+        904.0
+      ],
+      "confidence": 0.9485398530960083,
+      "source": "paddleocr"
+    },
+    {
+      "page": 20,
+      "text": "REVOLU-",
+      "bbox": [
+        1123.0,
+        899.0,
+        1436.0,
+        997.0
+      ],
+      "confidence": 0.9936904907226562,
+      "source": "paddleocr"
+    },
+    {
+      "page": 20,
+      "text": "TION.\"",
+      "bbox": [
+        1173.0,
+        982.0,
+        1400.0,
+        1076.0
+      ],
+      "confidence": 0.9777660369873047,
+      "source": "paddleocr"
+    },
+    {
+      "page": 20,
+      "text": "WANT TO",
+      "bbox": [
+        2199.0,
+        1858.0,
+        2489.0,
+        1933.0
+      ],
+      "confidence": 0.9389765858650208,
+      "source": "paddleocr"
+    },
+    {
+      "page": 20,
+      "text": "BELIEVE",
+      "bbox": [
+        2203.0,
+        1942.0,
+        2477.0,
+        2017.0
+      ],
+      "confidence": 0.992397665977478,
+      "source": "paddleocr"
+    },
+    {
+      "page": 20,
+      "text": "THAT",
+      "bbox": [
+        2253.0,
+        2013.0,
+        2427.0,
+        2108.0
+      ],
+      "confidence": 0.9981282949447632,
+      "source": "paddleocr"
+    },
+    {
+      "page": 20,
+      "text": "TOO...",
+      "bbox": [
+        2230.0,
+        2090.0,
+        2441.0,
+        2185.0
+      ],
+      "confidence": 0.9681866765022278,
+      "source": "paddleocr"
+    },
+    {
+      "page": 20,
+      "text": "THE",
+      "bbox": [
+        792.0,
+        2733.0,
+        888.0,
+        2783.0
+      ],
+      "confidence": 0.9976990818977356,
+      "source": "paddleocr"
+    },
+    {
+      "page": 20,
+      "text": "COMPOSITION",
+      "bbox": [
+        685.0,
+        2796.0,
+        1004.0,
+        2846.0
+      ],
+      "confidence": 0.994887113571167,
+      "source": "paddleocr"
+    },
+    {
+      "page": 20,
+      "text": "OFTHE BODY",
+      "bbox": [
+        685.0,
+        2850.0,
+        996.0,
+        2896.0
+      ],
+      "confidence": 0.9203041791915894,
+      "source": "paddleocr"
+    },
+    {
+      "page": 20,
+      "text": "WHAT",
+      "bbox": [
+        2224.0,
+        2854.0,
+        2386.0,
+        2917.0
+      ],
+      "confidence": 0.9981601238250732,
+      "source": "paddleocr"
+    },
+    {
+      "page": 20,
+      "text": "FLUID MATCHED",
+      "bbox": [
+        655.0,
+        2896.0,
+        1021.0,
+        2959.0
+      ],
+      "confidence": 0.9648072123527527,
+      "source": "paddleocr"
+    },
+    {
+      "page": 20,
+      "text": "SHOULD",
+      "bbox": [
+        2178.0,
+        2921.0,
+        2427.0,
+        2992.0
+      ],
+      "confidence": 0.997917652130127,
+      "source": "paddleocr"
+    },
+    {
+      "page": 20,
+      "text": "THAT FOUND",
+      "bbox": [
+        693.0,
+        2958.0,
+        992.0,
+        3017.0
+      ],
+      "confidence": 0.9559776186943054,
+      "source": "paddleocr"
+    },
+    {
+      "page": 20,
+      "text": "I",
+      "bbox": [
+        2278.0,
+        3000.0,
+        2327.0,
+        3058.0
+      ],
+      "confidence": 0.9964202642440796,
+      "source": "paddleocr"
+    },
+    {
+      "page": 20,
+      "text": "AT THE SCENE",
+      "bbox": [
+        668.0,
+        3017.0,
+        1012.0,
+        3071.0
+      ],
+      "confidence": 0.9319477677345276,
+      "source": "paddleocr"
+    },
+    {
+      "page": 20,
+      "text": "FROM THE",
+      "bbox": [
+        714.0,
+        3071.0,
+        963.0,
+        3129.0
+      ],
+      "confidence": 0.9565759301185608,
+      "source": "paddleocr"
+    },
+    {
+      "page": 20,
+      "text": "WEAR?",
+      "bbox": [
+        2199.0,
+        3071.0,
+        2410.0,
+        3138.0
+      ],
+      "confidence": 0.9963283538818359,
+      "source": "paddleocr"
+    },
+    {
+      "page": 20,
+      "text": "28TH.",
+      "bbox": [
+        763.0,
+        3129.0,
+        909.0,
+        3188.0
+      ],
+      "confidence": 0.944556713104248,
+      "source": "paddleocr"
+    },
+    {
+      "page": 20,
+      "text": "A SIMILAR",
+      "bbox": [
+        1216.0,
+        3321.0,
+        1431.0,
+        3367.0
+      ],
+      "confidence": 0.9431246519088745,
+      "source": "paddleocr"
+    },
+    {
+      "page": 20,
+      "text": "INCIDENT",
+      "bbox": [
+        1220.0,
+        3375.0,
+        1423.0,
+        3421.0
+      ],
+      "confidence": 0.9921224117279053,
+      "source": "paddleocr"
+    },
+    {
+      "page": 20,
+      "text": "TOOK",
+      "bbox": [
+        1261.0,
+        3425.0,
+        1386.0,
+        3471.0
+      ],
+      "confidence": 0.9975472688674927,
+      "source": "paddleocr"
+    },
+    {
+      "page": 20,
+      "text": "PLACE ON",
+      "bbox": [
+        1211.0,
+        3471.0,
+        1435.0,
+        3529.0
+      ],
+      "confidence": 0.9527481198310852,
+      "source": "paddleocr"
+    },
+    {
+      "page": 20,
+      "text": "SHIRAKAMI",
+      "bbox": [
+        1211.0,
+        3525.0,
+        1435.0,
+        3583.0
+      ],
+      "confidence": 0.9958697557449341,
+      "source": "paddleocr"
+    },
+    {
+      "page": 20,
+      "text": "STREET...",
+      "bbox": [
+        1220.0,
+        3588.0,
+        1419.0,
+        3633.0
+      ],
+      "confidence": 0.9539015889167786,
+      "source": "paddleocr"
+    },
+    {
+      "page": 20,
+      "text": "21",
+      "bbox": [
+        224.0,
+        3746.0,
+        290.0,
+        3800.0
+      ],
+      "confidence": 0.9990292191505432,
+      "source": "paddleocr"
+    }
+  ],
+  "bubbles": [
+    {
+      "page": 20,
+      "index": 1,
+      "text_display": "OSAMU",
+      "text_tts": "OSAMU",
+      "bbox": [
+        2203.0,
+        367.0,
+        2460.0,
+        454.0
+      ],
+      "items": [
+        {
+          "page": 20,
+          "text": "OSAMU",
+          "bbox": [
+            2203.0,
+            367.0,
+            2460.0,
+            454.0
+          ],
+          "confidence": 0.9827218055725098,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9827218055725098
+    },
+    {
+      "page": 20,
+      "index": 2,
+      "text_display": "\"THISI",
+      "text_tts": "\"THISI",
+      "bbox": [
+        1153.0,
+        329.0,
+        1419.0,
+        433.0
+      ],
+      "items": [
+        {
+          "page": 20,
+          "text": "\"THISI",
+          "bbox": [
+            1153.0,
+            329.0,
+            1419.0,
+            433.0
+          ],
+          "confidence": 0.9428494572639465,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9428494572639465
+    },
+    {
+      "page": 20,
+      "index": 3,
+      "text_display": "DAZAI",
+      "text_tts": "DAZAI",
+      "bbox": [
+        2210.0,
+        440.0,
+        2445.0,
+        543.0
+      ],
+      "items": [
+        {
+          "page": 20,
+          "text": "DAZAI",
+          "bbox": [
+            2210.0,
+            440.0,
+            2445.0,
+            543.0
+          ],
+          "confidence": 0.929362416267395,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.929362416267395
+    },
+    {
+      "page": 20,
+      "index": 4,
+      "text_display": "WROTE\nINTHE\nSETTING",
+      "text_tts": "WROTE INTHE SETTING",
+      "bbox": [
+        2177.0,
+        533.0,
+        2482.0,
+        788.0
+      ],
+      "items": [
+        {
+          "page": 20,
+          "text": "WROTE",
+          "bbox": [
+            2207.0,
+            533.0,
+            2464.0,
+            621.0
+          ],
+          "confidence": 0.992577075958252,
+          "source": "paddleocr"
+        },
+        {
+          "page": 20,
+          "text": "INTHE",
+          "bbox": [
+            2215.0,
+            621.0,
+            2444.0,
+            696.0
+          ],
+          "confidence": 0.9670580625534058,
+          "source": "paddleocr"
+        },
+        {
+          "page": 20,
+          "text": "SETTING",
+          "bbox": [
+            2177.0,
+            691.0,
+            2482.0,
+            788.0
+          ],
+          "confidence": 0.9791155457496643,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9795835614204407
+    },
+    {
+      "page": 20,
+      "index": 5,
+      "text_display": "WANT-TO\nBELIEVE\nIMPLICITLY:\nMAN WAS\nBORNFOR\nLOVE AND\nREVOLU-",
+      "text_tts": "WANT-TO BELIEVE IMPLICITLY: MAN WAS BORNFOR LOVE AND REVOLU-",
+      "bbox": [
+        1099.0,
+        421.0,
+        1465.0,
+        997.0
+      ],
+      "items": [
+        {
+          "page": 20,
+          "text": "WANT-TO",
+          "bbox": [
+            1133.0,
+            421.0,
+            1435.0,
+            508.0
+          ],
+          "confidence": 0.9497527480125427,
+          "source": "paddleocr"
+        },
+        {
+          "page": 20,
+          "text": "BELIEVE",
+          "bbox": [
+            1145.0,
+            508.0,
+            1427.0,
+            583.0
+          ],
+          "confidence": 0.990949809551239,
+          "source": "paddleocr"
+        },
+        {
+          "page": 20,
+          "text": "IMPLICITLY:",
+          "bbox": [
+            1108.0,
+            592.0,
+            1465.0,
+            663.0
+          ],
+          "confidence": 0.9767903685569763,
+          "source": "paddleocr"
+        },
+        {
+          "page": 20,
+          "text": "MAN WAS",
+          "bbox": [
+            1124.0,
+            671.0,
+            1435.0,
+            746.0
+          ],
+          "confidence": 0.9590352177619934,
+          "source": "paddleocr"
+        },
+        {
+          "page": 20,
+          "text": "BORNFOR",
+          "bbox": [
+            1099.0,
+            754.0,
+            1452.0,
+            825.0
+          ],
+          "confidence": 0.9912316203117371,
+          "source": "paddleocr"
+        },
+        {
+          "page": 20,
+          "text": "LOVE AND",
+          "bbox": [
+            1108.0,
+            829.0,
+            1452.0,
+            904.0
+          ],
+          "confidence": 0.9485398530960083,
+          "source": "paddleocr"
+        },
+        {
+          "page": 20,
+          "text": "REVOLU-",
+          "bbox": [
+            1123.0,
+            899.0,
+            1436.0,
+            997.0
+          ],
+          "confidence": 0.9936904907226562,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9728557297161647
+    },
+    {
+      "page": 20,
+      "index": 6,
+      "text_display": "SUN..",
+      "text_tts": "SUN..",
+      "bbox": [
+        2209.0,
+        765.0,
+        2441.0,
+        868.0
+      ],
+      "items": [
+        {
+          "page": 20,
+          "text": "SUN..",
+          "bbox": [
+            2209.0,
+            765.0,
+            2441.0,
+            868.0
+          ],
+          "confidence": 0.8805876970291138,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.8805876970291138
+    },
+    {
+      "page": 20,
+      "index": 7,
+      "text_display": "TION.\"",
+      "text_tts": "TION.\"",
+      "bbox": [
+        1173.0,
+        982.0,
+        1400.0,
+        1076.0
+      ],
+      "items": [
+        {
+          "page": 20,
+          "text": "TION.\"",
+          "bbox": [
+            1173.0,
+            982.0,
+            1400.0,
+            1076.0
+          ],
+          "confidence": 0.9777660369873047,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9777660369873047
+    },
+    {
+      "page": 20,
+      "index": 8,
+      "text_display": "WANT TO\nBELIEVE\nTHAT",
+      "text_tts": "WANT TO BELIEVE THAT",
+      "bbox": [
+        2199.0,
+        1858.0,
+        2489.0,
+        2108.0
+      ],
+      "items": [
+        {
+          "page": 20,
+          "text": "WANT TO",
+          "bbox": [
+            2199.0,
+            1858.0,
+            2489.0,
+            1933.0
+          ],
+          "confidence": 0.9389765858650208,
+          "source": "paddleocr"
+        },
+        {
+          "page": 20,
+          "text": "BELIEVE",
+          "bbox": [
+            2203.0,
+            1942.0,
+            2477.0,
+            2017.0
+          ],
+          "confidence": 0.992397665977478,
+          "source": "paddleocr"
+        },
+        {
+          "page": 20,
+          "text": "THAT",
+          "bbox": [
+            2253.0,
+            2013.0,
+            2427.0,
+            2108.0
+          ],
+          "confidence": 0.9981282949447632,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9765008489290873
+    },
+    {
+      "page": 20,
+      "index": 9,
+      "text_display": "TOO...",
+      "text_tts": "TOO...",
+      "bbox": [
+        2230.0,
+        2090.0,
+        2441.0,
+        2185.0
+      ],
+      "items": [
+        {
+          "page": 20,
+          "text": "TOO...",
+          "bbox": [
+            2230.0,
+            2090.0,
+            2441.0,
+            2185.0
+          ],
+          "confidence": 0.9681866765022278,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9681866765022278
+    },
+    {
+      "page": 20,
+      "index": 10,
+      "text_display": "WHAT\nSHOULD\nI\nWEAR?",
+      "text_tts": "WHAT SHOULD I WEAR?",
+      "bbox": [
+        2178.0,
+        2854.0,
+        2427.0,
+        3138.0
+      ],
+      "items": [
+        {
+          "page": 20,
+          "text": "WHAT",
+          "bbox": [
+            2224.0,
+            2854.0,
+            2386.0,
+            2917.0
+          ],
+          "confidence": 0.9981601238250732,
+          "source": "paddleocr"
+        },
+        {
+          "page": 20,
+          "text": "SHOULD",
+          "bbox": [
+            2178.0,
+            2921.0,
+            2427.0,
+            2992.0
+          ],
+          "confidence": 0.997917652130127,
+          "source": "paddleocr"
+        },
+        {
+          "page": 20,
+          "text": "I",
+          "bbox": [
+            2278.0,
+            3000.0,
+            2327.0,
+            3058.0
+          ],
+          "confidence": 0.9964202642440796,
+          "source": "paddleocr"
+        },
+        {
+          "page": 20,
+          "text": "WEAR?",
+          "bbox": [
+            2199.0,
+            3071.0,
+            2410.0,
+            3138.0
+          ],
+          "confidence": 0.9963283538818359,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9972065985202789
+    },
+    {
+      "page": 20,
+      "index": 11,
+      "text_display": "THE\nCOMPOSITION\nOFTHE BODY\nFLUID MATCHED\nTHAT FOUND\nAT THE SCENE\nFROM THE\n28TH.",
+      "text_tts": "THE COMPOSITION OFTHE BODY FLUID MATCHED THAT FOUND AT THE SCENE FROM THE 28TH.",
+      "bbox": [
+        655.0,
+        2733.0,
+        1021.0,
+        3188.0
+      ],
+      "items": [
+        {
+          "page": 20,
+          "text": "THE",
+          "bbox": [
+            792.0,
+            2733.0,
+            888.0,
+            2783.0
+          ],
+          "confidence": 0.9976990818977356,
+          "source": "paddleocr"
+        },
+        {
+          "page": 20,
+          "text": "COMPOSITION",
+          "bbox": [
+            685.0,
+            2796.0,
+            1004.0,
+            2846.0
+          ],
+          "confidence": 0.994887113571167,
+          "source": "paddleocr"
+        },
+        {
+          "page": 20,
+          "text": "OFTHE BODY",
+          "bbox": [
+            685.0,
+            2850.0,
+            996.0,
+            2896.0
+          ],
+          "confidence": 0.9203041791915894,
+          "source": "paddleocr"
+        },
+        {
+          "page": 20,
+          "text": "FLUID MATCHED",
+          "bbox": [
+            655.0,
+            2896.0,
+            1021.0,
+            2959.0
+          ],
+          "confidence": 0.9648072123527527,
+          "source": "paddleocr"
+        },
+        {
+          "page": 20,
+          "text": "THAT FOUND",
+          "bbox": [
+            693.0,
+            2958.0,
+            992.0,
+            3017.0
+          ],
+          "confidence": 0.9559776186943054,
+          "source": "paddleocr"
+        },
+        {
+          "page": 20,
+          "text": "AT THE SCENE",
+          "bbox": [
+            668.0,
+            3017.0,
+            1012.0,
+            3071.0
+          ],
+          "confidence": 0.9319477677345276,
+          "source": "paddleocr"
+        },
+        {
+          "page": 20,
+          "text": "FROM THE",
+          "bbox": [
+            714.0,
+            3071.0,
+            963.0,
+            3129.0
+          ],
+          "confidence": 0.9565759301185608,
+          "source": "paddleocr"
+        },
+        {
+          "page": 20,
+          "text": "28TH.",
+          "bbox": [
+            763.0,
+            3129.0,
+            909.0,
+            3188.0
+          ],
+          "confidence": 0.944556713104248,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9583444520831108
+    },
+    {
+      "page": 20,
+      "index": 12,
+      "text_display": "A SIMILAR\nINCIDENT\nTOOK\nPLACE ON\nSHIRAKAMI\nSTREET...",
+      "text_tts": "A SIMILAR INCIDENT TOOK PLACE ON SHIRAKAMI STREET...",
+      "bbox": [
+        1211.0,
+        3321.0,
+        1435.0,
+        3633.0
+      ],
+      "items": [
+        {
+          "page": 20,
+          "text": "A SIMILAR",
+          "bbox": [
+            1216.0,
+            3321.0,
+            1431.0,
+            3367.0
+          ],
+          "confidence": 0.9431246519088745,
+          "source": "paddleocr"
+        },
+        {
+          "page": 20,
+          "text": "INCIDENT",
+          "bbox": [
+            1220.0,
+            3375.0,
+            1423.0,
+            3421.0
+          ],
+          "confidence": 0.9921224117279053,
+          "source": "paddleocr"
+        },
+        {
+          "page": 20,
+          "text": "TOOK",
+          "bbox": [
+            1261.0,
+            3425.0,
+            1386.0,
+            3471.0
+          ],
+          "confidence": 0.9975472688674927,
+          "source": "paddleocr"
+        },
+        {
+          "page": 20,
+          "text": "PLACE ON",
+          "bbox": [
+            1211.0,
+            3471.0,
+            1435.0,
+            3529.0
+          ],
+          "confidence": 0.9527481198310852,
+          "source": "paddleocr"
+        },
+        {
+          "page": 20,
+          "text": "SHIRAKAMI",
+          "bbox": [
+            1211.0,
+            3525.0,
+            1435.0,
+            3583.0
+          ],
+          "confidence": 0.9958697557449341,
+          "source": "paddleocr"
+        },
+        {
+          "page": 20,
+          "text": "STREET...",
+          "bbox": [
+            1220.0,
+            3588.0,
+            1419.0,
+            3633.0
+          ],
+          "confidence": 0.9539015889167786,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9725522994995117
+    },
+    {
+      "page": 20,
+      "index": 13,
+      "text_display": "21",
+      "text_tts": "21",
+      "bbox": [
+        224.0,
+        3746.0,
+        290.0,
+        3800.0
+      ],
+      "items": [
+        {
+          "page": 20,
+          "text": "21",
+          "bbox": [
+            224.0,
+            3746.0,
+            290.0,
+            3800.0
+          ],
+          "confidence": 0.9990292191505432,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9990292191505432
+    }
+  ]
+}

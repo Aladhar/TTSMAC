@@ -1,0 +1,1192 @@
+{
+  "page_data": {
+    "pdf_path": "Manga/Tokyo Ghoul Volume 1.pdf",
+    "page_index": 22,
+    "image_path": "cache/pages/page_0022.png",
+    "pdf_width": 1115.0,
+    "pdf_height": 1600.0,
+    "image_width": 2788,
+    "image_height": 4000,
+    "zoom": 2.5
+  },
+  "ocr_items": [
+    {
+      "page": 22,
+      "text": "JUST",
+      "bbox": [
+        1286.0,
+        350.0,
+        1431.0,
+        412.0
+      ],
+      "confidence": 0.9938623905181885,
+      "source": "paddleocr"
+    },
+    {
+      "page": 22,
+      "text": "WONDERING",
+      "bbox": [
+        1195.0,
+        417.0,
+        1514.0,
+        475.0
+      ],
+      "confidence": 0.9943636655807495,
+      "source": "paddleocr"
+    },
+    {
+      "page": 22,
+      "text": "I",
+      "bbox": [
+        2381.0,
+        408.0,
+        2415.0,
+        458.0
+      ],
+      "confidence": 0.9987879395484924,
+      "source": "paddleocr"
+    },
+    {
+      "page": 22,
+      "text": "WHY YOU'RE",
+      "bbox": [
+        1199.0,
+        479.0,
+        1518.0,
+        538.0
+      ],
+      "confidence": 0.8874813914299011,
+      "source": "paddleocr"
+    },
+    {
+      "page": 22,
+      "text": "WAS",
+      "bbox": [
+        2340.0,
+        471.0,
+        2448.0,
+        521.0
+      ],
+      "confidence": 0.9965791702270508,
+      "source": "paddleocr"
+    },
+    {
+      "page": 22,
+      "text": "ONLY EATING",
+      "bbox": [
+        1187.0,
+        546.0,
+        1527.0,
+        604.0
+      ],
+      "confidence": 0.9545656442642212,
+      "source": "paddleocr"
+    },
+    {
+      "page": 22,
+      "text": "UH...",
+      "bbox": [
+        2332.0,
+        583.0,
+        2452.0,
+        646.0
+      ],
+      "confidence": 0.9732853770256042,
+      "source": "paddleocr"
+    },
+    {
+      "page": 22,
+      "text": "A SAND-",
+      "bbox": [
+        1240.0,
+        613.0,
+        1473.0,
+        671.0
+      ],
+      "confidence": 0.9297293424606323,
+      "source": "paddleocr"
+    },
+    {
+      "page": 22,
+      "text": "WICH...",
+      "bbox": [
+        1252.0,
+        661.0,
+        1457.0,
+        747.0
+      ],
+      "confidence": 0.9769638776779175,
+      "source": "paddleocr"
+    },
+    {
+      "page": 22,
+      "text": "OH",
+      "bbox": [
+        1682.0,
+        687.0,
+        1786.0,
+        769.0
+      ],
+      "confidence": 0.994757890701294,
+      "source": "paddleocr"
+    },
+    {
+      "page": 22,
+      "text": "OH...",
+      "bbox": [
+        347.0,
+        1303.0,
+        512.0,
+        1389.0
+      ],
+      "confidence": 0.9726096987724304,
+      "source": "paddleocr"
+    },
+    {
+      "page": 22,
+      "text": "I'M",
+      "bbox": [
+        896.0,
+        1921.0,
+        1000.0,
+        1987.0
+      ],
+      "confidence": 0.9544933438301086,
+      "source": "paddleocr"
+    },
+    {
+      "page": 22,
+      "text": "I'VE",
+      "bbox": [
+        2323.0,
+        1942.0,
+        2448.0,
+        2004.0
+      ],
+      "confidence": 0.9734117984771729,
+      "source": "paddleocr"
+    },
+    {
+      "page": 22,
+      "text": "KIND",
+      "bbox": [
+        888.0,
+        1983.0,
+        1008.0,
+        2046.0
+      ],
+      "confidence": 0.99754399061203,
+      "source": "paddleocr"
+    },
+    {
+      "page": 22,
+      "text": "BEEN",
+      "bbox": [
+        2311.0,
+        2008.0,
+        2464.0,
+        2067.0
+      ],
+      "confidence": 0.9959170818328857,
+      "source": "paddleocr"
+    },
+    {
+      "page": 22,
+      "text": "OF",
+      "bbox": [
+        909.0,
+        2046.0,
+        987.0,
+        2100.0
+      ],
+      "confidence": 0.9979274272918701,
+      "source": "paddleocr"
+    },
+    {
+      "page": 22,
+      "text": "EATING",
+      "bbox": [
+        2290.0,
+        2071.0,
+        2481.0,
+        2133.0
+      ],
+      "confidence": 0.9936389327049255,
+      "source": "paddleocr"
+    },
+    {
+      "page": 22,
+      "text": "ON A",
+      "bbox": [
+        880.0,
+        2108.0,
+        1016.0,
+        2167.0
+      ],
+      "confidence": 0.8827866315841675,
+      "source": "paddleocr"
+    },
+    {
+      "page": 22,
+      "text": "TOO",
+      "bbox": [
+        2323.0,
+        2138.0,
+        2452.0,
+        2200.0
+      ],
+      "confidence": 0.9932935833930969,
+      "source": "paddleocr"
+    },
+    {
+      "page": 22,
+      "text": "DIET.",
+      "bbox": [
+        878.0,
+        2161.0,
+        1010.0,
+        2235.0
+      ],
+      "confidence": 0.9826456308364868,
+      "source": "paddleocr"
+    },
+    {
+      "page": 22,
+      "text": "MUCH",
+      "bbox": [
+        2307.0,
+        2200.0,
+        2469.0,
+        2263.0
+      ],
+      "confidence": 0.9933800101280212,
+      "source": "paddleocr"
+    },
+    {
+      "page": 22,
+      "text": "LATELY.",
+      "bbox": [
+        2290.0,
+        2271.0,
+        2485.0,
+        2329.0
+      ],
+      "confidence": 0.9822002053260803,
+      "source": "paddleocr"
+    },
+    {
+      "page": 22,
+      "text": "UM...",
+      "bbox": [
+        2143.0,
+        2319.0,
+        2284.0,
+        2394.0
+      ],
+      "confidence": 0.964476466178894,
+      "source": "paddleocr"
+    },
+    {
+      "page": 22,
+      "text": "EXCUSE",
+      "bbox": [
+        2318.0,
+        2782.0,
+        2495.0,
+        2851.0
+      ],
+      "confidence": 0.9936589598655701,
+      "source": "paddleocr"
+    },
+    {
+      "page": 22,
+      "text": "ME.I",
+      "bbox": [
+        2344.0,
+        2846.0,
+        2469.0,
+        2892.0
+      ],
+      "confidence": 0.9864415526390076,
+      "source": "paddleocr"
+    },
+    {
+      "page": 22,
+      "text": "GIRLS",
+      "bbox": [
+        784.0,
+        2858.0,
+        909.0,
+        2904.0
+      ],
+      "confidence": 0.988404393196106,
+      "source": "paddleocr"
+    },
+    {
+      "page": 22,
+      "text": "SHE'S",
+      "bbox": [
+        1041.0,
+        2900.0,
+        1232.0,
+        2975.0
+      ],
+      "confidence": 0.9792926907539368,
+      "source": "paddleocr"
+    },
+    {
+      "page": 22,
+      "text": "HAVE GO",
+      "bbox": [
+        2319.0,
+        2896.0,
+        2498.0,
+        2942.0
+      ],
+      "confidence": 0.9025521278381348,
+      "source": "paddleocr"
+    },
+    {
+      "page": 22,
+      "text": "TOTHE",
+      "bbox": [
+        2336.0,
+        2942.0,
+        2481.0,
+        2987.0
+      ],
+      "confidence": 0.9855579137802124,
+      "source": "paddleocr"
+    },
+    {
+      "page": 22,
+      "text": "NOT",
+      "bbox": [
+        1054.0,
+        2971.0,
+        1216.0,
+        3050.0
+      ],
+      "confidence": 0.6959230303764343,
+      "source": "paddleocr"
+    },
+    {
+      "page": 22,
+      "text": "LADIES",
+      "bbox": [
+        2336.0,
+        2992.0,
+        2481.0,
+        3037.0
+      ],
+      "confidence": 0.9971453547477722,
+      "source": "paddleocr"
+    },
+    {
+      "page": 22,
+      "text": "ROOM.",
+      "bbox": [
+        2344.0,
+        3042.0,
+        2477.0,
+        3088.0
+      ],
+      "confidence": 0.9959630966186523,
+      "source": "paddleocr"
+    },
+    {
+      "page": 22,
+      "text": "FATAT",
+      "bbox": [
+        1037.0,
+        3054.0,
+        1232.0,
+        3117.0
+      ],
+      "confidence": 0.9908868670463562,
+      "source": "paddleocr"
+    },
+    {
+      "page": 22,
+      "text": "yuP.",
+      "bbox": [
+        336.0,
+        3096.0,
+        461.0,
+        3158.0
+      ],
+      "confidence": 0.7505254745483398,
+      "source": "paddleocr"
+    },
+    {
+      "page": 22,
+      "text": "ALL...",
+      "bbox": [
+        1040.0,
+        3111.0,
+        1213.0,
+        3197.0
+      ],
+      "confidence": 0.9381747841835022,
+      "source": "paddleocr"
+    },
+    {
+      "page": 22,
+      "text": "OF",
+      "bbox": [
+        1913.0,
+        3396.0,
+        1975.0,
+        3446.0
+      ],
+      "confidence": 0.9973753690719604,
+      "source": "paddleocr"
+    },
+    {
+      "page": 22,
+      "text": "COURSE!",
+      "bbox": [
+        1859.0,
+        3450.0,
+        2033.0,
+        3496.0
+      ],
+      "confidence": 0.9946222901344299,
+      "source": "paddleocr"
+    },
+    {
+      "page": 22,
+      "text": "GO",
+      "bbox": [
+        1908.0,
+        3500.0,
+        1979.0,
+        3550.0
+      ],
+      "confidence": 0.9840002059936523,
+      "source": "paddleocr"
+    },
+    {
+      "page": 22,
+      "text": "AHEAD!",
+      "bbox": [
+        1871.0,
+        3554.0,
+        2016.0,
+        3600.0
+      ],
+      "confidence": 0.9639244079589844,
+      "source": "paddleocr"
+    }
+  ],
+  "bubbles": [
+    {
+      "page": 22,
+      "index": 1,
+      "text_display": "I\nWAS",
+      "text_tts": "I WAS",
+      "bbox": [
+        2340.0,
+        408.0,
+        2448.0,
+        521.0
+      ],
+      "items": [
+        {
+          "page": 22,
+          "text": "I",
+          "bbox": [
+            2381.0,
+            408.0,
+            2415.0,
+            458.0
+          ],
+          "confidence": 0.9987879395484924,
+          "source": "paddleocr"
+        },
+        {
+          "page": 22,
+          "text": "WAS",
+          "bbox": [
+            2340.0,
+            471.0,
+            2448.0,
+            521.0
+          ],
+          "confidence": 0.9965791702270508,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9976835548877716
+    },
+    {
+      "page": 22,
+      "index": 2,
+      "text_display": "JUST\nWONDERING\nWHY YOU'RE\nONLY EATING\nA SAND-",
+      "text_tts": "JUST WONDERING WHY YOU'RE ONLY EATING A SAND-",
+      "bbox": [
+        1187.0,
+        350.0,
+        1527.0,
+        671.0
+      ],
+      "items": [
+        {
+          "page": 22,
+          "text": "JUST",
+          "bbox": [
+            1286.0,
+            350.0,
+            1431.0,
+            412.0
+          ],
+          "confidence": 0.9938623905181885,
+          "source": "paddleocr"
+        },
+        {
+          "page": 22,
+          "text": "WONDERING",
+          "bbox": [
+            1195.0,
+            417.0,
+            1514.0,
+            475.0
+          ],
+          "confidence": 0.9943636655807495,
+          "source": "paddleocr"
+        },
+        {
+          "page": 22,
+          "text": "WHY YOU'RE",
+          "bbox": [
+            1199.0,
+            479.0,
+            1518.0,
+            538.0
+          ],
+          "confidence": 0.8874813914299011,
+          "source": "paddleocr"
+        },
+        {
+          "page": 22,
+          "text": "ONLY EATING",
+          "bbox": [
+            1187.0,
+            546.0,
+            1527.0,
+            604.0
+          ],
+          "confidence": 0.9545656442642212,
+          "source": "paddleocr"
+        },
+        {
+          "page": 22,
+          "text": "A SAND-",
+          "bbox": [
+            1240.0,
+            613.0,
+            1473.0,
+            671.0
+          ],
+          "confidence": 0.9297293424606323,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9520004868507386
+    },
+    {
+      "page": 22,
+      "index": 3,
+      "text_display": "UH...",
+      "text_tts": "UH...",
+      "bbox": [
+        2332.0,
+        583.0,
+        2452.0,
+        646.0
+      ],
+      "items": [
+        {
+          "page": 22,
+          "text": "UH...",
+          "bbox": [
+            2332.0,
+            583.0,
+            2452.0,
+            646.0
+          ],
+          "confidence": 0.9732853770256042,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9732853770256042
+    },
+    {
+      "page": 22,
+      "index": 4,
+      "text_display": "OH",
+      "text_tts": "OH",
+      "bbox": [
+        1682.0,
+        687.0,
+        1786.0,
+        769.0
+      ],
+      "items": [
+        {
+          "page": 22,
+          "text": "OH",
+          "bbox": [
+            1682.0,
+            687.0,
+            1786.0,
+            769.0
+          ],
+          "confidence": 0.994757890701294,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.994757890701294
+    },
+    {
+      "page": 22,
+      "index": 5,
+      "text_display": "WICH...",
+      "text_tts": "WICH...",
+      "bbox": [
+        1252.0,
+        661.0,
+        1457.0,
+        747.0
+      ],
+      "items": [
+        {
+          "page": 22,
+          "text": "WICH...",
+          "bbox": [
+            1252.0,
+            661.0,
+            1457.0,
+            747.0
+          ],
+          "confidence": 0.9769638776779175,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9769638776779175
+    },
+    {
+      "page": 22,
+      "index": 6,
+      "text_display": "OH...",
+      "text_tts": "OH...",
+      "bbox": [
+        347.0,
+        1303.0,
+        512.0,
+        1389.0
+      ],
+      "items": [
+        {
+          "page": 22,
+          "text": "OH...",
+          "bbox": [
+            347.0,
+            1303.0,
+            512.0,
+            1389.0
+          ],
+          "confidence": 0.9726096987724304,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9726096987724304
+    },
+    {
+      "page": 22,
+      "index": 7,
+      "text_display": "I'M\nKIND\nOF\nON A",
+      "text_tts": "I'M KIND OF ON A",
+      "bbox": [
+        880.0,
+        1921.0,
+        1016.0,
+        2167.0
+      ],
+      "items": [
+        {
+          "page": 22,
+          "text": "I'M",
+          "bbox": [
+            896.0,
+            1921.0,
+            1000.0,
+            1987.0
+          ],
+          "confidence": 0.9544933438301086,
+          "source": "paddleocr"
+        },
+        {
+          "page": 22,
+          "text": "KIND",
+          "bbox": [
+            888.0,
+            1983.0,
+            1008.0,
+            2046.0
+          ],
+          "confidence": 0.99754399061203,
+          "source": "paddleocr"
+        },
+        {
+          "page": 22,
+          "text": "OF",
+          "bbox": [
+            909.0,
+            2046.0,
+            987.0,
+            2100.0
+          ],
+          "confidence": 0.9979274272918701,
+          "source": "paddleocr"
+        },
+        {
+          "page": 22,
+          "text": "ON A",
+          "bbox": [
+            880.0,
+            2108.0,
+            1016.0,
+            2167.0
+          ],
+          "confidence": 0.8827866315841675,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9581878483295441
+    },
+    {
+      "page": 22,
+      "index": 8,
+      "text_display": "I'VE\nBEEN\nEATING\nTOO\nMUCH\nLATELY.",
+      "text_tts": "I'VE BEEN EATING TOO MUCH LATELY.",
+      "bbox": [
+        2290.0,
+        1942.0,
+        2485.0,
+        2329.0
+      ],
+      "items": [
+        {
+          "page": 22,
+          "text": "I'VE",
+          "bbox": [
+            2323.0,
+            1942.0,
+            2448.0,
+            2004.0
+          ],
+          "confidence": 0.9734117984771729,
+          "source": "paddleocr"
+        },
+        {
+          "page": 22,
+          "text": "BEEN",
+          "bbox": [
+            2311.0,
+            2008.0,
+            2464.0,
+            2067.0
+          ],
+          "confidence": 0.9959170818328857,
+          "source": "paddleocr"
+        },
+        {
+          "page": 22,
+          "text": "EATING",
+          "bbox": [
+            2290.0,
+            2071.0,
+            2481.0,
+            2133.0
+          ],
+          "confidence": 0.9936389327049255,
+          "source": "paddleocr"
+        },
+        {
+          "page": 22,
+          "text": "TOO",
+          "bbox": [
+            2323.0,
+            2138.0,
+            2452.0,
+            2200.0
+          ],
+          "confidence": 0.9932935833930969,
+          "source": "paddleocr"
+        },
+        {
+          "page": 22,
+          "text": "MUCH",
+          "bbox": [
+            2307.0,
+            2200.0,
+            2469.0,
+            2263.0
+          ],
+          "confidence": 0.9933800101280212,
+          "source": "paddleocr"
+        },
+        {
+          "page": 22,
+          "text": "LATELY.",
+          "bbox": [
+            2290.0,
+            2271.0,
+            2485.0,
+            2329.0
+          ],
+          "confidence": 0.9822002053260803,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9886402686436971
+    },
+    {
+      "page": 22,
+      "index": 9,
+      "text_display": "DIET.",
+      "text_tts": "DIET.",
+      "bbox": [
+        878.0,
+        2161.0,
+        1010.0,
+        2235.0
+      ],
+      "items": [
+        {
+          "page": 22,
+          "text": "DIET.",
+          "bbox": [
+            878.0,
+            2161.0,
+            1010.0,
+            2235.0
+          ],
+          "confidence": 0.9826456308364868,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9826456308364868
+    },
+    {
+      "page": 22,
+      "index": 10,
+      "text_display": "UM...",
+      "text_tts": "UM...",
+      "bbox": [
+        2143.0,
+        2319.0,
+        2284.0,
+        2394.0
+      ],
+      "items": [
+        {
+          "page": 22,
+          "text": "UM...",
+          "bbox": [
+            2143.0,
+            2319.0,
+            2284.0,
+            2394.0
+          ],
+          "confidence": 0.964476466178894,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.964476466178894
+    },
+    {
+      "page": 22,
+      "index": 11,
+      "text_display": "EXCUSE\nME.I\nHAVE GO\nTOTHE\nLADIES\nROOM.",
+      "text_tts": "EXCUSE ME.I HAVE GO TOTHE LADIES ROOM.",
+      "bbox": [
+        2318.0,
+        2782.0,
+        2498.0,
+        3088.0
+      ],
+      "items": [
+        {
+          "page": 22,
+          "text": "EXCUSE",
+          "bbox": [
+            2318.0,
+            2782.0,
+            2495.0,
+            2851.0
+          ],
+          "confidence": 0.9936589598655701,
+          "source": "paddleocr"
+        },
+        {
+          "page": 22,
+          "text": "ME.I",
+          "bbox": [
+            2344.0,
+            2846.0,
+            2469.0,
+            2892.0
+          ],
+          "confidence": 0.9864415526390076,
+          "source": "paddleocr"
+        },
+        {
+          "page": 22,
+          "text": "HAVE GO",
+          "bbox": [
+            2319.0,
+            2896.0,
+            2498.0,
+            2942.0
+          ],
+          "confidence": 0.9025521278381348,
+          "source": "paddleocr"
+        },
+        {
+          "page": 22,
+          "text": "TOTHE",
+          "bbox": [
+            2336.0,
+            2942.0,
+            2481.0,
+            2987.0
+          ],
+          "confidence": 0.9855579137802124,
+          "source": "paddleocr"
+        },
+        {
+          "page": 22,
+          "text": "LADIES",
+          "bbox": [
+            2336.0,
+            2992.0,
+            2481.0,
+            3037.0
+          ],
+          "confidence": 0.9971453547477722,
+          "source": "paddleocr"
+        },
+        {
+          "page": 22,
+          "text": "ROOM.",
+          "bbox": [
+            2344.0,
+            3042.0,
+            2477.0,
+            3088.0
+          ],
+          "confidence": 0.9959630966186523,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9768865009148916
+    },
+    {
+      "page": 22,
+      "index": 12,
+      "text_display": "GIRLS",
+      "text_tts": "GIRLS",
+      "bbox": [
+        784.0,
+        2858.0,
+        909.0,
+        2904.0
+      ],
+      "items": [
+        {
+          "page": 22,
+          "text": "GIRLS",
+          "bbox": [
+            784.0,
+            2858.0,
+            909.0,
+            2904.0
+          ],
+          "confidence": 0.988404393196106,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.988404393196106
+    },
+    {
+      "page": 22,
+      "index": 13,
+      "text_display": "SHE'S\nNOT\nFATAT",
+      "text_tts": "SHE'S NOT FATAT",
+      "bbox": [
+        1037.0,
+        2900.0,
+        1232.0,
+        3117.0
+      ],
+      "items": [
+        {
+          "page": 22,
+          "text": "SHE'S",
+          "bbox": [
+            1041.0,
+            2900.0,
+            1232.0,
+            2975.0
+          ],
+          "confidence": 0.9792926907539368,
+          "source": "paddleocr"
+        },
+        {
+          "page": 22,
+          "text": "NOT",
+          "bbox": [
+            1054.0,
+            2971.0,
+            1216.0,
+            3050.0
+          ],
+          "confidence": 0.6959230303764343,
+          "source": "paddleocr"
+        },
+        {
+          "page": 22,
+          "text": "FATAT",
+          "bbox": [
+            1037.0,
+            3054.0,
+            1232.0,
+            3117.0
+          ],
+          "confidence": 0.9908868670463562,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.8887008627255758
+    },
+    {
+      "page": 22,
+      "index": 14,
+      "text_display": "ALL...",
+      "text_tts": "ALL...",
+      "bbox": [
+        1040.0,
+        3111.0,
+        1213.0,
+        3197.0
+      ],
+      "items": [
+        {
+          "page": 22,
+          "text": "ALL...",
+          "bbox": [
+            1040.0,
+            3111.0,
+            1213.0,
+            3197.0
+          ],
+          "confidence": 0.9381747841835022,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9381747841835022
+    },
+    {
+      "page": 22,
+      "index": 15,
+      "text_display": "yuP.",
+      "text_tts": "yuP.",
+      "bbox": [
+        336.0,
+        3096.0,
+        461.0,
+        3158.0
+      ],
+      "items": [
+        {
+          "page": 22,
+          "text": "yuP.",
+          "bbox": [
+            336.0,
+            3096.0,
+            461.0,
+            3158.0
+          ],
+          "confidence": 0.7505254745483398,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.7505254745483398
+    },
+    {
+      "page": 22,
+      "index": 16,
+      "text_display": "OF\nCOURSE!\nGO\nAHEAD!",
+      "text_tts": "OF COURSE! GO AHEAD!",
+      "bbox": [
+        1859.0,
+        3396.0,
+        2033.0,
+        3600.0
+      ],
+      "items": [
+        {
+          "page": 22,
+          "text": "OF",
+          "bbox": [
+            1913.0,
+            3396.0,
+            1975.0,
+            3446.0
+          ],
+          "confidence": 0.9973753690719604,
+          "source": "paddleocr"
+        },
+        {
+          "page": 22,
+          "text": "COURSE!",
+          "bbox": [
+            1859.0,
+            3450.0,
+            2033.0,
+            3496.0
+          ],
+          "confidence": 0.9946222901344299,
+          "source": "paddleocr"
+        },
+        {
+          "page": 22,
+          "text": "GO",
+          "bbox": [
+            1908.0,
+            3500.0,
+            1979.0,
+            3550.0
+          ],
+          "confidence": 0.9840002059936523,
+          "source": "paddleocr"
+        },
+        {
+          "page": 22,
+          "text": "AHEAD!",
+          "bbox": [
+            1871.0,
+            3554.0,
+            2016.0,
+            3600.0
+          ],
+          "confidence": 0.9639244079589844,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9849805682897568
+    }
+  ]
+}

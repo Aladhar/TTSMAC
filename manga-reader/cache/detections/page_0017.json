@@ -1,0 +1,973 @@
+{
+  "page_data": {
+    "pdf_path": "Manga/Tokyo Ghoul Volume 1.pdf",
+    "page_index": 17,
+    "image_path": "cache/pages/page_0017.png",
+    "pdf_width": 1115.0,
+    "pdf_height": 1600.0,
+    "image_width": 2788,
+    "image_height": 4000,
+    "zoom": 2.5
+  },
+  "ocr_items": [
+    {
+      "page": 17,
+      "text": "IT'S",
+      "bbox": [
+        842.0,
+        358.0,
+        954.0,
+        421.0
+      ],
+      "confidence": 0.9132236242294312,
+      "source": "paddleocr"
+    },
+    {
+      "page": 17,
+      "text": "EGG",
+      "bbox": [
+        2211.0,
+        383.0,
+        2456.0,
+        492.0
+      ],
+      "confidence": 0.9868624806404114,
+      "source": "paddleocr"
+    },
+    {
+      "page": 17,
+      "text": "GOOD,",
+      "bbox": [
+        804.0,
+        416.0,
+        989.0,
+        489.0
+      ],
+      "confidence": 0.977317214012146,
+      "source": "paddleocr"
+    },
+    {
+      "page": 17,
+      "text": "SSISNT",
+      "bbox": [
+        780.0,
+        492.0,
+        1012.0,
+        550.0
+      ],
+      "confidence": 0.5527188181877136,
+      "source": "paddleocr"
+    },
+    {
+      "page": 17,
+      "text": "OF THE",
+      "bbox": [
+        2153.0,
+        508.0,
+        2518.0,
+        613.0
+      ],
+      "confidence": 0.984744131565094,
+      "source": "paddleocr"
+    },
+    {
+      "page": 17,
+      "text": "I'M",
+      "bbox": [
+        842.0,
+        554.0,
+        946.0,
+        617.0
+      ],
+      "confidence": 0.9492712020874023,
+      "source": "paddleocr"
+    },
+    {
+      "page": 17,
+      "text": "ACTUALLY",
+      "bbox": [
+        763.0,
+        621.0,
+        1021.0,
+        679.0
+      ],
+      "confidence": 0.9931768178939819,
+      "source": "paddleocr"
+    },
+    {
+      "page": 17,
+      "text": "BLACK",
+      "bbox": [
+        2170.0,
+        629.0,
+        2493.0,
+        733.0
+      ],
+      "confidence": 0.9973871111869812,
+      "source": "paddleocr"
+    },
+    {
+      "page": 17,
+      "text": "READING",
+      "bbox": [
+        772.0,
+        688.0,
+        1004.0,
+        733.0
+      ],
+      "confidence": 0.9211274981498718,
+      "source": "paddleocr"
+    },
+    {
+      "page": 17,
+      "text": "ITRIGHT",
+      "bbox": [
+        776.0,
+        750.0,
+        1004.0,
+        808.0
+      ],
+      "confidence": 0.9413241147994995,
+      "source": "paddleocr"
+    },
+    {
+      "page": 17,
+      "text": "GOAT",
+      "bbox": [
+        2195.0,
+        750.0,
+        2473.0,
+        858.0
+      ],
+      "confidence": 0.9982445240020752,
+      "source": "paddleocr"
+    },
+    {
+      "page": 17,
+      "text": "NOW",
+      "bbox": [
+        821.0,
+        812.0,
+        963.0,
+        875.0
+      ],
+      "confidence": 0.9942784905433655,
+      "source": "paddleocr"
+    },
+    {
+      "page": 17,
+      "text": "TOO...",
+      "bbox": [
+        804.0,
+        870.0,
+        976.0,
+        943.0
+      ],
+      "confidence": 0.9897856712341309,
+      "source": "paddleocr"
+    },
+    {
+      "page": 17,
+      "text": "Sen",
+      "bbox": [
+        1485.0,
+        1521.0,
+        1597.0,
+        1583.0
+      ],
+      "confidence": 0.998073399066925,
+      "source": "paddleocr"
+    },
+    {
+      "page": 17,
+      "text": "Genius Author Takatsuki's 7th Novel",
+      "bbox": [
+        1488.0,
+        1544.0,
+        2248.0,
+        1775.0
+      ],
+      "confidence": 0.9693007469177246,
+      "source": "paddleocr"
+    },
+    {
+      "page": 17,
+      "text": "Violent Horror for a New Era",
+      "bbox": [
+        1518.0,
+        1649.0,
+        2286.0,
+        1871.0
+      ],
+      "confidence": 0.9988918900489807,
+      "source": "paddleocr"
+    },
+    {
+      "page": 17,
+      "text": "AREYOU",
+      "bbox": [
+        2261.0,
+        2283.0,
+        2527.0,
+        2354.0
+      ],
+      "confidence": 0.9331596493721008,
+      "source": "paddleocr"
+    },
+    {
+      "page": 17,
+      "text": "Y-Y-YES! I",
+      "bbox": [
+        1253.0,
+        2312.0,
+        1577.0,
+        2408.0
+      ],
+      "confidence": 0.8903392553329468,
+      "source": "paddleocr"
+    },
+    {
+      "page": 17,
+      "text": "A FAN OF",
+      "bbox": [
+        2249.0,
+        2350.0,
+        2535.0,
+        2421.0
+      ],
+      "confidence": 0.9213553667068481,
+      "source": "paddleocr"
+    },
+    {
+      "page": 17,
+      "text": "LOVE SEN",
+      "bbox": [
+        1261.0,
+        2412.0,
+        1560.0,
+        2500.0
+      ],
+      "confidence": 0.9068781137466431,
+      "source": "paddleocr"
+    },
+    {
+      "page": 17,
+      "text": "TAKATSUKI",
+      "bbox": [
+        2245.0,
+        2438.0,
+        2543.0,
+        2496.0
+      ],
+      "confidence": 0.9932745695114136,
+      "source": "paddleocr"
+    },
+    {
+      "page": 17,
+      "text": "TAKATSUKI",
+      "bbox": [
+        1161.0,
+        2503.0,
+        1565.0,
+        2613.0
+      ],
+      "confidence": 0.9026460647583008,
+      "source": "paddleocr"
+    },
+    {
+      "page": 17,
+      "text": "?",
+      "bbox": [
+        2377.0,
+        2508.0,
+        2415.0,
+        2558.0
+      ],
+      "confidence": 0.8472676277160645,
+      "source": "paddleocr"
+    },
+    {
+      "page": 17,
+      "text": "!!",
+      "bbox": [
+        1373.0,
+        2617.0,
+        1452.0,
+        2717.0
+      ],
+      "confidence": 0.7436251044273376,
+      "source": "paddleocr"
+    },
+    {
+      "page": 17,
+      "text": "UH...LIKE",
+      "bbox": [
+        1265.0,
+        3158.0,
+        1535.0,
+        3250.0
+      ],
+      "confidence": 0.8753504753112793,
+      "source": "paddleocr"
+    },
+    {
+      "page": 17,
+      "text": "MYSTERIES",
+      "bbox": [
+        1257.0,
+        3263.0,
+        1548.0,
+        3354.0
+      ],
+      "confidence": 0.9477429986000061,
+      "source": "paddleocr"
+    },
+    {
+      "page": 17,
+      "text": "!!",
+      "bbox": [
+        1365.0,
+        3367.0,
+        1431.0,
+        3450.0
+      ],
+      "confidence": 0.9662985801696777,
+      "source": "paddleocr"
+    },
+    {
+      "page": 17,
+      "text": "'HO",
+      "bbox": [
+        1128.0,
+        3396.0,
+        1220.0,
+        3467.0
+      ],
+      "confidence": 0.8759075999259949,
+      "source": "paddleocr"
+    },
+    {
+      "page": 17,
+      "text": "MAYBE",
+      "bbox": [
+        319.0,
+        3421.0,
+        523.0,
+        3483.0
+      ],
+      "confidence": 0.9860011339187622,
+      "source": "paddleocr"
+    },
+    {
+      "page": 17,
+      "text": "ME",
+      "bbox": [
+        1133.0,
+        3454.0,
+        1220.0,
+        3525.0
+      ],
+      "confidence": 0.9974344968795776,
+      "source": "paddleocr"
+    },
+    {
+      "page": 17,
+      "text": "I...",
+      "bbox": [
+        361.0,
+        3492.0,
+        465.0,
+        3562.0
+      ],
+      "confidence": 0.9853777289390564,
+      "source": "paddleocr"
+    },
+    {
+      "page": 17,
+      "text": "TOO",
+      "bbox": [
+        1124.0,
+        3529.0,
+        1224.0,
+        3579.0
+      ],
+      "confidence": 0.948979377746582,
+      "source": "paddleocr"
+    },
+    {
+      "page": 17,
+      "text": "18",
+      "bbox": [
+        2514.0,
+        3746.0,
+        2581.0,
+        3796.0
+      ],
+      "confidence": 0.9981797337532043,
+      "source": "paddleocr"
+    }
+  ],
+  "bubbles": [
+    {
+      "page": 17,
+      "index": 1,
+      "text_display": "EGG\nOF THE\nBLACK\nGOAT",
+      "text_tts": "EGG OF THE BLACK GOAT",
+      "bbox": [
+        2153.0,
+        383.0,
+        2518.0,
+        858.0
+      ],
+      "items": [
+        {
+          "page": 17,
+          "text": "EGG",
+          "bbox": [
+            2211.0,
+            383.0,
+            2456.0,
+            492.0
+          ],
+          "confidence": 0.9868624806404114,
+          "source": "paddleocr"
+        },
+        {
+          "page": 17,
+          "text": "OF THE",
+          "bbox": [
+            2153.0,
+            508.0,
+            2518.0,
+            613.0
+          ],
+          "confidence": 0.984744131565094,
+          "source": "paddleocr"
+        },
+        {
+          "page": 17,
+          "text": "BLACK",
+          "bbox": [
+            2170.0,
+            629.0,
+            2493.0,
+            733.0
+          ],
+          "confidence": 0.9973871111869812,
+          "source": "paddleocr"
+        },
+        {
+          "page": 17,
+          "text": "GOAT",
+          "bbox": [
+            2195.0,
+            750.0,
+            2473.0,
+            858.0
+          ],
+          "confidence": 0.9982445240020752,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9918095618486404
+    },
+    {
+      "page": 17,
+      "index": 2,
+      "text_display": "IT'S\nGOOD,\nSSISNT\nI'M\nACTUALLY\nREADING\nITRIGHT\nNOW\nTOO...",
+      "text_tts": "IT'S GOOD, SSISNT I'M ACTUALLY READING ITRIGHT NOW TOO...",
+      "bbox": [
+        763.0,
+        358.0,
+        1021.0,
+        943.0
+      ],
+      "items": [
+        {
+          "page": 17,
+          "text": "IT'S",
+          "bbox": [
+            842.0,
+            358.0,
+            954.0,
+            421.0
+          ],
+          "confidence": 0.9132236242294312,
+          "source": "paddleocr"
+        },
+        {
+          "page": 17,
+          "text": "GOOD,",
+          "bbox": [
+            804.0,
+            416.0,
+            989.0,
+            489.0
+          ],
+          "confidence": 0.977317214012146,
+          "source": "paddleocr"
+        },
+        {
+          "page": 17,
+          "text": "SSISNT",
+          "bbox": [
+            780.0,
+            492.0,
+            1012.0,
+            550.0
+          ],
+          "confidence": 0.5527188181877136,
+          "source": "paddleocr"
+        },
+        {
+          "page": 17,
+          "text": "I'M",
+          "bbox": [
+            842.0,
+            554.0,
+            946.0,
+            617.0
+          ],
+          "confidence": 0.9492712020874023,
+          "source": "paddleocr"
+        },
+        {
+          "page": 17,
+          "text": "ACTUALLY",
+          "bbox": [
+            763.0,
+            621.0,
+            1021.0,
+            679.0
+          ],
+          "confidence": 0.9931768178939819,
+          "source": "paddleocr"
+        },
+        {
+          "page": 17,
+          "text": "READING",
+          "bbox": [
+            772.0,
+            688.0,
+            1004.0,
+            733.0
+          ],
+          "confidence": 0.9211274981498718,
+          "source": "paddleocr"
+        },
+        {
+          "page": 17,
+          "text": "ITRIGHT",
+          "bbox": [
+            776.0,
+            750.0,
+            1004.0,
+            808.0
+          ],
+          "confidence": 0.9413241147994995,
+          "source": "paddleocr"
+        },
+        {
+          "page": 17,
+          "text": "NOW",
+          "bbox": [
+            821.0,
+            812.0,
+            963.0,
+            875.0
+          ],
+          "confidence": 0.9942784905433655,
+          "source": "paddleocr"
+        },
+        {
+          "page": 17,
+          "text": "TOO...",
+          "bbox": [
+            804.0,
+            870.0,
+            976.0,
+            943.0
+          ],
+          "confidence": 0.9897856712341309,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9146914945708381
+    },
+    {
+      "page": 17,
+      "index": 3,
+      "text_display": "Sen",
+      "text_tts": "Sen",
+      "bbox": [
+        1485.0,
+        1521.0,
+        1597.0,
+        1583.0
+      ],
+      "items": [
+        {
+          "page": 17,
+          "text": "Sen",
+          "bbox": [
+            1485.0,
+            1521.0,
+            1597.0,
+            1583.0
+          ],
+          "confidence": 0.998073399066925,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.998073399066925
+    },
+    {
+      "page": 17,
+      "index": 4,
+      "text_display": "Genius Author Takatsuki's 7th Novel",
+      "text_tts": "Genius Author Takatsuki's 7th Novel",
+      "bbox": [
+        1488.0,
+        1544.0,
+        2248.0,
+        1775.0
+      ],
+      "items": [
+        {
+          "page": 17,
+          "text": "Genius Author Takatsuki's 7th Novel",
+          "bbox": [
+            1488.0,
+            1544.0,
+            2248.0,
+            1775.0
+          ],
+          "confidence": 0.9693007469177246,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9693007469177246
+    },
+    {
+      "page": 17,
+      "index": 5,
+      "text_display": "Violent Horror for a New Era",
+      "text_tts": "Violent Horror for a New Era",
+      "bbox": [
+        1518.0,
+        1649.0,
+        2286.0,
+        1871.0
+      ],
+      "items": [
+        {
+          "page": 17,
+          "text": "Violent Horror for a New Era",
+          "bbox": [
+            1518.0,
+            1649.0,
+            2286.0,
+            1871.0
+          ],
+          "confidence": 0.9988918900489807,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9988918900489807
+    },
+    {
+      "page": 17,
+      "index": 6,
+      "text_display": "AREYOU\nA FAN OF\nTAKATSUKI\n?",
+      "text_tts": "AREYOU A FAN OF TAKATSUKI ?",
+      "bbox": [
+        2245.0,
+        2283.0,
+        2543.0,
+        2558.0
+      ],
+      "items": [
+        {
+          "page": 17,
+          "text": "AREYOU",
+          "bbox": [
+            2261.0,
+            2283.0,
+            2527.0,
+            2354.0
+          ],
+          "confidence": 0.9331596493721008,
+          "source": "paddleocr"
+        },
+        {
+          "page": 17,
+          "text": "A FAN OF",
+          "bbox": [
+            2249.0,
+            2350.0,
+            2535.0,
+            2421.0
+          ],
+          "confidence": 0.9213553667068481,
+          "source": "paddleocr"
+        },
+        {
+          "page": 17,
+          "text": "TAKATSUKI",
+          "bbox": [
+            2245.0,
+            2438.0,
+            2543.0,
+            2496.0
+          ],
+          "confidence": 0.9932745695114136,
+          "source": "paddleocr"
+        },
+        {
+          "page": 17,
+          "text": "?",
+          "bbox": [
+            2377.0,
+            2508.0,
+            2415.0,
+            2558.0
+          ],
+          "confidence": 0.8472676277160645,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9237643033266068
+    },
+    {
+      "page": 17,
+      "index": 7,
+      "text_display": "Y-Y-YES! I\nLOVE SEN\nTAKATSUKI\n!!",
+      "text_tts": "Y-Y-YES! I LOVE SEN TAKATSUKI !!",
+      "bbox": [
+        1161.0,
+        2312.0,
+        1577.0,
+        2717.0
+      ],
+      "items": [
+        {
+          "page": 17,
+          "text": "Y-Y-YES! I",
+          "bbox": [
+            1253.0,
+            2312.0,
+            1577.0,
+            2408.0
+          ],
+          "confidence": 0.8903392553329468,
+          "source": "paddleocr"
+        },
+        {
+          "page": 17,
+          "text": "LOVE SEN",
+          "bbox": [
+            1261.0,
+            2412.0,
+            1560.0,
+            2500.0
+          ],
+          "confidence": 0.9068781137466431,
+          "source": "paddleocr"
+        },
+        {
+          "page": 17,
+          "text": "TAKATSUKI",
+          "bbox": [
+            1161.0,
+            2503.0,
+            1565.0,
+            2613.0
+          ],
+          "confidence": 0.9026460647583008,
+          "source": "paddleocr"
+        },
+        {
+          "page": 17,
+          "text": "!!",
+          "bbox": [
+            1373.0,
+            2617.0,
+            1452.0,
+            2717.0
+          ],
+          "confidence": 0.7436251044273376,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.8608721345663071
+    },
+    {
+      "page": 17,
+      "index": 8,
+      "text_display": "UH...LIKE\nMYSTERIES\n!!\nME\nTOO",
+      "text_tts": "UH...LIKE MYSTERIES !! ME TOO",
+      "bbox": [
+        1124.0,
+        3158.0,
+        1548.0,
+        3579.0
+      ],
+      "items": [
+        {
+          "page": 17,
+          "text": "UH...LIKE",
+          "bbox": [
+            1265.0,
+            3158.0,
+            1535.0,
+            3250.0
+          ],
+          "confidence": 0.8753504753112793,
+          "source": "paddleocr"
+        },
+        {
+          "page": 17,
+          "text": "MYSTERIES",
+          "bbox": [
+            1257.0,
+            3263.0,
+            1548.0,
+            3354.0
+          ],
+          "confidence": 0.9477429986000061,
+          "source": "paddleocr"
+        },
+        {
+          "page": 17,
+          "text": "!!",
+          "bbox": [
+            1365.0,
+            3367.0,
+            1431.0,
+            3450.0
+          ],
+          "confidence": 0.9662985801696777,
+          "source": "paddleocr"
+        },
+        {
+          "page": 17,
+          "text": "ME",
+          "bbox": [
+            1133.0,
+            3454.0,
+            1220.0,
+            3525.0
+          ],
+          "confidence": 0.9974344968795776,
+          "source": "paddleocr"
+        },
+        {
+          "page": 17,
+          "text": "TOO",
+          "bbox": [
+            1124.0,
+            3529.0,
+            1224.0,
+            3579.0
+          ],
+          "confidence": 0.948979377746582,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9471611857414246
+    },
+    {
+      "page": 17,
+      "index": 9,
+      "text_display": "'HO",
+      "text_tts": "'HO",
+      "bbox": [
+        1128.0,
+        3396.0,
+        1220.0,
+        3467.0
+      ],
+      "items": [
+        {
+          "page": 17,
+          "text": "'HO",
+          "bbox": [
+            1128.0,
+            3396.0,
+            1220.0,
+            3467.0
+          ],
+          "confidence": 0.8759075999259949,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.8759075999259949
+    },
+    {
+      "page": 17,
+      "index": 10,
+      "text_display": "MAYBE\nI...",
+      "text_tts": "MAYBE I...",
+      "bbox": [
+        319.0,
+        3421.0,
+        523.0,
+        3562.0
+      ],
+      "items": [
+        {
+          "page": 17,
+          "text": "MAYBE",
+          "bbox": [
+            319.0,
+            3421.0,
+            523.0,
+            3483.0
+          ],
+          "confidence": 0.9860011339187622,
+          "source": "paddleocr"
+        },
+        {
+          "page": 17,
+          "text": "I...",
+          "bbox": [
+            361.0,
+            3492.0,
+            465.0,
+            3562.0
+          ],
+          "confidence": 0.9853777289390564,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9856894314289093
+    },
+    {
+      "page": 17,
+      "index": 11,
+      "text_display": "18",
+      "text_tts": "18",
+      "bbox": [
+        2514.0,
+        3746.0,
+        2581.0,
+        3796.0
+      ],
+      "items": [
+        {
+          "page": 17,
+          "text": "18",
+          "bbox": [
+            2514.0,
+            3746.0,
+            2581.0,
+            3796.0
+          ],
+          "confidence": 0.9981797337532043,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9981797337532043
+    }
+  ]
+}

@@ -1,0 +1,1276 @@
+{
+  "page_data": {
+    "pdf_path": "Manga/Tokyo Ghoul Volume 1.pdf",
+    "page_index": 13,
+    "image_path": "cache/pages/page_0013.png",
+    "pdf_width": 1115.0,
+    "pdf_height": 1600.0,
+    "image_width": 2788,
+    "image_height": 4000,
+    "zoom": 2.5
+  },
+  "ocr_items": [
+    {
+      "page": 13,
+      "text": "I'M",
+      "bbox": [
+        1373.0,
+        383.0,
+        1456.0,
+        433.0
+      ],
+      "confidence": 0.945749044418335,
+      "source": "paddleocr"
+    },
+    {
+      "page": 13,
+      "text": "SAYING",
+      "bbox": [
+        1328.0,
+        433.0,
+        1502.0,
+        492.0
+      ],
+      "confidence": 0.9874381422996521,
+      "source": "paddleocr"
+    },
+    {
+      "page": 13,
+      "text": "THIS FOR",
+      "bbox": [
+        1307.0,
+        492.0,
+        1527.0,
+        550.0
+      ],
+      "confidence": 0.9531245827674866,
+      "source": "paddleocr"
+    },
+    {
+      "page": 13,
+      "text": "KANEKI",
+      "bbox": [
+        1921.0,
+        525.0,
+        2215.0,
+        617.0
+      ],
+      "confidence": 0.9942443370819092,
+      "source": "paddleocr"
+    },
+    {
+      "page": 13,
+      "text": "YOUR",
+      "bbox": [
+        1348.0,
+        550.0,
+        1485.0,
+        608.0
+      ],
+      "confidence": 0.9961028695106506,
+      "source": "paddleocr"
+    },
+    {
+      "page": 13,
+      "text": "OWN",
+      "bbox": [
+        1350.0,
+        593.0,
+        1484.0,
+        673.0
+      ],
+      "confidence": 0.9962511658668518,
+      "source": "paddleocr"
+    },
+    {
+      "page": 13,
+      "text": "I!",
+      "bbox": [
+        2032.0,
+        612.0,
+        2113.0,
+        701.0
+      ],
+      "confidence": 0.558612048625946,
+      "source": "paddleocr"
+    },
+    {
+      "page": 13,
+      "text": "GOOD...",
+      "bbox": [
+        1319.0,
+        663.0,
+        1506.0,
+        721.0
+      ],
+      "confidence": 0.9696463346481323,
+      "source": "paddleocr"
+    },
+    {
+      "page": 13,
+      "text": "GIVE",
+      "bbox": [
+        1153.0,
+        721.0,
+        1328.0,
+        800.0
+      ],
+      "confidence": 0.996611475944519,
+      "source": "paddleocr"
+    },
+    {
+      "page": 13,
+      "text": "UP!!",
+      "bbox": [
+        1158.0,
+        800.0,
+        1315.0,
+        879.0
+      ],
+      "confidence": 0.9757057428359985,
+      "source": "paddleocr"
+    },
+    {
+      "page": 13,
+      "text": "SHE'S",
+      "bbox": [
+        1348.0,
+        1242.0,
+        1514.0,
+        1300.0
+      ],
+      "confidence": 0.9760149717330933,
+      "source": "paddleocr"
+    },
+    {
+      "page": 13,
+      "text": "IFSHE",
+      "bbox": [
+        1153.0,
+        1292.0,
+        1303.0,
+        1350.0
+      ],
+      "confidence": 0.984087347984314,
+      "source": "paddleocr"
+    },
+    {
+      "page": 13,
+      "text": "WAY",
+      "bbox": [
+        1369.0,
+        1304.0,
+        1489.0,
+        1367.0
+      ],
+      "confidence": 0.9765445590019226,
+      "source": "paddleocr"
+    },
+    {
+      "page": 13,
+      "text": "TOOK",
+      "bbox": [
+        1162.0,
+        1350.0,
+        1290.0,
+        1396.0
+      ],
+      "confidence": 0.9969253540039062,
+      "source": "paddleocr"
+    },
+    {
+      "page": 13,
+      "text": "TOO",
+      "bbox": [
+        1365.0,
+        1371.0,
+        1498.0,
+        1433.0
+      ],
+      "confidence": 0.9925634264945984,
+      "source": "paddleocr"
+    },
+    {
+      "page": 13,
+      "text": "THOSE",
+      "bbox": [
+        1149.0,
+        1404.0,
+        1303.0,
+        1450.0
+      ],
+      "confidence": 0.997296929359436,
+      "source": "paddleocr"
+    },
+    {
+      "page": 13,
+      "text": "HOT",
+      "bbox": [
+        1369.0,
+        1433.0,
+        1489.0,
+        1496.0
+      ],
+      "confidence": 0.9945416450500488,
+      "source": "paddleocr"
+    },
+    {
+      "page": 13,
+      "text": "GLASSES",
+      "bbox": [
+        1124.0,
+        1450.0,
+        1323.0,
+        1496.0
+      ],
+      "confidence": 0.989799976348877,
+      "source": "paddleocr"
+    },
+    {
+      "page": 13,
+      "text": "FOR",
+      "bbox": [
+        1369.0,
+        1496.0,
+        1494.0,
+        1558.0
+      ],
+      "confidence": 0.9983835220336914,
+      "source": "paddleocr"
+    },
+    {
+      "page": 13,
+      "text": "OFF,",
+      "bbox": [
+        1178.0,
+        1508.0,
+        1278.0,
+        1554.0
+      ],
+      "confidence": 0.9883060455322266,
+      "source": "paddleocr"
+    },
+    {
+      "page": 13,
+      "text": "URGH",
+      "bbox": [
+        307.0,
+        1521.0,
+        456.0,
+        1579.0
+      ],
+      "confidence": 0.972890317440033,
+      "source": "paddleocr"
+    },
+    {
+      "page": 13,
+      "text": "SHED BE",
+      "bbox": [
+        1124.0,
+        1554.0,
+        1336.0,
+        1612.0
+      ],
+      "confidence": 0.9311806559562683,
+      "source": "paddleocr"
+    },
+    {
+      "page": 13,
+      "text": "YOU.",
+      "bbox": [
+        1361.0,
+        1562.0,
+        1489.0,
+        1621.0
+      ],
+      "confidence": 0.9223542213439941,
+      "source": "paddleocr"
+    },
+    {
+      "page": 13,
+      "text": "SOME-",
+      "bbox": [
+        1145.0,
+        1608.0,
+        1299.0,
+        1667.0
+      ],
+      "confidence": 0.9933382868766785,
+      "source": "paddleocr"
+    },
+    {
+      "page": 13,
+      "text": "THNN",
+      "bbox": [
+        1153.0,
+        1663.0,
+        1299.0,
+        1721.0
+      ],
+      "confidence": 0.8275464773178101,
+      "source": "paddleocr"
+    },
+    {
+      "page": 13,
+      "text": "ELSE",
+      "bbox": [
+        1166.0,
+        1721.0,
+        1282.0,
+        1767.0
+      ],
+      "confidence": 0.9934200048446655,
+      "source": "paddleocr"
+    },
+    {
+      "page": 13,
+      "text": "I-I",
+      "bbox": [
+        2332.0,
+        2112.0,
+        2460.0,
+        2196.0
+      ],
+      "confidence": 0.9787805676460266,
+      "source": "paddleocr"
+    },
+    {
+      "page": 13,
+      "text": "I'M",
+      "bbox": [
+        1137.0,
+        2162.0,
+        1240.0,
+        2225.0
+      ],
+      "confidence": 0.8302395939826965,
+      "source": "paddleocr"
+    },
+    {
+      "page": 13,
+      "text": "KNOW",
+      "bbox": [
+        2282.0,
+        2200.0,
+        2514.0,
+        2287.0
+      ],
+      "confidence": 0.9967378377914429,
+      "source": "paddleocr"
+    },
+    {
+      "page": 13,
+      "text": "HAPPY",
+      "bbox": [
+        1104.0,
+        2229.0,
+        1265.0,
+        2287.0
+      ],
+      "confidence": 0.9836527109146118,
+      "source": "paddleocr"
+    },
+    {
+      "page": 13,
+      "text": "JUST",
+      "bbox": [
+        1112.0,
+        2296.0,
+        1257.0,
+        2354.0
+      ],
+      "confidence": 0.9824352264404297,
+      "source": "paddleocr"
+    },
+    {
+      "page": 13,
+      "text": "LOOKING",
+      "bbox": [
+        1070.0,
+        2358.0,
+        1303.0,
+        2417.0
+      ],
+      "confidence": 0.9955067038536072,
+      "source": "paddleocr"
+    },
+    {
+      "page": 13,
+      "text": "AT HER",
+      "bbox": [
+        1087.0,
+        2425.0,
+        1282.0,
+        2483.0
+      ],
+      "confidence": 0.9144787192344666,
+      "source": "paddleocr"
+    },
+    {
+      "page": 13,
+      "text": "FROM",
+      "bbox": [
+        1104.0,
+        2492.0,
+        1270.0,
+        2550.0
+      ],
+      "confidence": 0.9982033371925354,
+      "source": "paddleocr"
+    },
+    {
+      "page": 13,
+      "text": "AFAR.",
+      "bbox": [
+        1112.0,
+        2554.0,
+        1257.0,
+        2612.0
+      ],
+      "confidence": 0.9821926355361938,
+      "source": "paddleocr"
+    },
+    {
+      "page": 13,
+      "text": "SHE'S",
+      "bbox": [
+        2153.0,
+        2629.0,
+        2344.0,
+        2704.0
+      ],
+      "confidence": 0.9761420488357544,
+      "source": "paddleocr"
+    },
+    {
+      "page": 13,
+      "text": "PLUS",
+      "bbox": [
+        274.0,
+        2683.0,
+        436.0,
+        2746.0
+      ],
+      "confidence": 0.9940824508666992,
+      "source": "paddleocr"
+    },
+    {
+      "page": 13,
+      "text": "OUT",
+      "bbox": [
+        2174.0,
+        2704.0,
+        2323.0,
+        2779.0
+      ],
+      "confidence": 0.9829835295677185,
+      "source": "paddleocr"
+    },
+    {
+      "page": 13,
+      "text": "OFMY",
+      "bbox": [
+        2145.0,
+        2792.0,
+        2348.0,
+        2854.0
+      ],
+      "confidence": 0.915955126285553,
+      "source": "paddleocr"
+    },
+    {
+      "page": 13,
+      "text": "LEAGUE.",
+      "bbox": [
+        2108.0,
+        2862.0,
+        2377.0,
+        2933.0
+      ],
+      "confidence": 0.9690462350845337,
+      "source": "paddleocr"
+    },
+    {
+      "page": 13,
+      "text": "WHEN",
+      "bbox": [
+        1145.0,
+        3083.0,
+        1286.0,
+        3142.0
+      ],
+      "confidence": 0.9974185228347778,
+      "source": "paddleocr"
+    },
+    {
+      "page": 13,
+      "text": "OUR",
+      "bbox": [
+        1162.0,
+        3138.0,
+        1278.0,
+        3200.0
+      ],
+      "confidence": 0.9927635192871094,
+      "source": "paddleocr"
+    },
+    {
+      "page": 13,
+      "text": "EYES",
+      "bbox": [
+        1149.0,
+        3196.0,
+        1282.0,
+        3258.0
+      ],
+      "confidence": 0.9742125272750854,
+      "source": "paddleocr"
+    },
+    {
+      "page": 13,
+      "text": "MEET",
+      "bbox": [
+        1145.0,
+        3254.0,
+        1282.0,
+        3312.0
+      ],
+      "confidence": 0.9916674494743347,
+      "source": "paddleocr"
+    },
+    {
+      "page": 13,
+      "text": "14",
+      "bbox": [
+        2493.0,
+        3737.0,
+        2556.0,
+        3787.0
+      ],
+      "confidence": 0.9991483688354492,
+      "source": "paddleocr"
+    }
+  ],
+  "bubbles": [
+    {
+      "page": 13,
+      "index": 1,
+      "text_display": "KANEKI\nI!",
+      "text_tts": "KANEKI I!",
+      "bbox": [
+        1921.0,
+        525.0,
+        2215.0,
+        701.0
+      ],
+      "items": [
+        {
+          "page": 13,
+          "text": "KANEKI",
+          "bbox": [
+            1921.0,
+            525.0,
+            2215.0,
+            617.0
+          ],
+          "confidence": 0.9942443370819092,
+          "source": "paddleocr"
+        },
+        {
+          "page": 13,
+          "text": "I!",
+          "bbox": [
+            2032.0,
+            612.0,
+            2113.0,
+            701.0
+          ],
+          "confidence": 0.558612048625946,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.7764281928539276
+    },
+    {
+      "page": 13,
+      "index": 2,
+      "text_display": "OWN",
+      "text_tts": "OWN",
+      "bbox": [
+        1350.0,
+        593.0,
+        1484.0,
+        673.0
+      ],
+      "items": [
+        {
+          "page": 13,
+          "text": "OWN",
+          "bbox": [
+            1350.0,
+            593.0,
+            1484.0,
+            673.0
+          ],
+          "confidence": 0.9962511658668518,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9962511658668518
+    },
+    {
+      "page": 13,
+      "index": 3,
+      "text_display": "I'M\nSAYING\nTHIS FOR\nYOUR\nGOOD...\nGIVE\nUP!!",
+      "text_tts": "I'M SAYING THIS FOR YOUR GOOD... GIVE UP!!",
+      "bbox": [
+        1153.0,
+        383.0,
+        1527.0,
+        879.0
+      ],
+      "items": [
+        {
+          "page": 13,
+          "text": "I'M",
+          "bbox": [
+            1373.0,
+            383.0,
+            1456.0,
+            433.0
+          ],
+          "confidence": 0.945749044418335,
+          "source": "paddleocr"
+        },
+        {
+          "page": 13,
+          "text": "SAYING",
+          "bbox": [
+            1328.0,
+            433.0,
+            1502.0,
+            492.0
+          ],
+          "confidence": 0.9874381422996521,
+          "source": "paddleocr"
+        },
+        {
+          "page": 13,
+          "text": "THIS FOR",
+          "bbox": [
+            1307.0,
+            492.0,
+            1527.0,
+            550.0
+          ],
+          "confidence": 0.9531245827674866,
+          "source": "paddleocr"
+        },
+        {
+          "page": 13,
+          "text": "YOUR",
+          "bbox": [
+            1348.0,
+            550.0,
+            1485.0,
+            608.0
+          ],
+          "confidence": 0.9961028695106506,
+          "source": "paddleocr"
+        },
+        {
+          "page": 13,
+          "text": "GOOD...",
+          "bbox": [
+            1319.0,
+            663.0,
+            1506.0,
+            721.0
+          ],
+          "confidence": 0.9696463346481323,
+          "source": "paddleocr"
+        },
+        {
+          "page": 13,
+          "text": "GIVE",
+          "bbox": [
+            1153.0,
+            721.0,
+            1328.0,
+            800.0
+          ],
+          "confidence": 0.996611475944519,
+          "source": "paddleocr"
+        },
+        {
+          "page": 13,
+          "text": "UP!!",
+          "bbox": [
+            1158.0,
+            800.0,
+            1315.0,
+            879.0
+          ],
+          "confidence": 0.9757057428359985,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9749111703463963
+    },
+    {
+      "page": 13,
+      "index": 4,
+      "text_display": "SHE'S\nWAY\nTOO\nHOT\nFOR\nSHED BE\nSOME-\nTHNN\nELSE",
+      "text_tts": "SHE'S WAY TOO HOT FOR SHED BE SOME- THNN ELSE",
+      "bbox": [
+        1124.0,
+        1242.0,
+        1514.0,
+        1767.0
+      ],
+      "items": [
+        {
+          "page": 13,
+          "text": "SHE'S",
+          "bbox": [
+            1348.0,
+            1242.0,
+            1514.0,
+            1300.0
+          ],
+          "confidence": 0.9760149717330933,
+          "source": "paddleocr"
+        },
+        {
+          "page": 13,
+          "text": "WAY",
+          "bbox": [
+            1369.0,
+            1304.0,
+            1489.0,
+            1367.0
+          ],
+          "confidence": 0.9765445590019226,
+          "source": "paddleocr"
+        },
+        {
+          "page": 13,
+          "text": "TOO",
+          "bbox": [
+            1365.0,
+            1371.0,
+            1498.0,
+            1433.0
+          ],
+          "confidence": 0.9925634264945984,
+          "source": "paddleocr"
+        },
+        {
+          "page": 13,
+          "text": "HOT",
+          "bbox": [
+            1369.0,
+            1433.0,
+            1489.0,
+            1496.0
+          ],
+          "confidence": 0.9945416450500488,
+          "source": "paddleocr"
+        },
+        {
+          "page": 13,
+          "text": "FOR",
+          "bbox": [
+            1369.0,
+            1496.0,
+            1494.0,
+            1558.0
+          ],
+          "confidence": 0.9983835220336914,
+          "source": "paddleocr"
+        },
+        {
+          "page": 13,
+          "text": "SHED BE",
+          "bbox": [
+            1124.0,
+            1554.0,
+            1336.0,
+            1612.0
+          ],
+          "confidence": 0.9311806559562683,
+          "source": "paddleocr"
+        },
+        {
+          "page": 13,
+          "text": "SOME-",
+          "bbox": [
+            1145.0,
+            1608.0,
+            1299.0,
+            1667.0
+          ],
+          "confidence": 0.9933382868766785,
+          "source": "paddleocr"
+        },
+        {
+          "page": 13,
+          "text": "THNN",
+          "bbox": [
+            1153.0,
+            1663.0,
+            1299.0,
+            1721.0
+          ],
+          "confidence": 0.8275464773178101,
+          "source": "paddleocr"
+        },
+        {
+          "page": 13,
+          "text": "ELSE",
+          "bbox": [
+            1166.0,
+            1721.0,
+            1282.0,
+            1767.0
+          ],
+          "confidence": 0.9934200048446655,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9648370610343086
+    },
+    {
+      "page": 13,
+      "index": 5,
+      "text_display": "IFSHE\nTOOK\nTHOSE\nGLASSES\nOFF,\nYOU.",
+      "text_tts": "IFSHE TOOK THOSE GLASSES OFF, YOU.",
+      "bbox": [
+        1124.0,
+        1292.0,
+        1489.0,
+        1621.0
+      ],
+      "items": [
+        {
+          "page": 13,
+          "text": "IFSHE",
+          "bbox": [
+            1153.0,
+            1292.0,
+            1303.0,
+            1350.0
+          ],
+          "confidence": 0.984087347984314,
+          "source": "paddleocr"
+        },
+        {
+          "page": 13,
+          "text": "TOOK",
+          "bbox": [
+            1162.0,
+            1350.0,
+            1290.0,
+            1396.0
+          ],
+          "confidence": 0.9969253540039062,
+          "source": "paddleocr"
+        },
+        {
+          "page": 13,
+          "text": "THOSE",
+          "bbox": [
+            1149.0,
+            1404.0,
+            1303.0,
+            1450.0
+          ],
+          "confidence": 0.997296929359436,
+          "source": "paddleocr"
+        },
+        {
+          "page": 13,
+          "text": "GLASSES",
+          "bbox": [
+            1124.0,
+            1450.0,
+            1323.0,
+            1496.0
+          ],
+          "confidence": 0.989799976348877,
+          "source": "paddleocr"
+        },
+        {
+          "page": 13,
+          "text": "OFF,",
+          "bbox": [
+            1178.0,
+            1508.0,
+            1278.0,
+            1554.0
+          ],
+          "confidence": 0.9883060455322266,
+          "source": "paddleocr"
+        },
+        {
+          "page": 13,
+          "text": "YOU.",
+          "bbox": [
+            1361.0,
+            1562.0,
+            1489.0,
+            1621.0
+          ],
+          "confidence": 0.9223542213439941,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.979794979095459
+    },
+    {
+      "page": 13,
+      "index": 6,
+      "text_display": "URGH",
+      "text_tts": "URGH",
+      "bbox": [
+        307.0,
+        1521.0,
+        456.0,
+        1579.0
+      ],
+      "items": [
+        {
+          "page": 13,
+          "text": "URGH",
+          "bbox": [
+            307.0,
+            1521.0,
+            456.0,
+            1579.0
+          ],
+          "confidence": 0.972890317440033,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.972890317440033
+    },
+    {
+      "page": 13,
+      "index": 7,
+      "text_display": "I-I\nKNOW",
+      "text_tts": "I-I KNOW",
+      "bbox": [
+        2282.0,
+        2112.0,
+        2514.0,
+        2287.0
+      ],
+      "items": [
+        {
+          "page": 13,
+          "text": "I-I",
+          "bbox": [
+            2332.0,
+            2112.0,
+            2460.0,
+            2196.0
+          ],
+          "confidence": 0.9787805676460266,
+          "source": "paddleocr"
+        },
+        {
+          "page": 13,
+          "text": "KNOW",
+          "bbox": [
+            2282.0,
+            2200.0,
+            2514.0,
+            2287.0
+          ],
+          "confidence": 0.9967378377914429,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9877592027187347
+    },
+    {
+      "page": 13,
+      "index": 8,
+      "text_display": "I'M\nHAPPY\nJUST\nLOOKING\nAT HER\nFROM\nAFAR.",
+      "text_tts": "I'M HAPPY JUST LOOKING AT HER FROM AFAR.",
+      "bbox": [
+        1070.0,
+        2162.0,
+        1303.0,
+        2612.0
+      ],
+      "items": [
+        {
+          "page": 13,
+          "text": "I'M",
+          "bbox": [
+            1137.0,
+            2162.0,
+            1240.0,
+            2225.0
+          ],
+          "confidence": 0.8302395939826965,
+          "source": "paddleocr"
+        },
+        {
+          "page": 13,
+          "text": "HAPPY",
+          "bbox": [
+            1104.0,
+            2229.0,
+            1265.0,
+            2287.0
+          ],
+          "confidence": 0.9836527109146118,
+          "source": "paddleocr"
+        },
+        {
+          "page": 13,
+          "text": "JUST",
+          "bbox": [
+            1112.0,
+            2296.0,
+            1257.0,
+            2354.0
+          ],
+          "confidence": 0.9824352264404297,
+          "source": "paddleocr"
+        },
+        {
+          "page": 13,
+          "text": "LOOKING",
+          "bbox": [
+            1070.0,
+            2358.0,
+            1303.0,
+            2417.0
+          ],
+          "confidence": 0.9955067038536072,
+          "source": "paddleocr"
+        },
+        {
+          "page": 13,
+          "text": "AT HER",
+          "bbox": [
+            1087.0,
+            2425.0,
+            1282.0,
+            2483.0
+          ],
+          "confidence": 0.9144787192344666,
+          "source": "paddleocr"
+        },
+        {
+          "page": 13,
+          "text": "FROM",
+          "bbox": [
+            1104.0,
+            2492.0,
+            1270.0,
+            2550.0
+          ],
+          "confidence": 0.9982033371925354,
+          "source": "paddleocr"
+        },
+        {
+          "page": 13,
+          "text": "AFAR.",
+          "bbox": [
+            1112.0,
+            2554.0,
+            1257.0,
+            2612.0
+          ],
+          "confidence": 0.9821926355361938,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9552441324506488
+    },
+    {
+      "page": 13,
+      "index": 9,
+      "text_display": "SHE'S\nOUT\nOFMY\nLEAGUE.",
+      "text_tts": "SHE'S OUT OFMY LEAGUE.",
+      "bbox": [
+        2108.0,
+        2629.0,
+        2377.0,
+        2933.0
+      ],
+      "items": [
+        {
+          "page": 13,
+          "text": "SHE'S",
+          "bbox": [
+            2153.0,
+            2629.0,
+            2344.0,
+            2704.0
+          ],
+          "confidence": 0.9761420488357544,
+          "source": "paddleocr"
+        },
+        {
+          "page": 13,
+          "text": "OUT",
+          "bbox": [
+            2174.0,
+            2704.0,
+            2323.0,
+            2779.0
+          ],
+          "confidence": 0.9829835295677185,
+          "source": "paddleocr"
+        },
+        {
+          "page": 13,
+          "text": "OFMY",
+          "bbox": [
+            2145.0,
+            2792.0,
+            2348.0,
+            2854.0
+          ],
+          "confidence": 0.915955126285553,
+          "source": "paddleocr"
+        },
+        {
+          "page": 13,
+          "text": "LEAGUE.",
+          "bbox": [
+            2108.0,
+            2862.0,
+            2377.0,
+            2933.0
+          ],
+          "confidence": 0.9690462350845337,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9610317349433899
+    },
+    {
+      "page": 13,
+      "index": 10,
+      "text_display": "PLUS",
+      "text_tts": "PLUS",
+      "bbox": [
+        274.0,
+        2683.0,
+        436.0,
+        2746.0
+      ],
+      "items": [
+        {
+          "page": 13,
+          "text": "PLUS",
+          "bbox": [
+            274.0,
+            2683.0,
+            436.0,
+            2746.0
+          ],
+          "confidence": 0.9940824508666992,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9940824508666992
+    },
+    {
+      "page": 13,
+      "index": 11,
+      "text_display": "WHEN\nOUR\nEYES\nMEET",
+      "text_tts": "WHEN OUR EYES MEET",
+      "bbox": [
+        1145.0,
+        3083.0,
+        1286.0,
+        3312.0
+      ],
+      "items": [
+        {
+          "page": 13,
+          "text": "WHEN",
+          "bbox": [
+            1145.0,
+            3083.0,
+            1286.0,
+            3142.0
+          ],
+          "confidence": 0.9974185228347778,
+          "source": "paddleocr"
+        },
+        {
+          "page": 13,
+          "text": "OUR",
+          "bbox": [
+            1162.0,
+            3138.0,
+            1278.0,
+            3200.0
+          ],
+          "confidence": 0.9927635192871094,
+          "source": "paddleocr"
+        },
+        {
+          "page": 13,
+          "text": "EYES",
+          "bbox": [
+            1149.0,
+            3196.0,
+            1282.0,
+            3258.0
+          ],
+          "confidence": 0.9742125272750854,
+          "source": "paddleocr"
+        },
+        {
+          "page": 13,
+          "text": "MEET",
+          "bbox": [
+            1145.0,
+            3254.0,
+            1282.0,
+            3312.0
+          ],
+          "confidence": 0.9916674494743347,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9890155047178268
+    },
+    {
+      "page": 13,
+      "index": 12,
+      "text_display": "14",
+      "text_tts": "14",
+      "bbox": [
+        2493.0,
+        3737.0,
+        2556.0,
+        3787.0
+      ],
+      "items": [
+        {
+          "page": 13,
+          "text": "14",
+          "bbox": [
+            2493.0,
+            3737.0,
+            2556.0,
+            3787.0
+          ],
+          "confidence": 0.9991483688354492,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9991483688354492
+    }
+  ]
+}

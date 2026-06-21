@@ -1,0 +1,883 @@
+{
+  "page_data": {
+    "pdf_path": "Manga/Tokyo Ghoul Volume 1.pdf",
+    "page_index": 23,
+    "image_path": "cache/pages/page_0023.png",
+    "pdf_width": 1115.0,
+    "pdf_height": 1600.0,
+    "image_width": 2788,
+    "image_height": 4000,
+    "zoom": 2.5
+  },
+  "ocr_items": [
+    {
+      "page": 23,
+      "text": "YOUR",
+      "bbox": [
+        1610.0,
+        608.0,
+        1776.0,
+        671.0
+      ],
+      "confidence": 0.9916496276855469,
+      "source": "paddleocr"
+    },
+    {
+      "page": 23,
+      "text": "BLOOD",
+      "bbox": [
+        1589.0,
+        679.0,
+        1788.0,
+        742.0
+      ],
+      "confidence": 0.9977631568908691,
+      "source": "paddleocr"
+    },
+    {
+      "page": 23,
+      "text": "TYPE'S",
+      "bbox": [
+        1593.0,
+        742.0,
+        1796.0,
+        817.0
+      ],
+      "confidence": 0.9734063148498535,
+      "source": "paddleocr"
+    },
+    {
+      "page": 23,
+      "text": "MINE",
+      "bbox": [
+        1423.0,
+        825.0,
+        1581.0,
+        887.0
+      ],
+      "confidence": 0.998349130153656,
+      "source": "paddleocr"
+    },
+    {
+      "page": 23,
+      "text": "AB?!",
+      "bbox": [
+        1614.0,
+        817.0,
+        1755.0,
+        879.0
+      ],
+      "confidence": 0.9767366647720337,
+      "source": "paddleocr"
+    },
+    {
+      "page": 23,
+      "text": "Too",
+      "bbox": [
+        1411.0,
+        896.0,
+        1589.0,
+        971.0
+      ],
+      "confidence": 0.859523594379425,
+      "source": "paddleocr"
+    },
+    {
+      "page": 23,
+      "text": "REALLY?",
+      "bbox": [
+        1095.0,
+        1129.0,
+        1336.0,
+        1200.0
+      ],
+      "confidence": 0.9740643501281738,
+      "source": "paddleocr"
+    },
+    {
+      "page": 23,
+      "text": "WHAT A",
+      "bbox": [
+        1115.0,
+        1195.0,
+        1324.0,
+        1268.0
+      ],
+      "confidence": 0.9578177332878113,
+      "source": "paddleocr"
+    },
+    {
+      "page": 23,
+      "text": "COINCI-",
+      "bbox": [
+        1116.0,
+        1271.0,
+        1319.0,
+        1329.0
+      ],
+      "confidence": 0.9893718957901001,
+      "source": "paddleocr"
+    },
+    {
+      "page": 23,
+      "text": "DENCE.",
+      "bbox": [
+        1120.0,
+        1333.0,
+        1307.0,
+        1392.0
+      ],
+      "confidence": 0.9617220759391785,
+      "source": "paddleocr"
+    },
+    {
+      "page": 23,
+      "text": "OUR",
+      "bbox": [
+        2361.0,
+        1954.0,
+        2464.0,
+        2004.0
+      ],
+      "confidence": 0.9928455352783203,
+      "source": "paddleocr"
+    },
+    {
+      "page": 23,
+      "text": "TASTE",
+      "bbox": [
+        2334.0,
+        1999.0,
+        2482.0,
+        2068.0
+      ],
+      "confidence": 0.9962965846061707,
+      "source": "paddleocr"
+    },
+    {
+      "page": 23,
+      "text": "WE",
+      "bbox": [
+        1431.0,
+        2025.0,
+        1527.0,
+        2088.0
+      ],
+      "confidence": 0.9926242232322693,
+      "source": "paddleocr"
+    },
+    {
+      "page": 23,
+      "text": "IN LIT-",
+      "bbox": [
+        2332.0,
+        2058.0,
+        2485.0,
+        2117.0
+      ],
+      "confidence": 0.9165871739387512,
+      "source": "paddleocr"
+    },
+    {
+      "page": 23,
+      "text": "HAVESO",
+      "bbox": [
+        1369.0,
+        2088.0,
+        1589.0,
+        2146.0
+      ],
+      "confidence": 0.988447368144989,
+      "source": "paddleocr"
+    },
+    {
+      "page": 23,
+      "text": "ERATURE",
+      "bbox": [
+        2315.0,
+        2117.0,
+        2506.0,
+        2162.0
+      ],
+      "confidence": 0.9963591694831848,
+      "source": "paddleocr"
+    },
+    {
+      "page": 23,
+      "text": "MUCH IN",
+      "bbox": [
+        1373.0,
+        2150.0,
+        1589.0,
+        2208.0
+      ],
+      "confidence": 0.9419358372688293,
+      "source": "paddleocr"
+    },
+    {
+      "page": 23,
+      "text": "IS THE",
+      "bbox": [
+        2332.0,
+        2162.0,
+        2489.0,
+        2221.0
+      ],
+      "confidence": 0.9104745984077454,
+      "source": "paddleocr"
+    },
+    {
+      "page": 23,
+      "text": "COMMON.",
+      "bbox": [
+        1361.0,
+        2208.0,
+        1601.0,
+        2267.0
+      ],
+      "confidence": 0.993730366230011,
+      "source": "paddleocr"
+    },
+    {
+      "page": 23,
+      "text": "SAME...",
+      "bbox": [
+        2327.0,
+        2221.0,
+        2489.0,
+        2267.0
+      ],
+      "confidence": 0.9814229607582092,
+      "source": "paddleocr"
+    },
+    {
+      "page": 23,
+      "text": "SIOS",
+      "bbox": [
+        1689.0,
+        2454.0,
+        1850.0,
+        2517.0
+      ],
+      "confidence": 0.8490347266197205,
+      "source": "paddleocr"
+    },
+    {
+      "page": 23,
+      "text": "OUR",
+      "bbox": [
+        1701.0,
+        2517.0,
+        1830.0,
+        2579.0
+      ],
+      "confidence": 0.9933732151985168,
+      "source": "paddleocr"
+    },
+    {
+      "page": 23,
+      "text": "AGE...",
+      "bbox": [
+        1670.0,
+        2569.0,
+        1852.0,
+        2651.0
+      ],
+      "confidence": 0.9461275935173035,
+      "source": "paddleocr"
+    },
+    {
+      "page": 23,
+      "text": "TH-THIS",
+      "bbox": [
+        1788.0,
+        2846.0,
+        2062.0,
+        2933.0
+      ],
+      "confidence": 0.9851490259170532,
+      "source": "paddleocr"
+    },
+    {
+      "page": 23,
+      "text": "...GOING",
+      "bbox": [
+        813.0,
+        2900.0,
+        1099.0,
+        2975.0
+      ],
+      "confidence": 0.9340155124664307,
+      "source": "paddleocr"
+    },
+    {
+      "page": 23,
+      "text": "KINDA",
+      "bbox": [
+        845.0,
+        2965.0,
+        1055.0,
+        3064.0
+      ],
+      "confidence": 0.9974126815795898,
+      "source": "paddleocr"
+    },
+    {
+      "page": 23,
+      "text": "WELL.",
+      "bbox": [
+        851.0,
+        3058.0,
+        1041.0,
+        3138.0
+      ],
+      "confidence": 0.9606590270996094,
+      "source": "paddleocr"
+    },
+    {
+      "page": 23,
+      "text": "24",
+      "bbox": [
+        2502.0,
+        3754.0,
+        2572.0,
+        3804.0
+      ],
+      "confidence": 0.9993762969970703,
+      "source": "paddleocr"
+    }
+  ],
+  "bubbles": [
+    {
+      "page": 23,
+      "index": 1,
+      "text_display": "YOUR\nBLOOD\nTYPE'S\nAB?!\nToo",
+      "text_tts": "YOUR BLOOD TYPE'S AB?! Too",
+      "bbox": [
+        1411.0,
+        608.0,
+        1796.0,
+        971.0
+      ],
+      "items": [
+        {
+          "page": 23,
+          "text": "YOUR",
+          "bbox": [
+            1610.0,
+            608.0,
+            1776.0,
+            671.0
+          ],
+          "confidence": 0.9916496276855469,
+          "source": "paddleocr"
+        },
+        {
+          "page": 23,
+          "text": "BLOOD",
+          "bbox": [
+            1589.0,
+            679.0,
+            1788.0,
+            742.0
+          ],
+          "confidence": 0.9977631568908691,
+          "source": "paddleocr"
+        },
+        {
+          "page": 23,
+          "text": "TYPE'S",
+          "bbox": [
+            1593.0,
+            742.0,
+            1796.0,
+            817.0
+          ],
+          "confidence": 0.9734063148498535,
+          "source": "paddleocr"
+        },
+        {
+          "page": 23,
+          "text": "AB?!",
+          "bbox": [
+            1614.0,
+            817.0,
+            1755.0,
+            879.0
+          ],
+          "confidence": 0.9767366647720337,
+          "source": "paddleocr"
+        },
+        {
+          "page": 23,
+          "text": "Too",
+          "bbox": [
+            1411.0,
+            896.0,
+            1589.0,
+            971.0
+          ],
+          "confidence": 0.859523594379425,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9598158717155456
+    },
+    {
+      "page": 23,
+      "index": 2,
+      "text_display": "MINE",
+      "text_tts": "MINE",
+      "bbox": [
+        1423.0,
+        825.0,
+        1581.0,
+        887.0
+      ],
+      "items": [
+        {
+          "page": 23,
+          "text": "MINE",
+          "bbox": [
+            1423.0,
+            825.0,
+            1581.0,
+            887.0
+          ],
+          "confidence": 0.998349130153656,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.998349130153656
+    },
+    {
+      "page": 23,
+      "index": 3,
+      "text_display": "REALLY?\nWHAT A\nCOINCI-\nDENCE.",
+      "text_tts": "REALLY? WHAT A COINCI- DENCE.",
+      "bbox": [
+        1095.0,
+        1129.0,
+        1336.0,
+        1392.0
+      ],
+      "items": [
+        {
+          "page": 23,
+          "text": "REALLY?",
+          "bbox": [
+            1095.0,
+            1129.0,
+            1336.0,
+            1200.0
+          ],
+          "confidence": 0.9740643501281738,
+          "source": "paddleocr"
+        },
+        {
+          "page": 23,
+          "text": "WHAT A",
+          "bbox": [
+            1115.0,
+            1195.0,
+            1324.0,
+            1268.0
+          ],
+          "confidence": 0.9578177332878113,
+          "source": "paddleocr"
+        },
+        {
+          "page": 23,
+          "text": "COINCI-",
+          "bbox": [
+            1116.0,
+            1271.0,
+            1319.0,
+            1329.0
+          ],
+          "confidence": 0.9893718957901001,
+          "source": "paddleocr"
+        },
+        {
+          "page": 23,
+          "text": "DENCE.",
+          "bbox": [
+            1120.0,
+            1333.0,
+            1307.0,
+            1392.0
+          ],
+          "confidence": 0.9617220759391785,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9707440137863159
+    },
+    {
+      "page": 23,
+      "index": 4,
+      "text_display": "OUR\nTASTE\nERATURE\nIS THE\nSAME...",
+      "text_tts": "OUR TASTE ERATURE IS THE SAME...",
+      "bbox": [
+        2315.0,
+        1954.0,
+        2506.0,
+        2267.0
+      ],
+      "items": [
+        {
+          "page": 23,
+          "text": "OUR",
+          "bbox": [
+            2361.0,
+            1954.0,
+            2464.0,
+            2004.0
+          ],
+          "confidence": 0.9928455352783203,
+          "source": "paddleocr"
+        },
+        {
+          "page": 23,
+          "text": "TASTE",
+          "bbox": [
+            2334.0,
+            1999.0,
+            2482.0,
+            2068.0
+          ],
+          "confidence": 0.9962965846061707,
+          "source": "paddleocr"
+        },
+        {
+          "page": 23,
+          "text": "ERATURE",
+          "bbox": [
+            2315.0,
+            2117.0,
+            2506.0,
+            2162.0
+          ],
+          "confidence": 0.9963591694831848,
+          "source": "paddleocr"
+        },
+        {
+          "page": 23,
+          "text": "IS THE",
+          "bbox": [
+            2332.0,
+            2162.0,
+            2489.0,
+            2221.0
+          ],
+          "confidence": 0.9104745984077454,
+          "source": "paddleocr"
+        },
+        {
+          "page": 23,
+          "text": "SAME...",
+          "bbox": [
+            2327.0,
+            2221.0,
+            2489.0,
+            2267.0
+          ],
+          "confidence": 0.9814229607582092,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9754797697067261
+    },
+    {
+      "page": 23,
+      "index": 5,
+      "text_display": "IN LIT-",
+      "text_tts": "IN LIT-",
+      "bbox": [
+        2332.0,
+        2058.0,
+        2485.0,
+        2117.0
+      ],
+      "items": [
+        {
+          "page": 23,
+          "text": "IN LIT-",
+          "bbox": [
+            2332.0,
+            2058.0,
+            2485.0,
+            2117.0
+          ],
+          "confidence": 0.9165871739387512,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9165871739387512
+    },
+    {
+      "page": 23,
+      "index": 6,
+      "text_display": "WE\nHAVESO\nMUCH IN\nCOMMON.",
+      "text_tts": "WE HAVESO MUCH IN COMMON.",
+      "bbox": [
+        1361.0,
+        2025.0,
+        1601.0,
+        2267.0
+      ],
+      "items": [
+        {
+          "page": 23,
+          "text": "WE",
+          "bbox": [
+            1431.0,
+            2025.0,
+            1527.0,
+            2088.0
+          ],
+          "confidence": 0.9926242232322693,
+          "source": "paddleocr"
+        },
+        {
+          "page": 23,
+          "text": "HAVESO",
+          "bbox": [
+            1369.0,
+            2088.0,
+            1589.0,
+            2146.0
+          ],
+          "confidence": 0.988447368144989,
+          "source": "paddleocr"
+        },
+        {
+          "page": 23,
+          "text": "MUCH IN",
+          "bbox": [
+            1373.0,
+            2150.0,
+            1589.0,
+            2208.0
+          ],
+          "confidence": 0.9419358372688293,
+          "source": "paddleocr"
+        },
+        {
+          "page": 23,
+          "text": "COMMON.",
+          "bbox": [
+            1361.0,
+            2208.0,
+            1601.0,
+            2267.0
+          ],
+          "confidence": 0.993730366230011,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9791844487190247
+    },
+    {
+      "page": 23,
+      "index": 7,
+      "text_display": "SIOS\nOUR",
+      "text_tts": "SIOS OUR",
+      "bbox": [
+        1689.0,
+        2454.0,
+        1850.0,
+        2579.0
+      ],
+      "items": [
+        {
+          "page": 23,
+          "text": "SIOS",
+          "bbox": [
+            1689.0,
+            2454.0,
+            1850.0,
+            2517.0
+          ],
+          "confidence": 0.8490347266197205,
+          "source": "paddleocr"
+        },
+        {
+          "page": 23,
+          "text": "OUR",
+          "bbox": [
+            1701.0,
+            2517.0,
+            1830.0,
+            2579.0
+          ],
+          "confidence": 0.9933732151985168,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9212039709091187
+    },
+    {
+      "page": 23,
+      "index": 8,
+      "text_display": "AGE...",
+      "text_tts": "AGE...",
+      "bbox": [
+        1670.0,
+        2569.0,
+        1852.0,
+        2651.0
+      ],
+      "items": [
+        {
+          "page": 23,
+          "text": "AGE...",
+          "bbox": [
+            1670.0,
+            2569.0,
+            1852.0,
+            2651.0
+          ],
+          "confidence": 0.9461275935173035,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9461275935173035
+    },
+    {
+      "page": 23,
+      "index": 9,
+      "text_display": "TH-THIS",
+      "text_tts": "TH-THIS",
+      "bbox": [
+        1788.0,
+        2846.0,
+        2062.0,
+        2933.0
+      ],
+      "items": [
+        {
+          "page": 23,
+          "text": "TH-THIS",
+          "bbox": [
+            1788.0,
+            2846.0,
+            2062.0,
+            2933.0
+          ],
+          "confidence": 0.9851490259170532,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9851490259170532
+    },
+    {
+      "page": 23,
+      "index": 10,
+      "text_display": "...GOING",
+      "text_tts": "...GOING",
+      "bbox": [
+        813.0,
+        2900.0,
+        1099.0,
+        2975.0
+      ],
+      "items": [
+        {
+          "page": 23,
+          "text": "...GOING",
+          "bbox": [
+            813.0,
+            2900.0,
+            1099.0,
+            2975.0
+          ],
+          "confidence": 0.9340155124664307,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9340155124664307
+    },
+    {
+      "page": 23,
+      "index": 11,
+      "text_display": "KINDA",
+      "text_tts": "KINDA",
+      "bbox": [
+        845.0,
+        2965.0,
+        1055.0,
+        3064.0
+      ],
+      "items": [
+        {
+          "page": 23,
+          "text": "KINDA",
+          "bbox": [
+            845.0,
+            2965.0,
+            1055.0,
+            3064.0
+          ],
+          "confidence": 0.9974126815795898,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9974126815795898
+    },
+    {
+      "page": 23,
+      "index": 12,
+      "text_display": "WELL.",
+      "text_tts": "WELL.",
+      "bbox": [
+        851.0,
+        3058.0,
+        1041.0,
+        3138.0
+      ],
+      "items": [
+        {
+          "page": 23,
+          "text": "WELL.",
+          "bbox": [
+            851.0,
+            3058.0,
+            1041.0,
+            3138.0
+          ],
+          "confidence": 0.9606590270996094,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9606590270996094
+    },
+    {
+      "page": 23,
+      "index": 13,
+      "text_display": "24",
+      "text_tts": "24",
+      "bbox": [
+        2502.0,
+        3754.0,
+        2572.0,
+        3804.0
+      ],
+      "items": [
+        {
+          "page": 23,
+          "text": "24",
+          "bbox": [
+            2502.0,
+            3754.0,
+            2572.0,
+            3804.0
+          ],
+          "confidence": 0.9993762969970703,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9993762969970703
+    }
+  ]
+}

@@ -1,0 +1,1093 @@
+{
+  "page_data": {
+    "pdf_path": "Manga/Tokyo Ghoul Volume 1.pdf",
+    "page_index": 21,
+    "image_path": "cache/pages/page_0021.png",
+    "pdf_width": 1115.0,
+    "pdf_height": 1600.0,
+    "image_width": 2788,
+    "image_height": 4000,
+    "zoom": 2.5
+  },
+  "ocr_items": [
+    {
+      "page": 21,
+      "text": "OH!",
+      "bbox": [
+        398.0,
+        1317.0,
+        510.0,
+        1383.0
+      ],
+      "confidence": 0.9901787638664246,
+      "source": "paddleocr"
+    },
+    {
+      "page": 21,
+      "text": "C",
+      "bbox": [
+        831.0,
+        1322.0,
+        883.0,
+        1366.0
+      ],
+      "confidence": 0.639310359954834,
+      "source": "paddleocr"
+    },
+    {
+      "page": 21,
+      "text": "HMM...",
+      "bbox": [
+        1294.0,
+        1321.0,
+        1485.0,
+        1383.0
+      ],
+      "confidence": 0.9850664138793945,
+      "source": "paddleocr"
+    },
+    {
+      "page": 21,
+      "text": "WHICH",
+      "bbox": [
+        2340.0,
+        1321.0,
+        2506.0,
+        1379.0
+      ],
+      "confidence": 0.9949512481689453,
+      "source": "paddleocr"
+    },
+    {
+      "page": 21,
+      "text": "DEAR",
+      "bbox": [
+        369.0,
+        1392.0,
+        535.0,
+        1454.0
+      ],
+      "confidence": 0.9983752369880676,
+      "source": "paddleocr"
+    },
+    {
+      "page": 21,
+      "text": "MAYBE",
+      "bbox": [
+        1290.0,
+        1392.0,
+        1489.0,
+        1454.0
+      ],
+      "confidence": 0.9836786985397339,
+      "source": "paddleocr"
+    },
+    {
+      "page": 21,
+      "text": "ONE'S",
+      "bbox": [
+        2335.0,
+        1374.0,
+        2507.0,
+        1447.0
+      ],
+      "confidence": 0.9790258407592773,
+      "source": "paddleocr"
+    },
+    {
+      "page": 21,
+      "text": "YOUR",
+      "bbox": [
+        2348.0,
+        1446.0,
+        2498.0,
+        1508.0
+      ],
+      "confidence": 0.9940289855003357,
+      "source": "paddleocr"
+    },
+    {
+      "page": 21,
+      "text": "KAFKA!",
+      "bbox": [
+        348.0,
+        1458.0,
+        564.0,
+        1533.0
+      ],
+      "confidence": 0.9882113337516785,
+      "source": "paddleocr"
+    },
+    {
+      "page": 21,
+      "text": "HER",
+      "bbox": [
+        1328.0,
+        1462.0,
+        1465.0,
+        1533.0
+      ],
+      "confidence": 0.9972803592681885,
+      "source": "paddleocr"
+    },
+    {
+      "page": 21,
+      "text": "BEST",
+      "bbox": [
+        2344.0,
+        1513.0,
+        2498.0,
+        1575.0
+      ],
+      "confidence": 0.9916136264801025,
+      "source": "paddleocr"
+    },
+    {
+      "page": 21,
+      "text": "FIRST",
+      "bbox": [
+        1307.0,
+        1538.0,
+        1477.0,
+        1600.0
+      ],
+      "confidence": 0.987771213054657,
+      "source": "paddleocr"
+    },
+    {
+      "page": 21,
+      "text": "RECOM-",
+      "bbox": [
+        2306.0,
+        1570.0,
+        2532.0,
+        1643.0
+      ],
+      "confidence": 0.9961381554603577,
+      "source": "paddleocr"
+    },
+    {
+      "page": 21,
+      "text": "MENDA-",
+      "bbox": [
+        2310.0,
+        1632.0,
+        2523.0,
+        1705.0
+      ],
+      "confidence": 0.9907168745994568,
+      "source": "paddleocr"
+    },
+    {
+      "page": 21,
+      "text": "ENOI",
+      "bbox": [
+        2340.0,
+        1708.0,
+        2502.0,
+        1767.0
+      ],
+      "confidence": 0.8209223747253418,
+      "source": "paddleocr"
+    },
+    {
+      "page": 21,
+      "text": "THE",
+      "bbox": [
+        402.0,
+        1858.0,
+        490.0,
+        1904.0
+      ],
+      "confidence": 0.9970266222953796,
+      "source": "paddleocr"
+    },
+    {
+      "page": 21,
+      "text": "TRICK WITH",
+      "bbox": [
+        332.0,
+        1908.0,
+        564.0,
+        1954.0
+      ],
+      "confidence": 0.9446960687637329,
+      "source": "paddleocr"
+    },
+    {
+      "page": 21,
+      "text": "THE LETTER",
+      "bbox": [
+        328.0,
+        1958.0,
+        568.0,
+        2000.0
+      ],
+      "confidence": 0.9539604187011719,
+      "source": "paddleocr"
+    },
+    {
+      "page": 21,
+      "text": "WAS SO UN-",
+      "bbox": [
+        324.0,
+        2004.0,
+        560.0,
+        2050.0
+      ],
+      "confidence": 0.8796504735946655,
+      "source": "paddleocr"
+    },
+    {
+      "page": 21,
+      "text": "EXPECTED",
+      "bbox": [
+        336.0,
+        2054.0,
+        548.0,
+        2100.0
+      ],
+      "confidence": 0.9936203360557556,
+      "source": "paddleocr"
+    },
+    {
+      "page": 21,
+      "text": "LIKE",
+      "bbox": [
+        1199.0,
+        2467.0,
+        1290.0,
+        2513.0
+      ],
+      "confidence": 0.9959077835083008,
+      "source": "paddleocr"
+    },
+    {
+      "page": 21,
+      "text": "MONO-",
+      "bbox": [
+        1174.0,
+        2517.0,
+        1311.0,
+        2562.0
+      ],
+      "confidence": 0.996695876121521,
+      "source": "paddleocr"
+    },
+    {
+      "page": 21,
+      "text": "HER",
+      "bbox": [
+        2315.0,
+        2508.0,
+        2431.0,
+        2562.0
+      ],
+      "confidence": 0.9966437220573425,
+      "source": "paddleocr"
+    },
+    {
+      "page": 21,
+      "text": "CHROME",
+      "bbox": [
+        1166.0,
+        2567.0,
+        1323.0,
+        2612.0
+      ],
+      "confidence": 0.9982350468635559,
+      "source": "paddleocr"
+    },
+    {
+      "page": 21,
+      "text": "SHORT",
+      "bbox": [
+        2274.0,
+        2571.0,
+        2469.0,
+        2633.0
+      ],
+      "confidence": 0.9978770017623901,
+      "source": "paddleocr"
+    },
+    {
+      "page": 21,
+      "text": "RAINBOW",
+      "bbox": [
+        1162.0,
+        2617.0,
+        1323.0,
+        2662.0
+      ],
+      "confidence": 0.9954141974449158,
+      "source": "paddleocr"
+    },
+    {
+      "page": 21,
+      "text": "STORIES",
+      "bbox": [
+        2249.0,
+        2642.0,
+        2489.0,
+        2700.0
+      ],
+      "confidence": 0.997355580329895,
+      "source": "paddleocr"
+    },
+    {
+      "page": 21,
+      "text": "ARE",
+      "bbox": [
+        2307.0,
+        2708.0,
+        2431.0,
+        2771.0
+      ],
+      "confidence": 0.9968295097351074,
+      "source": "paddleocr"
+    },
+    {
+      "page": 21,
+      "text": "GOOD",
+      "bbox": [
+        2282.0,
+        2779.0,
+        2456.0,
+        2838.0
+      ],
+      "confidence": 0.986022412776947,
+      "source": "paddleocr"
+    },
+    {
+      "page": 21,
+      "text": "TOO.",
+      "bbox": [
+        2294.0,
+        2846.0,
+        2440.0,
+        2908.0
+      ],
+      "confidence": 0.992489218711853,
+      "source": "paddleocr"
+    },
+    {
+      "page": 21,
+      "text": "IS",
+      "bbox": [
+        1199.0,
+        3125.0,
+        1257.0,
+        3179.0
+      ],
+      "confidence": 0.9100506901741028,
+      "source": "paddleocr"
+    },
+    {
+      "page": 21,
+      "text": "EVERY-",
+      "bbox": [
+        1128.0,
+        3183.0,
+        1315.0,
+        3242.0
+      ],
+      "confidence": 0.9838272929191589,
+      "source": "paddleocr"
+    },
+    {
+      "page": 21,
+      "text": "GASP!",
+      "bbox": [
+        301.0,
+        3219.0,
+        442.0,
+        3310.0
+      ],
+      "confidence": 0.9517593383789062,
+      "source": "paddleocr"
+    },
+    {
+      "page": 21,
+      "text": "THING",
+      "bbox": [
+        1145.0,
+        3242.0,
+        1307.0,
+        3304.0
+      ],
+      "confidence": 0.9960009455680847,
+      "source": "paddleocr"
+    },
+    {
+      "page": 21,
+      "text": "Y-YEAH",
+      "bbox": [
+        286.0,
+        3308.0,
+        456.0,
+        3383.0
+      ],
+      "confidence": 0.9122260212898254,
+      "source": "paddleocr"
+    },
+    {
+      "page": 21,
+      "text": "ALL",
+      "bbox": [
+        1182.0,
+        3308.0,
+        1274.0,
+        3358.0
+      ],
+      "confidence": 0.9985657334327698,
+      "source": "paddleocr"
+    },
+    {
+      "page": 21,
+      "text": "RIGHT",
+      "bbox": [
+        1145.0,
+        3362.0,
+        1307.0,
+        3421.0
+      ],
+      "confidence": 0.892607569694519,
+      "source": "paddleocr"
+    },
+    {
+      "page": 21,
+      "text": "22",
+      "bbox": [
+        2518.0,
+        3742.0,
+        2581.0,
+        3792.0
+      ],
+      "confidence": 0.9995825886726379,
+      "source": "paddleocr"
+    }
+  ],
+  "bubbles": [
+    {
+      "page": 21,
+      "index": 1,
+      "text_display": "WHICH\nONE'S\nYOUR\nBEST\nRECOM-",
+      "text_tts": "WHICH ONE'S YOUR BEST RECOM-",
+      "bbox": [
+        2306.0,
+        1321.0,
+        2532.0,
+        1643.0
+      ],
+      "items": [
+        {
+          "page": 21,
+          "text": "WHICH",
+          "bbox": [
+            2340.0,
+            1321.0,
+            2506.0,
+            1379.0
+          ],
+          "confidence": 0.9949512481689453,
+          "source": "paddleocr"
+        },
+        {
+          "page": 21,
+          "text": "ONE'S",
+          "bbox": [
+            2335.0,
+            1374.0,
+            2507.0,
+            1447.0
+          ],
+          "confidence": 0.9790258407592773,
+          "source": "paddleocr"
+        },
+        {
+          "page": 21,
+          "text": "YOUR",
+          "bbox": [
+            2348.0,
+            1446.0,
+            2498.0,
+            1508.0
+          ],
+          "confidence": 0.9940289855003357,
+          "source": "paddleocr"
+        },
+        {
+          "page": 21,
+          "text": "BEST",
+          "bbox": [
+            2344.0,
+            1513.0,
+            2498.0,
+            1575.0
+          ],
+          "confidence": 0.9916136264801025,
+          "source": "paddleocr"
+        },
+        {
+          "page": 21,
+          "text": "RECOM-",
+          "bbox": [
+            2306.0,
+            1570.0,
+            2532.0,
+            1643.0
+          ],
+          "confidence": 0.9961381554603577,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9911515712738037
+    },
+    {
+      "page": 21,
+      "index": 2,
+      "text_display": "HMM...\nMAYBE\nHER\nFIRST",
+      "text_tts": "HMM... MAYBE HER FIRST",
+      "bbox": [
+        1290.0,
+        1321.0,
+        1489.0,
+        1600.0
+      ],
+      "items": [
+        {
+          "page": 21,
+          "text": "HMM...",
+          "bbox": [
+            1294.0,
+            1321.0,
+            1485.0,
+            1383.0
+          ],
+          "confidence": 0.9850664138793945,
+          "source": "paddleocr"
+        },
+        {
+          "page": 21,
+          "text": "MAYBE",
+          "bbox": [
+            1290.0,
+            1392.0,
+            1489.0,
+            1454.0
+          ],
+          "confidence": 0.9836786985397339,
+          "source": "paddleocr"
+        },
+        {
+          "page": 21,
+          "text": "HER",
+          "bbox": [
+            1328.0,
+            1462.0,
+            1465.0,
+            1533.0
+          ],
+          "confidence": 0.9972803592681885,
+          "source": "paddleocr"
+        },
+        {
+          "page": 21,
+          "text": "FIRST",
+          "bbox": [
+            1307.0,
+            1538.0,
+            1477.0,
+            1600.0
+          ],
+          "confidence": 0.987771213054657,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9884491711854935
+    },
+    {
+      "page": 21,
+      "index": 3,
+      "text_display": "C",
+      "text_tts": "C",
+      "bbox": [
+        831.0,
+        1322.0,
+        883.0,
+        1366.0
+      ],
+      "items": [
+        {
+          "page": 21,
+          "text": "C",
+          "bbox": [
+            831.0,
+            1322.0,
+            883.0,
+            1366.0
+          ],
+          "confidence": 0.639310359954834,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.639310359954834
+    },
+    {
+      "page": 21,
+      "index": 4,
+      "text_display": "OH!\nDEAR\nKAFKA!",
+      "text_tts": "OH! DEAR KAFKA!",
+      "bbox": [
+        348.0,
+        1317.0,
+        564.0,
+        1533.0
+      ],
+      "items": [
+        {
+          "page": 21,
+          "text": "OH!",
+          "bbox": [
+            398.0,
+            1317.0,
+            510.0,
+            1383.0
+          ],
+          "confidence": 0.9901787638664246,
+          "source": "paddleocr"
+        },
+        {
+          "page": 21,
+          "text": "DEAR",
+          "bbox": [
+            369.0,
+            1392.0,
+            535.0,
+            1454.0
+          ],
+          "confidence": 0.9983752369880676,
+          "source": "paddleocr"
+        },
+        {
+          "page": 21,
+          "text": "KAFKA!",
+          "bbox": [
+            348.0,
+            1458.0,
+            564.0,
+            1533.0
+          ],
+          "confidence": 0.9882113337516785,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9922551115353903
+    },
+    {
+      "page": 21,
+      "index": 5,
+      "text_display": "MENDA-\nENOI",
+      "text_tts": "MENDA- ENOI",
+      "bbox": [
+        2310.0,
+        1632.0,
+        2523.0,
+        1767.0
+      ],
+      "items": [
+        {
+          "page": 21,
+          "text": "MENDA-",
+          "bbox": [
+            2310.0,
+            1632.0,
+            2523.0,
+            1705.0
+          ],
+          "confidence": 0.9907168745994568,
+          "source": "paddleocr"
+        },
+        {
+          "page": 21,
+          "text": "ENOI",
+          "bbox": [
+            2340.0,
+            1708.0,
+            2502.0,
+            1767.0
+          ],
+          "confidence": 0.8209223747253418,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9058196246623993
+    },
+    {
+      "page": 21,
+      "index": 6,
+      "text_display": "THE\nTRICK WITH\nTHE LETTER\nWAS SO UN-\nEXPECTED",
+      "text_tts": "THE TRICK WITH THE LETTER WAS SO UN- EXPECTED",
+      "bbox": [
+        324.0,
+        1858.0,
+        568.0,
+        2100.0
+      ],
+      "items": [
+        {
+          "page": 21,
+          "text": "THE",
+          "bbox": [
+            402.0,
+            1858.0,
+            490.0,
+            1904.0
+          ],
+          "confidence": 0.9970266222953796,
+          "source": "paddleocr"
+        },
+        {
+          "page": 21,
+          "text": "TRICK WITH",
+          "bbox": [
+            332.0,
+            1908.0,
+            564.0,
+            1954.0
+          ],
+          "confidence": 0.9446960687637329,
+          "source": "paddleocr"
+        },
+        {
+          "page": 21,
+          "text": "THE LETTER",
+          "bbox": [
+            328.0,
+            1958.0,
+            568.0,
+            2000.0
+          ],
+          "confidence": 0.9539604187011719,
+          "source": "paddleocr"
+        },
+        {
+          "page": 21,
+          "text": "WAS SO UN-",
+          "bbox": [
+            324.0,
+            2004.0,
+            560.0,
+            2050.0
+          ],
+          "confidence": 0.8796504735946655,
+          "source": "paddleocr"
+        },
+        {
+          "page": 21,
+          "text": "EXPECTED",
+          "bbox": [
+            336.0,
+            2054.0,
+            548.0,
+            2100.0
+          ],
+          "confidence": 0.9936203360557556,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9537907838821411
+    },
+    {
+      "page": 21,
+      "index": 7,
+      "text_display": "LIKE\nMONO-\nCHROME\nRAINBOW",
+      "text_tts": "LIKE MONO- CHROME RAINBOW",
+      "bbox": [
+        1162.0,
+        2467.0,
+        1323.0,
+        2662.0
+      ],
+      "items": [
+        {
+          "page": 21,
+          "text": "LIKE",
+          "bbox": [
+            1199.0,
+            2467.0,
+            1290.0,
+            2513.0
+          ],
+          "confidence": 0.9959077835083008,
+          "source": "paddleocr"
+        },
+        {
+          "page": 21,
+          "text": "MONO-",
+          "bbox": [
+            1174.0,
+            2517.0,
+            1311.0,
+            2562.0
+          ],
+          "confidence": 0.996695876121521,
+          "source": "paddleocr"
+        },
+        {
+          "page": 21,
+          "text": "CHROME",
+          "bbox": [
+            1166.0,
+            2567.0,
+            1323.0,
+            2612.0
+          ],
+          "confidence": 0.9982350468635559,
+          "source": "paddleocr"
+        },
+        {
+          "page": 21,
+          "text": "RAINBOW",
+          "bbox": [
+            1162.0,
+            2617.0,
+            1323.0,
+            2662.0
+          ],
+          "confidence": 0.9954141974449158,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9965632259845734
+    },
+    {
+      "page": 21,
+      "index": 8,
+      "text_display": "HER\nSHORT\nSTORIES\nARE\nGOOD\nTOO.",
+      "text_tts": "HER SHORT STORIES ARE GOOD TOO.",
+      "bbox": [
+        2249.0,
+        2508.0,
+        2489.0,
+        2908.0
+      ],
+      "items": [
+        {
+          "page": 21,
+          "text": "HER",
+          "bbox": [
+            2315.0,
+            2508.0,
+            2431.0,
+            2562.0
+          ],
+          "confidence": 0.9966437220573425,
+          "source": "paddleocr"
+        },
+        {
+          "page": 21,
+          "text": "SHORT",
+          "bbox": [
+            2274.0,
+            2571.0,
+            2469.0,
+            2633.0
+          ],
+          "confidence": 0.9978770017623901,
+          "source": "paddleocr"
+        },
+        {
+          "page": 21,
+          "text": "STORIES",
+          "bbox": [
+            2249.0,
+            2642.0,
+            2489.0,
+            2700.0
+          ],
+          "confidence": 0.997355580329895,
+          "source": "paddleocr"
+        },
+        {
+          "page": 21,
+          "text": "ARE",
+          "bbox": [
+            2307.0,
+            2708.0,
+            2431.0,
+            2771.0
+          ],
+          "confidence": 0.9968295097351074,
+          "source": "paddleocr"
+        },
+        {
+          "page": 21,
+          "text": "GOOD",
+          "bbox": [
+            2282.0,
+            2779.0,
+            2456.0,
+            2838.0
+          ],
+          "confidence": 0.986022412776947,
+          "source": "paddleocr"
+        },
+        {
+          "page": 21,
+          "text": "TOO.",
+          "bbox": [
+            2294.0,
+            2846.0,
+            2440.0,
+            2908.0
+          ],
+          "confidence": 0.992489218711853,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9945362408955892
+    },
+    {
+      "page": 21,
+      "index": 9,
+      "text_display": "IS\nEVERY-\nTHING\nALL\nRIGHT",
+      "text_tts": "IS EVERY- THING ALL RIGHT",
+      "bbox": [
+        1128.0,
+        3125.0,
+        1315.0,
+        3421.0
+      ],
+      "items": [
+        {
+          "page": 21,
+          "text": "IS",
+          "bbox": [
+            1199.0,
+            3125.0,
+            1257.0,
+            3179.0
+          ],
+          "confidence": 0.9100506901741028,
+          "source": "paddleocr"
+        },
+        {
+          "page": 21,
+          "text": "EVERY-",
+          "bbox": [
+            1128.0,
+            3183.0,
+            1315.0,
+            3242.0
+          ],
+          "confidence": 0.9838272929191589,
+          "source": "paddleocr"
+        },
+        {
+          "page": 21,
+          "text": "THING",
+          "bbox": [
+            1145.0,
+            3242.0,
+            1307.0,
+            3304.0
+          ],
+          "confidence": 0.9960009455680847,
+          "source": "paddleocr"
+        },
+        {
+          "page": 21,
+          "text": "ALL",
+          "bbox": [
+            1182.0,
+            3308.0,
+            1274.0,
+            3358.0
+          ],
+          "confidence": 0.9985657334327698,
+          "source": "paddleocr"
+        },
+        {
+          "page": 21,
+          "text": "RIGHT",
+          "bbox": [
+            1145.0,
+            3362.0,
+            1307.0,
+            3421.0
+          ],
+          "confidence": 0.892607569694519,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.956210446357727
+    },
+    {
+      "page": 21,
+      "index": 10,
+      "text_display": "GASP!\nY-YEAH",
+      "text_tts": "GASP! Y-YEAH",
+      "bbox": [
+        286.0,
+        3219.0,
+        456.0,
+        3383.0
+      ],
+      "items": [
+        {
+          "page": 21,
+          "text": "GASP!",
+          "bbox": [
+            301.0,
+            3219.0,
+            442.0,
+            3310.0
+          ],
+          "confidence": 0.9517593383789062,
+          "source": "paddleocr"
+        },
+        {
+          "page": 21,
+          "text": "Y-YEAH",
+          "bbox": [
+            286.0,
+            3308.0,
+            456.0,
+            3383.0
+          ],
+          "confidence": 0.9122260212898254,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9319926798343658
+    },
+    {
+      "page": 21,
+      "index": 11,
+      "text_display": "22",
+      "text_tts": "22",
+      "bbox": [
+        2518.0,
+        3742.0,
+        2581.0,
+        3792.0
+      ],
+      "items": [
+        {
+          "page": 21,
+          "text": "22",
+          "bbox": [
+            2518.0,
+            3742.0,
+            2581.0,
+            3792.0
+          ],
+          "confidence": 0.9995825886726379,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9995825886726379
+    }
+  ]
+}

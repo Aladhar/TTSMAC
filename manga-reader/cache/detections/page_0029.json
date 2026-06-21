@@ -1,0 +1,142 @@
+{
+  "page_data": {
+    "pdf_path": "Manga/Tokyo Ghoul Volume 1.pdf",
+    "page_index": 29,
+    "image_path": "cache/pages/page_0029.png",
+    "pdf_width": 1115.0,
+    "pdf_height": 1600.0,
+    "image_width": 2788,
+    "image_height": 4000,
+    "zoom": 2.5
+  },
+  "ocr_items": [
+    {
+      "page": 29,
+      "text": "SFeANNE",
+      "bbox": [
+        1028.0,
+        2345.0,
+        1299.0,
+        2401.0
+      ],
+      "confidence": 0.5915454030036926,
+      "source": "paddleocr"
+    },
+    {
+      "page": 29,
+      "text": "WATCHING",
+      "bbox": [
+        1576.0,
+        2666.0,
+        2290.0,
+        2821.0
+      ],
+      "confidence": 0.9890869855880737,
+      "source": "paddleocr"
+    },
+    {
+      "page": 29,
+      "text": "you",
+      "bbox": [
+        1749.0,
+        2834.0,
+        2101.0,
+        3049.0
+      ],
+      "confidence": 0.940629780292511,
+      "source": "paddleocr"
+    },
+    {
+      "page": 29,
+      "text": "TOO.",
+      "bbox": [
+        1763.0,
+        3058.0,
+        2116.0,
+        3246.0
+      ],
+      "confidence": 0.9767118692398071,
+      "source": "paddleocr"
+    }
+  ],
+  "bubbles": [
+    {
+      "page": 29,
+      "index": 1,
+      "text_display": "SFeANNE",
+      "text_tts": "SFeANNE",
+      "bbox": [
+        1028.0,
+        2345.0,
+        1299.0,
+        2401.0
+      ],
+      "items": [
+        {
+          "page": 29,
+          "text": "SFeANNE",
+          "bbox": [
+            1028.0,
+            2345.0,
+            1299.0,
+            2401.0
+          ],
+          "confidence": 0.5915454030036926,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.5915454030036926
+    },
+    {
+      "page": 29,
+      "index": 2,
+      "text_display": "WATCHING\nyou\nTOO.",
+      "text_tts": "WATCHING you TOO.",
+      "bbox": [
+        1576.0,
+        2666.0,
+        2290.0,
+        3246.0
+      ],
+      "items": [
+        {
+          "page": 29,
+          "text": "WATCHING",
+          "bbox": [
+            1576.0,
+            2666.0,
+            2290.0,
+            2821.0
+          ],
+          "confidence": 0.9890869855880737,
+          "source": "paddleocr"
+        },
+        {
+          "page": 29,
+          "text": "you",
+          "bbox": [
+            1749.0,
+            2834.0,
+            2101.0,
+            3049.0
+          ],
+          "confidence": 0.940629780292511,
+          "source": "paddleocr"
+        },
+        {
+          "page": 29,
+          "text": "TOO.",
+          "bbox": [
+            1763.0,
+            3058.0,
+            2116.0,
+            3246.0
+          ],
+          "confidence": 0.9767118692398071,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9688095450401306
+    }
+  ]
+}

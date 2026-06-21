@@ -1,0 +1,1591 @@
+{
+  "page_data": {
+    "pdf_path": "Manga/Tokyo Ghoul Volume 1.pdf",
+    "page_index": 16,
+    "image_path": "cache/pages/page_0016.png",
+    "pdf_width": 1115.0,
+    "pdf_height": 1600.0,
+    "image_width": 2788,
+    "image_height": 4000,
+    "zoom": 2.5
+  },
+  "ocr_items": [
+    {
+      "page": 16,
+      "text": "THE BOOK",
+      "bbox": [
+        2054.0,
+        346.0,
+        2352.0,
+        417.0
+      ],
+      "confidence": 0.9401346445083618,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "ALTHOUGH",
+      "bbox": [
+        796.0,
+        378.0,
+        1092.0,
+        459.0
+      ],
+      "confidence": 0.9928138852119446,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "ISABOUTA",
+      "bbox": [
+        2029.0,
+        417.0,
+        2427.0,
+        488.0
+      ],
+      "confidence": 0.9800739288330078,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "HER SON IS",
+      "bbox": [
+        788.0,
+        458.0,
+        1112.0,
+        517.0
+      ],
+      "confidence": 0.8989030122756958,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "COLD-BLOODED",
+      "bbox": [
+        1975.0,
+        492.0,
+        2427.0,
+        546.0
+      ],
+      "confidence": 0.9929410815238953,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "DISGUSTED",
+      "bbox": [
+        784.0,
+        517.0,
+        1099.0,
+        575.0
+      ],
+      "confidence": 0.9844361543655396,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "FEMALE",
+      "bbox": [
+        2054.0,
+        558.0,
+        2323.0,
+        617.0
+      ],
+      "confidence": 0.9859574437141418,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "WITH HIS",
+      "bbox": [
+        792.0,
+        574.0,
+        1080.0,
+        655.0
+      ],
+      "confidence": 0.9041699171066284,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "SERIAL KILLER",
+      "bbox": [
+        1991.0,
+        616.0,
+        2407.0,
+        696.0
+      ],
+      "confidence": 0.9722838997840881,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "MOTHER'S",
+      "bbox": [
+        801.0,
+        646.0,
+        1091.0,
+        717.0
+      ],
+      "confidence": 0.9862711429595947,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "...HE",
+      "bbox": [
+        234.0,
+        640.0,
+        471.0,
+        731.0
+      ],
+      "confidence": 0.7455313801765442,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "CALLED THE",
+      "bbox": [
+        2029.0,
+        696.0,
+        2386.0,
+        754.0
+      ],
+      "confidence": 0.9429980516433716,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "VEVENTU-",
+      "bbox": [
+        249.0,
+        721.0,
+        510.0,
+        779.0
+      ],
+      "confidence": 0.9517099261283875,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "SICKNESS.",
+      "bbox": [
+        784.0,
+        717.0,
+        1062.0,
+        775.0
+      ],
+      "confidence": 0.9650917053222656,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "\"BLACK GOAT\"",
+      "bbox": [
+        2004.0,
+        758.0,
+        2410.0,
+        829.0
+      ],
+      "confidence": 0.9175093173980713,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "ALLY.",
+      "bbox": [
+        270.0,
+        783.0,
+        498.0,
+        842.0
+      ],
+      "confidence": 0.8933734893798828,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "HAS-TO",
+      "bbox": [
+        253.0,
+        842.0,
+        514.0,
+        913.0
+      ],
+      "confidence": 0.8920938372612,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "AND HER ONLY",
+      "bbox": [
+        2000.0,
+        833.0,
+        2406.0,
+        892.0
+      ],
+      "confidence": 0.920060396194458,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "'NOS",
+      "bbox": [
+        2118.0,
+        886.0,
+        2284.0,
+        972.0
+      ],
+      "confidence": 0.8484472632408142,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "ACKNOWL",
+      "bbox": [
+        232.0,
+        913.0,
+        514.0,
+        971.0
+      ],
+      "confidence": 0.9933150410652161,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "EDGE",
+      "bbox": [
+        311.0,
+        975.0,
+        481.0,
+        1038.0
+      ],
+      "confidence": 0.9684765934944153,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "THE SAME",
+      "bbox": [
+        266.0,
+        1042.0,
+        535.0,
+        1100.0
+      ],
+      "confidence": 0.9523768424987793,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "CRUEL",
+      "bbox": [
+        303.0,
+        1104.0,
+        485.0,
+        1167.0
+      ],
+      "confidence": 0.9942941665649414,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "IMPULSES",
+      "bbox": [
+        257.0,
+        1167.0,
+        531.0,
+        1237.0
+      ],
+      "confidence": 0.9938851594924927,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "GROWING",
+      "bbox": [
+        266.0,
+        1237.0,
+        527.0,
+        1296.0
+      ],
+      "confidence": 0.9957365989685059,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "INSIDE",
+      "bbox": [
+        298.0,
+        1291.0,
+        491.0,
+        1364.0
+      ],
+      "confidence": 0.9446053504943848,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "HIM:",
+      "bbox": [
+        336.0,
+        1367.0,
+        465.0,
+        1429.0
+      ],
+      "confidence": 0.9414552450180054,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "THE WRITING",
+      "bbox": [
+        2232.0,
+        2121.0,
+        2481.0,
+        2167.0
+      ],
+      "confidence": 0.9608405828475952,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "INTERTWINES",
+      "bbox": [
+        2228.0,
+        2171.0,
+        2485.0,
+        2217.0
+      ],
+      "confidence": 0.9965466856956482,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "AH.",
+      "bbox": [
+        1299.0,
+        2221.0,
+        1448.0,
+        2325.0
+      ],
+      "confidence": 0.9955344200134277,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "INTENSE",
+      "bbox": [
+        2274.0,
+        2221.0,
+        2448.0,
+        2267.0
+      ],
+      "confidence": 0.9973822832107544,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "EXPRES-",
+      "bbox": [
+        2265.0,
+        2267.0,
+        2444.0,
+        2312.0
+      ],
+      "confidence": 0.966839611530304,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "SIONS WITH",
+      "bbox": [
+        2235.0,
+        2299.0,
+        2482.0,
+        2367.0
+      ],
+      "confidence": 0.9651069641113281,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "DELICATE",
+      "bbox": [
+        2265.0,
+        2362.0,
+        2456.0,
+        2408.0
+      ],
+      "confidence": 0.9972902536392212,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "PSYCHO-",
+      "bbox": [
+        2265.0,
+        2408.0,
+        2448.0,
+        2454.0
+      ],
+      "confidence": 0.9803788065910339,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "LOGICAL",
+      "bbox": [
+        2265.0,
+        2454.0,
+        2444.0,
+        2513.0
+      ],
+      "confidence": 0.9979172945022583,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "AH",
+      "bbox": [
+        656.0,
+        2479.0,
+        755.0,
+        2575.0
+      ],
+      "confidence": 0.9327324628829956,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "WHOA,",
+      "bbox": [
+        2008.0,
+        2496.0,
+        2153.0,
+        2554.0
+      ],
+      "confidence": 0.9916354417800903,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "DESCRIP-",
+      "bbox": [
+        2252.0,
+        2495.0,
+        2453.0,
+        2563.0
+      ],
+      "confidence": 0.988945484161377,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "SHE'S",
+      "bbox": [
+        2012.0,
+        2554.0,
+        2149.0,
+        2600.0
+      ],
+      "confidence": 0.9776565432548523,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "TIONS.",
+      "bbox": [
+        2290.0,
+        2558.0,
+        2423.0,
+        2604.0
+      ],
+      "confidence": 0.9893000721931458,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "COMING",
+      "bbox": [
+        1996.0,
+        2608.0,
+        2166.0,
+        2654.0
+      ],
+      "confidence": 0.9958572387695312,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "IT'S SEN",
+      "bbox": [
+        2265.0,
+        2604.0,
+        2448.0,
+        2650.0
+      ],
+      "confidence": 0.9089621305465698,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "THIS",
+      "bbox": [
+        2033.0,
+        2658.0,
+        2137.0,
+        2704.0
+      ],
+      "confidence": 0.9980865716934204,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "TAKATSUKI'S",
+      "bbox": [
+        2236.0,
+        2650.0,
+        2477.0,
+        2696.0
+      ],
+      "confidence": 0.9372886419296265,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "WAY.",
+      "bbox": [
+        2033.0,
+        2713.0,
+        2132.0,
+        2758.0
+      ],
+      "confidence": 0.9541702270507812,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "SEVENTH",
+      "bbox": [
+        2269.0,
+        2704.0,
+        2452.0,
+        2750.0
+      ],
+      "confidence": 0.9969204068183899,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "BOOK...",
+      "bbox": [
+        2273.0,
+        2741.0,
+        2436.0,
+        2801.0
+      ],
+      "confidence": 0.9769306778907776,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "I-I'M",
+      "bbox": [
+        1187.0,
+        2896.0,
+        1319.0,
+        2954.0
+      ],
+      "confidence": 0.9626044034957886,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "SORRY",
+      "bbox": [
+        1174.0,
+        2958.0,
+        1319.0,
+        3004.0
+      ],
+      "confidence": 0.9493638277053833,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "I'M",
+      "bbox": [
+        813.0,
+        3300.0,
+        892.0,
+        3350.0
+      ],
+      "confidence": 0.9486315846443176,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "SORRY",
+      "bbox": [
+        784.0,
+        3354.0,
+        921.0,
+        3400.0
+      ],
+      "confidence": 0.9948760271072388,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "!!",
+      "bbox": [
+        834.0,
+        3408.0,
+        871.0,
+        3454.0
+      ],
+      "confidence": 0.7908434867858887,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "OH",
+      "bbox": [
+        266.0,
+        3475.0,
+        382.0,
+        3562.0
+      ],
+      "confidence": 0.9941695928573608,
+      "source": "paddleocr"
+    },
+    {
+      "page": 16,
+      "text": "17",
+      "bbox": [
+        216.0,
+        3754.0,
+        278.0,
+        3804.0
+      ],
+      "confidence": 0.9993072748184204,
+      "source": "paddleocr"
+    }
+  ],
+  "bubbles": [
+    {
+      "page": 16,
+      "index": 1,
+      "text_display": "ALTHOUGH\nHER SON IS\nDISGUSTED\nWITH HIS",
+      "text_tts": "ALTHOUGH HER SON IS DISGUSTED WITH HIS",
+      "bbox": [
+        784.0,
+        378.0,
+        1112.0,
+        655.0
+      ],
+      "items": [
+        {
+          "page": 16,
+          "text": "ALTHOUGH",
+          "bbox": [
+            796.0,
+            378.0,
+            1092.0,
+            459.0
+          ],
+          "confidence": 0.9928138852119446,
+          "source": "paddleocr"
+        },
+        {
+          "page": 16,
+          "text": "HER SON IS",
+          "bbox": [
+            788.0,
+            458.0,
+            1112.0,
+            517.0
+          ],
+          "confidence": 0.8989030122756958,
+          "source": "paddleocr"
+        },
+        {
+          "page": 16,
+          "text": "DISGUSTED",
+          "bbox": [
+            784.0,
+            517.0,
+            1099.0,
+            575.0
+          ],
+          "confidence": 0.9844361543655396,
+          "source": "paddleocr"
+        },
+        {
+          "page": 16,
+          "text": "WITH HIS",
+          "bbox": [
+            792.0,
+            574.0,
+            1080.0,
+            655.0
+          ],
+          "confidence": 0.9041699171066284,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9450807422399521
+    },
+    {
+      "page": 16,
+      "index": 2,
+      "text_display": "THE BOOK\nISABOUTA\nCOLD-BLOODED\nFEMALE\nSERIAL KILLER\nCALLED THE\n\"BLACK GOAT\"\nAND HER ONLY",
+      "text_tts": "THE BOOK ISABOUTA COLD-BLOODED FEMALE SERIAL KILLER CALLED THE \"BLACK GOAT\" AND HER ONLY",
+      "bbox": [
+        1975.0,
+        346.0,
+        2427.0,
+        892.0
+      ],
+      "items": [
+        {
+          "page": 16,
+          "text": "THE BOOK",
+          "bbox": [
+            2054.0,
+            346.0,
+            2352.0,
+            417.0
+          ],
+          "confidence": 0.9401346445083618,
+          "source": "paddleocr"
+        },
+        {
+          "page": 16,
+          "text": "ISABOUTA",
+          "bbox": [
+            2029.0,
+            417.0,
+            2427.0,
+            488.0
+          ],
+          "confidence": 0.9800739288330078,
+          "source": "paddleocr"
+        },
+        {
+          "page": 16,
+          "text": "COLD-BLOODED",
+          "bbox": [
+            1975.0,
+            492.0,
+            2427.0,
+            546.0
+          ],
+          "confidence": 0.9929410815238953,
+          "source": "paddleocr"
+        },
+        {
+          "page": 16,
+          "text": "FEMALE",
+          "bbox": [
+            2054.0,
+            558.0,
+            2323.0,
+            617.0
+          ],
+          "confidence": 0.9859574437141418,
+          "source": "paddleocr"
+        },
+        {
+          "page": 16,
+          "text": "SERIAL KILLER",
+          "bbox": [
+            1991.0,
+            616.0,
+            2407.0,
+            696.0
+          ],
+          "confidence": 0.9722838997840881,
+          "source": "paddleocr"
+        },
+        {
+          "page": 16,
+          "text": "CALLED THE",
+          "bbox": [
+            2029.0,
+            696.0,
+            2386.0,
+            754.0
+          ],
+          "confidence": 0.9429980516433716,
+          "source": "paddleocr"
+        },
+        {
+          "page": 16,
+          "text": "\"BLACK GOAT\"",
+          "bbox": [
+            2004.0,
+            758.0,
+            2410.0,
+            829.0
+          ],
+          "confidence": 0.9175093173980713,
+          "source": "paddleocr"
+        },
+        {
+          "page": 16,
+          "text": "AND HER ONLY",
+          "bbox": [
+            2000.0,
+            833.0,
+            2406.0,
+            892.0
+          ],
+          "confidence": 0.920060396194458,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9564948454499245
+    },
+    {
+      "page": 16,
+      "index": 3,
+      "text_display": "MOTHER'S\nSICKNESS.",
+      "text_tts": "MOTHER'S SICKNESS.",
+      "bbox": [
+        784.0,
+        646.0,
+        1091.0,
+        775.0
+      ],
+      "items": [
+        {
+          "page": 16,
+          "text": "MOTHER'S",
+          "bbox": [
+            801.0,
+            646.0,
+            1091.0,
+            717.0
+          ],
+          "confidence": 0.9862711429595947,
+          "source": "paddleocr"
+        },
+        {
+          "page": 16,
+          "text": "SICKNESS.",
+          "bbox": [
+            784.0,
+            717.0,
+            1062.0,
+            775.0
+          ],
+          "confidence": 0.9650917053222656,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9756814241409302
+    },
+    {
+      "page": 16,
+      "index": 4,
+      "text_display": "VEVENTU-",
+      "text_tts": "VEVENTU-",
+      "bbox": [
+        249.0,
+        721.0,
+        510.0,
+        779.0
+      ],
+      "items": [
+        {
+          "page": 16,
+          "text": "VEVENTU-",
+          "bbox": [
+            249.0,
+            721.0,
+            510.0,
+            779.0
+          ],
+          "confidence": 0.9517099261283875,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9517099261283875
+    },
+    {
+      "page": 16,
+      "index": 5,
+      "text_display": "'NOS",
+      "text_tts": "'NOS",
+      "bbox": [
+        2118.0,
+        886.0,
+        2284.0,
+        972.0
+      ],
+      "items": [
+        {
+          "page": 16,
+          "text": "'NOS",
+          "bbox": [
+            2118.0,
+            886.0,
+            2284.0,
+            972.0
+          ],
+          "confidence": 0.8484472632408142,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.8484472632408142
+    },
+    {
+      "page": 16,
+      "index": 6,
+      "text_display": "...HE\nALLY.\nHAS-TO\nACKNOWL\nEDGE\nTHE SAME\nCRUEL\nIMPULSES\nGROWING\nINSIDE\nHIM:",
+      "text_tts": "...HE ALLY. HAS-TO ACKNOWL EDGE THE SAME CRUEL IMPULSES GROWING INSIDE HIM:",
+      "bbox": [
+        232.0,
+        640.0,
+        535.0,
+        1429.0
+      ],
+      "items": [
+        {
+          "page": 16,
+          "text": "...HE",
+          "bbox": [
+            234.0,
+            640.0,
+            471.0,
+            731.0
+          ],
+          "confidence": 0.7455313801765442,
+          "source": "paddleocr"
+        },
+        {
+          "page": 16,
+          "text": "ALLY.",
+          "bbox": [
+            270.0,
+            783.0,
+            498.0,
+            842.0
+          ],
+          "confidence": 0.8933734893798828,
+          "source": "paddleocr"
+        },
+        {
+          "page": 16,
+          "text": "HAS-TO",
+          "bbox": [
+            253.0,
+            842.0,
+            514.0,
+            913.0
+          ],
+          "confidence": 0.8920938372612,
+          "source": "paddleocr"
+        },
+        {
+          "page": 16,
+          "text": "ACKNOWL",
+          "bbox": [
+            232.0,
+            913.0,
+            514.0,
+            971.0
+          ],
+          "confidence": 0.9933150410652161,
+          "source": "paddleocr"
+        },
+        {
+          "page": 16,
+          "text": "EDGE",
+          "bbox": [
+            311.0,
+            975.0,
+            481.0,
+            1038.0
+          ],
+          "confidence": 0.9684765934944153,
+          "source": "paddleocr"
+        },
+        {
+          "page": 16,
+          "text": "THE SAME",
+          "bbox": [
+            266.0,
+            1042.0,
+            535.0,
+            1100.0
+          ],
+          "confidence": 0.9523768424987793,
+          "source": "paddleocr"
+        },
+        {
+          "page": 16,
+          "text": "CRUEL",
+          "bbox": [
+            303.0,
+            1104.0,
+            485.0,
+            1167.0
+          ],
+          "confidence": 0.9942941665649414,
+          "source": "paddleocr"
+        },
+        {
+          "page": 16,
+          "text": "IMPULSES",
+          "bbox": [
+            257.0,
+            1167.0,
+            531.0,
+            1237.0
+          ],
+          "confidence": 0.9938851594924927,
+          "source": "paddleocr"
+        },
+        {
+          "page": 16,
+          "text": "GROWING",
+          "bbox": [
+            266.0,
+            1237.0,
+            527.0,
+            1296.0
+          ],
+          "confidence": 0.9957365989685059,
+          "source": "paddleocr"
+        },
+        {
+          "page": 16,
+          "text": "INSIDE",
+          "bbox": [
+            298.0,
+            1291.0,
+            491.0,
+            1364.0
+          ],
+          "confidence": 0.9446053504943848,
+          "source": "paddleocr"
+        },
+        {
+          "page": 16,
+          "text": "HIM:",
+          "bbox": [
+            336.0,
+            1367.0,
+            465.0,
+            1429.0
+          ],
+          "confidence": 0.9414552450180054,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9377403367649425
+    },
+    {
+      "page": 16,
+      "index": 7,
+      "text_display": "SIONS WITH",
+      "text_tts": "SIONS WITH",
+      "bbox": [
+        2235.0,
+        2299.0,
+        2482.0,
+        2367.0
+      ],
+      "items": [
+        {
+          "page": 16,
+          "text": "SIONS WITH",
+          "bbox": [
+            2235.0,
+            2299.0,
+            2482.0,
+            2367.0
+          ],
+          "confidence": 0.9651069641113281,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9651069641113281
+    },
+    {
+      "page": 16,
+      "index": 8,
+      "text_display": "AH.",
+      "text_tts": "AH.",
+      "bbox": [
+        1299.0,
+        2221.0,
+        1448.0,
+        2325.0
+      ],
+      "items": [
+        {
+          "page": 16,
+          "text": "AH.",
+          "bbox": [
+            1299.0,
+            2221.0,
+            1448.0,
+            2325.0
+          ],
+          "confidence": 0.9955344200134277,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9955344200134277
+    },
+    {
+      "page": 16,
+      "index": 9,
+      "text_display": "THE WRITING\nINTERTWINES\nINTENSE\nEXPRES-\nDELICATE\nPSYCHO-\nLOGICAL\nSHE'S\nIT'S SEN\nTAKATSUKI'S\nSEVENTH",
+      "text_tts": "THE WRITING INTERTWINES INTENSE EXPRES- DELICATE PSYCHO- LOGICAL SHE'S IT'S SEN TAKATSUKI'S SEVENTH",
+      "bbox": [
+        2012.0,
+        2121.0,
+        2485.0,
+        2750.0
+      ],
+      "items": [
+        {
+          "page": 16,
+          "text": "THE WRITING",
+          "bbox": [
+            2232.0,
+            2121.0,
+            2481.0,
+            2167.0
+          ],
+          "confidence": 0.9608405828475952,
+          "source": "paddleocr"
+        },
+        {
+          "page": 16,
+          "text": "INTERTWINES",
+          "bbox": [
+            2228.0,
+            2171.0,
+            2485.0,
+            2217.0
+          ],
+          "confidence": 0.9965466856956482,
+          "source": "paddleocr"
+        },
+        {
+          "page": 16,
+          "text": "INTENSE",
+          "bbox": [
+            2274.0,
+            2221.0,
+            2448.0,
+            2267.0
+          ],
+          "confidence": 0.9973822832107544,
+          "source": "paddleocr"
+        },
+        {
+          "page": 16,
+          "text": "EXPRES-",
+          "bbox": [
+            2265.0,
+            2267.0,
+            2444.0,
+            2312.0
+          ],
+          "confidence": 0.966839611530304,
+          "source": "paddleocr"
+        },
+        {
+          "page": 16,
+          "text": "DELICATE",
+          "bbox": [
+            2265.0,
+            2362.0,
+            2456.0,
+            2408.0
+          ],
+          "confidence": 0.9972902536392212,
+          "source": "paddleocr"
+        },
+        {
+          "page": 16,
+          "text": "PSYCHO-",
+          "bbox": [
+            2265.0,
+            2408.0,
+            2448.0,
+            2454.0
+          ],
+          "confidence": 0.9803788065910339,
+          "source": "paddleocr"
+        },
+        {
+          "page": 16,
+          "text": "LOGICAL",
+          "bbox": [
+            2265.0,
+            2454.0,
+            2444.0,
+            2513.0
+          ],
+          "confidence": 0.9979172945022583,
+          "source": "paddleocr"
+        },
+        {
+          "page": 16,
+          "text": "SHE'S",
+          "bbox": [
+            2012.0,
+            2554.0,
+            2149.0,
+            2600.0
+          ],
+          "confidence": 0.9776565432548523,
+          "source": "paddleocr"
+        },
+        {
+          "page": 16,
+          "text": "IT'S SEN",
+          "bbox": [
+            2265.0,
+            2604.0,
+            2448.0,
+            2650.0
+          ],
+          "confidence": 0.9089621305465698,
+          "source": "paddleocr"
+        },
+        {
+          "page": 16,
+          "text": "TAKATSUKI'S",
+          "bbox": [
+            2236.0,
+            2650.0,
+            2477.0,
+            2696.0
+          ],
+          "confidence": 0.9372886419296265,
+          "source": "paddleocr"
+        },
+        {
+          "page": 16,
+          "text": "SEVENTH",
+          "bbox": [
+            2269.0,
+            2704.0,
+            2452.0,
+            2750.0
+          ],
+          "confidence": 0.9969204068183899,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9743657491423867
+    },
+    {
+      "page": 16,
+      "index": 10,
+      "text_display": "WHOA,",
+      "text_tts": "WHOA,",
+      "bbox": [
+        2008.0,
+        2496.0,
+        2153.0,
+        2554.0
+      ],
+      "items": [
+        {
+          "page": 16,
+          "text": "WHOA,",
+          "bbox": [
+            2008.0,
+            2496.0,
+            2153.0,
+            2554.0
+          ],
+          "confidence": 0.9916354417800903,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9916354417800903
+    },
+    {
+      "page": 16,
+      "index": 11,
+      "text_display": "AH",
+      "text_tts": "AH",
+      "bbox": [
+        656.0,
+        2479.0,
+        755.0,
+        2575.0
+      ],
+      "items": [
+        {
+          "page": 16,
+          "text": "AH",
+          "bbox": [
+            656.0,
+            2479.0,
+            755.0,
+            2575.0
+          ],
+          "confidence": 0.9327324628829956,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9327324628829956
+    },
+    {
+      "page": 16,
+      "index": 12,
+      "text_display": "DESCRIP-\nTIONS.\nCOMING\nTHIS\nWAY.",
+      "text_tts": "DESCRIP- TIONS. COMING THIS WAY.",
+      "bbox": [
+        1996.0,
+        2495.0,
+        2453.0,
+        2758.0
+      ],
+      "items": [
+        {
+          "page": 16,
+          "text": "DESCRIP-",
+          "bbox": [
+            2252.0,
+            2495.0,
+            2453.0,
+            2563.0
+          ],
+          "confidence": 0.988945484161377,
+          "source": "paddleocr"
+        },
+        {
+          "page": 16,
+          "text": "TIONS.",
+          "bbox": [
+            2290.0,
+            2558.0,
+            2423.0,
+            2604.0
+          ],
+          "confidence": 0.9893000721931458,
+          "source": "paddleocr"
+        },
+        {
+          "page": 16,
+          "text": "COMING",
+          "bbox": [
+            1996.0,
+            2608.0,
+            2166.0,
+            2654.0
+          ],
+          "confidence": 0.9958572387695312,
+          "source": "paddleocr"
+        },
+        {
+          "page": 16,
+          "text": "THIS",
+          "bbox": [
+            2033.0,
+            2658.0,
+            2137.0,
+            2704.0
+          ],
+          "confidence": 0.9980865716934204,
+          "source": "paddleocr"
+        },
+        {
+          "page": 16,
+          "text": "WAY.",
+          "bbox": [
+            2033.0,
+            2713.0,
+            2132.0,
+            2758.0
+          ],
+          "confidence": 0.9541702270507812,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9852719187736512
+    },
+    {
+      "page": 16,
+      "index": 13,
+      "text_display": "BOOK...",
+      "text_tts": "BOOK...",
+      "bbox": [
+        2273.0,
+        2741.0,
+        2436.0,
+        2801.0
+      ],
+      "items": [
+        {
+          "page": 16,
+          "text": "BOOK...",
+          "bbox": [
+            2273.0,
+            2741.0,
+            2436.0,
+            2801.0
+          ],
+          "confidence": 0.9769306778907776,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9769306778907776
+    },
+    {
+      "page": 16,
+      "index": 14,
+      "text_display": "I-I'M\nSORRY",
+      "text_tts": "I-I'M SORRY",
+      "bbox": [
+        1174.0,
+        2896.0,
+        1319.0,
+        3004.0
+      ],
+      "items": [
+        {
+          "page": 16,
+          "text": "I-I'M",
+          "bbox": [
+            1187.0,
+            2896.0,
+            1319.0,
+            2954.0
+          ],
+          "confidence": 0.9626044034957886,
+          "source": "paddleocr"
+        },
+        {
+          "page": 16,
+          "text": "SORRY",
+          "bbox": [
+            1174.0,
+            2958.0,
+            1319.0,
+            3004.0
+          ],
+          "confidence": 0.9493638277053833,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9559841156005859
+    },
+    {
+      "page": 16,
+      "index": 15,
+      "text_display": "I'M\nSORRY\n!!",
+      "text_tts": "I'M SORRY !!",
+      "bbox": [
+        784.0,
+        3300.0,
+        921.0,
+        3454.0
+      ],
+      "items": [
+        {
+          "page": 16,
+          "text": "I'M",
+          "bbox": [
+            813.0,
+            3300.0,
+            892.0,
+            3350.0
+          ],
+          "confidence": 0.9486315846443176,
+          "source": "paddleocr"
+        },
+        {
+          "page": 16,
+          "text": "SORRY",
+          "bbox": [
+            784.0,
+            3354.0,
+            921.0,
+            3400.0
+          ],
+          "confidence": 0.9948760271072388,
+          "source": "paddleocr"
+        },
+        {
+          "page": 16,
+          "text": "!!",
+          "bbox": [
+            834.0,
+            3408.0,
+            871.0,
+            3454.0
+          ],
+          "confidence": 0.7908434867858887,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9114503661791483
+    },
+    {
+      "page": 16,
+      "index": 16,
+      "text_display": "OH",
+      "text_tts": "OH",
+      "bbox": [
+        266.0,
+        3475.0,
+        382.0,
+        3562.0
+      ],
+      "items": [
+        {
+          "page": 16,
+          "text": "OH",
+          "bbox": [
+            266.0,
+            3475.0,
+            382.0,
+            3562.0
+          ],
+          "confidence": 0.9941695928573608,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9941695928573608
+    },
+    {
+      "page": 16,
+      "index": 17,
+      "text_display": "17",
+      "text_tts": "17",
+      "bbox": [
+        216.0,
+        3754.0,
+        278.0,
+        3804.0
+      ],
+      "items": [
+        {
+          "page": 16,
+          "text": "17",
+          "bbox": [
+            216.0,
+            3754.0,
+            278.0,
+            3804.0
+          ],
+          "confidence": 0.9993072748184204,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9993072748184204
+    }
+  ]
+}

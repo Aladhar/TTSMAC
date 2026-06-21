@@ -1,0 +1,1171 @@
+{
+  "page_data": {
+    "pdf_path": "Manga/Tokyo Ghoul Volume 1.pdf",
+    "page_index": 14,
+    "image_path": "cache/pages/page_0014.png",
+    "pdf_width": 1115.0,
+    "pdf_height": 1600.0,
+    "image_width": 2788,
+    "image_height": 4000,
+    "zoom": 2.5
+  },
+  "ocr_items": [
+    {
+      "page": 14,
+      "text": "MAYBE",
+      "bbox": [
+        643.0,
+        467.0,
+        834.0,
+        525.0
+      ],
+      "confidence": 0.9852669835090637,
+      "source": "paddleocr"
+    },
+    {
+      "page": 14,
+      "text": "SHE",
+      "bbox": [
+        680.0,
+        529.0,
+        801.0,
+        596.0
+      ],
+      "confidence": 0.9970112442970276,
+      "source": "paddleocr"
+    },
+    {
+      "page": 14,
+      "text": "ACTUALLY",
+      "bbox": [
+        593.0,
+        596.0,
+        884.0,
+        667.0
+      ],
+      "confidence": 0.9399451017379761,
+      "source": "paddleocr"
+    },
+    {
+      "page": 14,
+      "text": "...SHE",
+      "bbox": [
+        2268.0,
+        607.0,
+        2495.0,
+        701.0
+      ],
+      "confidence": 0.8743107914924622,
+      "source": "paddleocr"
+    },
+    {
+      "page": 14,
+      "text": "FEELS",
+      "bbox": [
+        647.0,
+        671.0,
+        834.0,
+        733.0
+      ],
+      "confidence": 0.9905096292495728,
+      "source": "paddleocr"
+    },
+    {
+      "page": 14,
+      "text": "SMILES",
+      "bbox": [
+        2257.0,
+        696.0,
+        2510.0,
+        771.0
+      ],
+      "confidence": 0.9977895617485046,
+      "source": "paddleocr"
+    },
+    {
+      "page": 14,
+      "text": "THE SAME",
+      "bbox": [
+        597.0,
+        742.0,
+        884.0,
+        800.0
+      ],
+      "confidence": 0.9397993087768555,
+      "source": "paddleocr"
+    },
+    {
+      "page": 14,
+      "text": "ABOUT",
+      "bbox": [
+        639.0,
+        808.0,
+        842.0,
+        867.0
+      ],
+      "confidence": 0.9904853701591492,
+      "source": "paddleocr"
+    },
+    {
+      "page": 14,
+      "text": "ME.",
+      "bbox": [
+        680.0,
+        875.0,
+        792.0,
+        938.0
+      ],
+      "confidence": 0.9941599369049072,
+      "source": "paddleocr"
+    },
+    {
+      "page": 14,
+      "text": "LITTLE",
+      "bbox": [
+        2054.0,
+        1112.0,
+        2286.0,
+        1188.0
+      ],
+      "confidence": 0.9962222576141357,
+      "source": "paddleocr"
+    },
+    {
+      "page": 14,
+      "text": "BIT.",
+      "bbox": [
+        2108.0,
+        1192.0,
+        2236.0,
+        1271.0
+      ],
+      "confidence": 0.9751089215278625,
+      "source": "paddleocr"
+    },
+    {
+      "page": 14,
+      "text": "SHE'S",
+      "bbox": [
+        1025.0,
+        2546.0,
+        1187.0,
+        2608.0
+      ],
+      "confidence": 0.9787664413452148,
+      "source": "paddleocr"
+    },
+    {
+      "page": 14,
+      "text": "FORCING A",
+      "bbox": [
+        958.0,
+        2612.0,
+        1249.0,
+        2671.0
+      ],
+      "confidence": 0.9453548789024353,
+      "source": "paddleocr"
+    },
+    {
+      "page": 14,
+      "text": "YOU",
+      "bbox": [
+        2203.0,
+        2608.0,
+        2348.0,
+        2683.0
+      ],
+      "confidence": 0.8520219326019287,
+      "source": "paddleocr"
+    },
+    {
+      "page": 14,
+      "text": "SMILE CUZ",
+      "bbox": [
+        949.0,
+        2662.0,
+        1250.0,
+        2742.0
+      ],
+      "confidence": 0.9501791000366211,
+      "source": "paddleocr"
+    },
+    {
+      "page": 14,
+      "text": "KNOW",
+      "bbox": [
+        2178.0,
+        2692.0,
+        2373.0,
+        2754.0
+      ],
+      "confidence": 0.9969220161437988,
+      "source": "paddleocr"
+    },
+    {
+      "page": 14,
+      "text": "N-NO",
+      "bbox": [
+        270.0,
+        2750.0,
+        456.0,
+        2825.0
+      ],
+      "confidence": 0.9881789088249207,
+      "source": "paddleocr"
+    },
+    {
+      "page": 14,
+      "text": "YOU'RE",
+      "bbox": [
+        1008.0,
+        2742.0,
+        1203.0,
+        2804.0
+      ],
+      "confidence": 0.9874565005302429,
+      "source": "paddleocr"
+    },
+    {
+      "page": 14,
+      "text": "WHAT?",
+      "bbox": [
+        2162.0,
+        2754.0,
+        2386.0,
+        2842.0
+      ],
+      "confidence": 0.9908707737922668,
+      "source": "paddleocr"
+    },
+    {
+      "page": 14,
+      "text": "STARING",
+      "bbox": [
+        987.0,
+        2800.0,
+        1220.0,
+        2871.0
+      ],
+      "confidence": 0.9969136118888855,
+      "source": "paddleocr"
+    },
+    {
+      "page": 14,
+      "text": "WAY...",
+      "bbox": [
+        270.0,
+        2833.0,
+        456.0,
+        2908.0
+      ],
+      "confidence": 0.9116917252540588,
+      "source": "paddleocr"
+    },
+    {
+      "page": 14,
+      "text": "YOU'RE",
+      "bbox": [
+        2148.0,
+        2832.0,
+        2391.0,
+        2918.0
+      ],
+      "confidence": 0.9843525886535645,
+      "source": "paddleocr"
+    },
+    {
+      "page": 14,
+      "text": "AT HER.",
+      "bbox": [
+        991.0,
+        2866.0,
+        1204.0,
+        2934.0
+      ],
+      "confidence": 0.9037733674049377,
+      "source": "paddleocr"
+    },
+    {
+      "page": 14,
+      "text": "KINDA...",
+      "bbox": [
+        2149.0,
+        2917.0,
+        2390.0,
+        2992.0
+      ],
+      "confidence": 0.9799609184265137,
+      "source": "paddleocr"
+    },
+    {
+      "page": 14,
+      "text": "CREEPY.",
+      "bbox": [
+        2149.0,
+        2996.0,
+        2402.0,
+        3067.0
+      ],
+      "confidence": 0.9828544855117798,
+      "source": "paddleocr"
+    },
+    {
+      "page": 14,
+      "text": "MAM",
+      "bbox": [
+        788.0,
+        3158.0,
+        867.0,
+        3188.0
+      ],
+      "confidence": 0.688936173915863,
+      "source": "paddleocr"
+    },
+    {
+      "page": 14,
+      "text": "WELLI",
+      "bbox": [
+        1066.0,
+        3213.0,
+        1249.0,
+        3271.0
+      ],
+      "confidence": 0.9722574949264526,
+      "source": "paddleocr"
+    },
+    {
+      "page": 14,
+      "text": "SHOULD",
+      "bbox": [
+        274.0,
+        3242.0,
+        502.0,
+        3312.0
+      ],
+      "confidence": 0.9968867301940918,
+      "source": "paddleocr"
+    },
+    {
+      "page": 14,
+      "text": "COTTO",
+      "bbox": [
+        1066.0,
+        3267.0,
+        1253.0,
+        3325.0
+      ],
+      "confidence": 0.8051058053970337,
+      "source": "paddleocr"
+    },
+    {
+      "page": 14,
+      "text": "GET",
+      "bbox": [
+        332.0,
+        3308.0,
+        448.0,
+        3371.0
+      ],
+      "confidence": 0.9759799838066101,
+      "source": "paddleocr"
+    },
+    {
+      "page": 14,
+      "text": "SEE THE",
+      "bbox": [
+        1053.0,
+        3312.0,
+        1258.0,
+        3380.0
+      ],
+      "confidence": 0.9264360666275024,
+      "source": "paddleocr"
+    },
+    {
+      "page": 14,
+      "text": "GOING.",
+      "bbox": [
+        281.0,
+        3370.0,
+        482.0,
+        3443.0
+      ],
+      "confidence": 0.9705304503440857,
+      "source": "paddleocr"
+    },
+    {
+      "page": 14,
+      "text": "GIRL YOU",
+      "bbox": [
+        1045.0,
+        3370.0,
+        1266.0,
+        3438.0
+      ],
+      "confidence": 0.9172083735466003,
+      "source": "paddleocr"
+    },
+    {
+      "page": 14,
+      "text": "GOTTA",
+      "bbox": [
+        295.0,
+        3442.0,
+        485.0,
+        3504.0
+      ],
+      "confidence": 0.9973757863044739,
+      "source": "paddleocr"
+    },
+    {
+      "page": 14,
+      "text": "WERE",
+      "bbox": [
+        1091.0,
+        3438.0,
+        1224.0,
+        3483.0
+      ],
+      "confidence": 0.9967473149299622,
+      "source": "paddleocr"
+    },
+    {
+      "page": 14,
+      "text": "TALKING",
+      "bbox": [
+        1066.0,
+        3492.0,
+        1245.0,
+        3537.0
+      ],
+      "confidence": 0.9509376883506775,
+      "source": "paddleocr"
+    },
+    {
+      "page": 14,
+      "text": "GOTO",
+      "bbox": [
+        295.0,
+        3504.0,
+        485.0,
+        3567.0
+      ],
+      "confidence": 0.9740473031997681,
+      "source": "paddleocr"
+    },
+    {
+      "page": 14,
+      "text": "ABOUT.",
+      "bbox": [
+        1083.0,
+        3546.0,
+        1236.0,
+        3592.0
+      ],
+      "confidence": 0.988379180431366,
+      "source": "paddleocr"
+    },
+    {
+      "page": 14,
+      "text": "WORK.",
+      "bbox": [
+        295.0,
+        3571.0,
+        469.0,
+        3633.0
+      ],
+      "confidence": 0.9868744611740112,
+      "source": "paddleocr"
+    },
+    {
+      "page": 14,
+      "text": "15",
+      "bbox": [
+        236.0,
+        3737.0,
+        299.0,
+        3792.0
+      ],
+      "confidence": 0.9990510940551758,
+      "source": "paddleocr"
+    }
+  ],
+  "bubbles": [
+    {
+      "page": 14,
+      "index": 1,
+      "text_display": "...SHE\nSMILES",
+      "text_tts": "...SHE SMILES",
+      "bbox": [
+        2257.0,
+        607.0,
+        2510.0,
+        771.0
+      ],
+      "items": [
+        {
+          "page": 14,
+          "text": "...SHE",
+          "bbox": [
+            2268.0,
+            607.0,
+            2495.0,
+            701.0
+          ],
+          "confidence": 0.8743107914924622,
+          "source": "paddleocr"
+        },
+        {
+          "page": 14,
+          "text": "SMILES",
+          "bbox": [
+            2257.0,
+            696.0,
+            2510.0,
+            771.0
+          ],
+          "confidence": 0.9977895617485046,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9360501766204834
+    },
+    {
+      "page": 14,
+      "index": 2,
+      "text_display": "MAYBE\nSHE\nACTUALLY\nFEELS\nTHE SAME\nABOUT\nME.",
+      "text_tts": "MAYBE SHE ACTUALLY FEELS THE SAME ABOUT ME.",
+      "bbox": [
+        593.0,
+        467.0,
+        884.0,
+        938.0
+      ],
+      "items": [
+        {
+          "page": 14,
+          "text": "MAYBE",
+          "bbox": [
+            643.0,
+            467.0,
+            834.0,
+            525.0
+          ],
+          "confidence": 0.9852669835090637,
+          "source": "paddleocr"
+        },
+        {
+          "page": 14,
+          "text": "SHE",
+          "bbox": [
+            680.0,
+            529.0,
+            801.0,
+            596.0
+          ],
+          "confidence": 0.9970112442970276,
+          "source": "paddleocr"
+        },
+        {
+          "page": 14,
+          "text": "ACTUALLY",
+          "bbox": [
+            593.0,
+            596.0,
+            884.0,
+            667.0
+          ],
+          "confidence": 0.9399451017379761,
+          "source": "paddleocr"
+        },
+        {
+          "page": 14,
+          "text": "FEELS",
+          "bbox": [
+            647.0,
+            671.0,
+            834.0,
+            733.0
+          ],
+          "confidence": 0.9905096292495728,
+          "source": "paddleocr"
+        },
+        {
+          "page": 14,
+          "text": "THE SAME",
+          "bbox": [
+            597.0,
+            742.0,
+            884.0,
+            800.0
+          ],
+          "confidence": 0.9397993087768555,
+          "source": "paddleocr"
+        },
+        {
+          "page": 14,
+          "text": "ABOUT",
+          "bbox": [
+            639.0,
+            808.0,
+            842.0,
+            867.0
+          ],
+          "confidence": 0.9904853701591492,
+          "source": "paddleocr"
+        },
+        {
+          "page": 14,
+          "text": "ME.",
+          "bbox": [
+            680.0,
+            875.0,
+            792.0,
+            938.0
+          ],
+          "confidence": 0.9941599369049072,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9767396535192218
+    },
+    {
+      "page": 14,
+      "index": 3,
+      "text_display": "LITTLE\nBIT.",
+      "text_tts": "LITTLE BIT.",
+      "bbox": [
+        2054.0,
+        1112.0,
+        2286.0,
+        1271.0
+      ],
+      "items": [
+        {
+          "page": 14,
+          "text": "LITTLE",
+          "bbox": [
+            2054.0,
+            1112.0,
+            2286.0,
+            1188.0
+          ],
+          "confidence": 0.9962222576141357,
+          "source": "paddleocr"
+        },
+        {
+          "page": 14,
+          "text": "BIT.",
+          "bbox": [
+            2108.0,
+            1192.0,
+            2236.0,
+            1271.0
+          ],
+          "confidence": 0.9751089215278625,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9856655895709991
+    },
+    {
+      "page": 14,
+      "index": 4,
+      "text_display": "SHE'S\nFORCING A",
+      "text_tts": "SHE'S FORCING A",
+      "bbox": [
+        958.0,
+        2546.0,
+        1249.0,
+        2671.0
+      ],
+      "items": [
+        {
+          "page": 14,
+          "text": "SHE'S",
+          "bbox": [
+            1025.0,
+            2546.0,
+            1187.0,
+            2608.0
+          ],
+          "confidence": 0.9787664413452148,
+          "source": "paddleocr"
+        },
+        {
+          "page": 14,
+          "text": "FORCING A",
+          "bbox": [
+            958.0,
+            2612.0,
+            1249.0,
+            2671.0
+          ],
+          "confidence": 0.9453548789024353,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9620606601238251
+    },
+    {
+      "page": 14,
+      "index": 5,
+      "text_display": "YOU\nKNOW\nWHAT?",
+      "text_tts": "YOU KNOW WHAT?",
+      "bbox": [
+        2162.0,
+        2608.0,
+        2386.0,
+        2842.0
+      ],
+      "items": [
+        {
+          "page": 14,
+          "text": "YOU",
+          "bbox": [
+            2203.0,
+            2608.0,
+            2348.0,
+            2683.0
+          ],
+          "confidence": 0.8520219326019287,
+          "source": "paddleocr"
+        },
+        {
+          "page": 14,
+          "text": "KNOW",
+          "bbox": [
+            2178.0,
+            2692.0,
+            2373.0,
+            2754.0
+          ],
+          "confidence": 0.9969220161437988,
+          "source": "paddleocr"
+        },
+        {
+          "page": 14,
+          "text": "WHAT?",
+          "bbox": [
+            2162.0,
+            2754.0,
+            2386.0,
+            2842.0
+          ],
+          "confidence": 0.9908707737922668,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9466049075126648
+    },
+    {
+      "page": 14,
+      "index": 6,
+      "text_display": "SMILE CUZ\nYOU'RE\nSTARING\nAT HER.",
+      "text_tts": "SMILE CUZ YOU'RE STARING AT HER.",
+      "bbox": [
+        949.0,
+        2662.0,
+        1250.0,
+        2934.0
+      ],
+      "items": [
+        {
+          "page": 14,
+          "text": "SMILE CUZ",
+          "bbox": [
+            949.0,
+            2662.0,
+            1250.0,
+            2742.0
+          ],
+          "confidence": 0.9501791000366211,
+          "source": "paddleocr"
+        },
+        {
+          "page": 14,
+          "text": "YOU'RE",
+          "bbox": [
+            1008.0,
+            2742.0,
+            1203.0,
+            2804.0
+          ],
+          "confidence": 0.9874565005302429,
+          "source": "paddleocr"
+        },
+        {
+          "page": 14,
+          "text": "STARING",
+          "bbox": [
+            987.0,
+            2800.0,
+            1220.0,
+            2871.0
+          ],
+          "confidence": 0.9969136118888855,
+          "source": "paddleocr"
+        },
+        {
+          "page": 14,
+          "text": "AT HER.",
+          "bbox": [
+            991.0,
+            2866.0,
+            1204.0,
+            2934.0
+          ],
+          "confidence": 0.9037733674049377,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9595806449651718
+    },
+    {
+      "page": 14,
+      "index": 7,
+      "text_display": "N-NO\nWAY...",
+      "text_tts": "N-NO WAY...",
+      "bbox": [
+        270.0,
+        2750.0,
+        456.0,
+        2908.0
+      ],
+      "items": [
+        {
+          "page": 14,
+          "text": "N-NO",
+          "bbox": [
+            270.0,
+            2750.0,
+            456.0,
+            2825.0
+          ],
+          "confidence": 0.9881789088249207,
+          "source": "paddleocr"
+        },
+        {
+          "page": 14,
+          "text": "WAY...",
+          "bbox": [
+            270.0,
+            2833.0,
+            456.0,
+            2908.0
+          ],
+          "confidence": 0.9116917252540588,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9499353170394897
+    },
+    {
+      "page": 14,
+      "index": 8,
+      "text_display": "YOU'RE\nKINDA...\nCREEPY.",
+      "text_tts": "YOU'RE KINDA... CREEPY.",
+      "bbox": [
+        2148.0,
+        2832.0,
+        2402.0,
+        3067.0
+      ],
+      "items": [
+        {
+          "page": 14,
+          "text": "YOU'RE",
+          "bbox": [
+            2148.0,
+            2832.0,
+            2391.0,
+            2918.0
+          ],
+          "confidence": 0.9843525886535645,
+          "source": "paddleocr"
+        },
+        {
+          "page": 14,
+          "text": "KINDA...",
+          "bbox": [
+            2149.0,
+            2917.0,
+            2390.0,
+            2992.0
+          ],
+          "confidence": 0.9799609184265137,
+          "source": "paddleocr"
+        },
+        {
+          "page": 14,
+          "text": "CREEPY.",
+          "bbox": [
+            2149.0,
+            2996.0,
+            2402.0,
+            3067.0
+          ],
+          "confidence": 0.9828544855117798,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9823893308639526
+    },
+    {
+      "page": 14,
+      "index": 9,
+      "text_display": "MAM",
+      "text_tts": "MAM",
+      "bbox": [
+        788.0,
+        3158.0,
+        867.0,
+        3188.0
+      ],
+      "items": [
+        {
+          "page": 14,
+          "text": "MAM",
+          "bbox": [
+            788.0,
+            3158.0,
+            867.0,
+            3188.0
+          ],
+          "confidence": 0.688936173915863,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.688936173915863
+    },
+    {
+      "page": 14,
+      "index": 10,
+      "text_display": "SEE THE",
+      "text_tts": "SEE THE",
+      "bbox": [
+        1053.0,
+        3312.0,
+        1258.0,
+        3380.0
+      ],
+      "items": [
+        {
+          "page": 14,
+          "text": "SEE THE",
+          "bbox": [
+            1053.0,
+            3312.0,
+            1258.0,
+            3380.0
+          ],
+          "confidence": 0.9264360666275024,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9264360666275024
+    },
+    {
+      "page": 14,
+      "index": 11,
+      "text_display": "WELLI\nCOTTO\nGIRL YOU\nWERE\nTALKING\nABOUT.",
+      "text_tts": "WELLI COTTO GIRL YOU WERE TALKING ABOUT.",
+      "bbox": [
+        1045.0,
+        3213.0,
+        1266.0,
+        3592.0
+      ],
+      "items": [
+        {
+          "page": 14,
+          "text": "WELLI",
+          "bbox": [
+            1066.0,
+            3213.0,
+            1249.0,
+            3271.0
+          ],
+          "confidence": 0.9722574949264526,
+          "source": "paddleocr"
+        },
+        {
+          "page": 14,
+          "text": "COTTO",
+          "bbox": [
+            1066.0,
+            3267.0,
+            1253.0,
+            3325.0
+          ],
+          "confidence": 0.8051058053970337,
+          "source": "paddleocr"
+        },
+        {
+          "page": 14,
+          "text": "GIRL YOU",
+          "bbox": [
+            1045.0,
+            3370.0,
+            1266.0,
+            3438.0
+          ],
+          "confidence": 0.9172083735466003,
+          "source": "paddleocr"
+        },
+        {
+          "page": 14,
+          "text": "WERE",
+          "bbox": [
+            1091.0,
+            3438.0,
+            1224.0,
+            3483.0
+          ],
+          "confidence": 0.9967473149299622,
+          "source": "paddleocr"
+        },
+        {
+          "page": 14,
+          "text": "TALKING",
+          "bbox": [
+            1066.0,
+            3492.0,
+            1245.0,
+            3537.0
+          ],
+          "confidence": 0.9509376883506775,
+          "source": "paddleocr"
+        },
+        {
+          "page": 14,
+          "text": "ABOUT.",
+          "bbox": [
+            1083.0,
+            3546.0,
+            1236.0,
+            3592.0
+          ],
+          "confidence": 0.988379180431366,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9384393095970154
+    },
+    {
+      "page": 14,
+      "index": 12,
+      "text_display": "SHOULD\nGET\nGOING.\nGOTTA\nGOTO\nWORK.",
+      "text_tts": "SHOULD GET GOING. GOTTA GOTO WORK.",
+      "bbox": [
+        274.0,
+        3242.0,
+        502.0,
+        3633.0
+      ],
+      "items": [
+        {
+          "page": 14,
+          "text": "SHOULD",
+          "bbox": [
+            274.0,
+            3242.0,
+            502.0,
+            3312.0
+          ],
+          "confidence": 0.9968867301940918,
+          "source": "paddleocr"
+        },
+        {
+          "page": 14,
+          "text": "GET",
+          "bbox": [
+            332.0,
+            3308.0,
+            448.0,
+            3371.0
+          ],
+          "confidence": 0.9759799838066101,
+          "source": "paddleocr"
+        },
+        {
+          "page": 14,
+          "text": "GOING.",
+          "bbox": [
+            281.0,
+            3370.0,
+            482.0,
+            3443.0
+          ],
+          "confidence": 0.9705304503440857,
+          "source": "paddleocr"
+        },
+        {
+          "page": 14,
+          "text": "GOTTA",
+          "bbox": [
+            295.0,
+            3442.0,
+            485.0,
+            3504.0
+          ],
+          "confidence": 0.9973757863044739,
+          "source": "paddleocr"
+        },
+        {
+          "page": 14,
+          "text": "GOTO",
+          "bbox": [
+            295.0,
+            3504.0,
+            485.0,
+            3567.0
+          ],
+          "confidence": 0.9740473031997681,
+          "source": "paddleocr"
+        },
+        {
+          "page": 14,
+          "text": "WORK.",
+          "bbox": [
+            295.0,
+            3571.0,
+            469.0,
+            3633.0
+          ],
+          "confidence": 0.9868744611740112,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9836157858371735
+    },
+    {
+      "page": 14,
+      "index": 13,
+      "text_display": "15",
+      "text_tts": "15",
+      "bbox": [
+        236.0,
+        3737.0,
+        299.0,
+        3792.0
+      ],
+      "items": [
+        {
+          "page": 14,
+          "text": "15",
+          "bbox": [
+            236.0,
+            3737.0,
+            299.0,
+            3792.0
+          ],
+          "confidence": 0.9990510940551758,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9990510940551758
+    }
+  ]
+}

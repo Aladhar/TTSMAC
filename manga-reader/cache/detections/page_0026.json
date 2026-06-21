@@ -1,0 +1,1450 @@
+{
+  "page_data": {
+    "pdf_path": "Manga/Tokyo Ghoul Volume 1.pdf",
+    "page_index": 26,
+    "image_path": "cache/pages/page_0026.png",
+    "pdf_width": 1115.0,
+    "pdf_height": 1600.0,
+    "image_width": 2788,
+    "image_height": 4000,
+    "zoom": 2.5
+  },
+  "ocr_items": [
+    {
+      "page": 26,
+      "text": "...AND",
+      "bbox": [
+        1249.0,
+        408.0,
+        1415.0,
+        471.0
+      ],
+      "confidence": 0.885977029800415,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "SOWE",
+      "bbox": [
+        1236.0,
+        471.0,
+        1427.0,
+        533.0
+      ],
+      "confidence": 0.9546191096305847,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "ALL",
+      "bbox": [
+        1278.0,
+        538.0,
+        1386.0,
+        600.0
+      ],
+      "confidence": 0.9976450800895691,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "STARTED",
+      "bbox": [
+        1216.0,
+        604.0,
+        1448.0,
+        663.0
+      ],
+      "confidence": 0.9971908926963806,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "...",
+      "bbox": [
+        1303.0,
+        696.0,
+        1353.0,
+        729.0
+      ],
+      "confidence": 0.609283983707428,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "THAT'S",
+      "bbox": [
+        382.0,
+        988.0,
+        573.0,
+        1050.0
+      ],
+      "confidence": 0.9724802374839783,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "...FIRING",
+      "bbox": [
+        1173.0,
+        982.0,
+        1395.0,
+        1055.0
+      ],
+      "confidence": 0.9390483498573303,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "so",
+      "bbox": [
+        427.0,
+        1058.0,
+        527.0,
+        1121.0
+      ],
+      "confidence": 0.6174107789993286,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "BOTTLE",
+      "bbox": [
+        1178.0,
+        1054.0,
+        1390.0,
+        1112.0
+      ],
+      "confidence": 0.9967389702796936,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "ROCKETS",
+      "bbox": [
+        1166.0,
+        1108.0,
+        1402.0,
+        1167.0
+      ],
+      "confidence": 0.9968405961990356,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "MEAN!",
+      "bbox": [
+        382.0,
+        1129.0,
+        568.0,
+        1188.0
+      ],
+      "confidence": 0.9788891673088074,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "AT HIDE.",
+      "bbox": [
+        1178.0,
+        1175.0,
+        1390.0,
+        1233.0
+      ],
+      "confidence": 0.9284371137619019,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "BUT IT",
+      "bbox": [
+        252.0,
+        1286.0,
+        433.0,
+        1355.0
+      ],
+      "confidence": 0.9270081520080566,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "SOUNDS",
+      "bbox": [
+        241.0,
+        1354.0,
+        452.0,
+        1413.0
+      ],
+      "confidence": 0.9957442879676819,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "KINDA",
+      "bbox": [
+        270.0,
+        1417.0,
+        419.0,
+        1475.0
+      ],
+      "confidence": 0.9978882074356079,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "FUN",
+      "bbox": [
+        280.0,
+        1465.0,
+        400.0,
+        1539.0
+      ],
+      "confidence": 0.99363112449646,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "TOO...",
+      "bbox": [
+        266.0,
+        1538.0,
+        415.0,
+        1596.0
+      ],
+      "confidence": 0.9802480340003967,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "OHYEAHI",
+      "bbox": [
+        2166.0,
+        1858.0,
+        2473.0,
+        1917.0
+      ],
+      "confidence": 0.969950795173645,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "HAVE SOME",
+      "bbox": [
+        2157.0,
+        1925.0,
+        2477.0,
+        1983.0
+      ],
+      "confidence": 0.9492437839508057,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "DRAWINGS",
+      "bbox": [
+        2174.0,
+        1996.0,
+        2464.0,
+        2054.0
+      ],
+      "confidence": 0.9914243221282959,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "DRAW-",
+      "bbox": [
+        286.0,
+        2021.0,
+        461.0,
+        2083.0
+      ],
+      "confidence": 0.9892027974128723,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "HIDE AND",
+      "bbox": [
+        2182.0,
+        2062.0,
+        2448.0,
+        2121.0
+      ],
+      "confidence": 0.9443279504776001,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "INGS",
+      "bbox": [
+        307.0,
+        2088.0,
+        452.0,
+        2150.0
+      ],
+      "confidence": 0.9593896865844727,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "IDREWIN",
+      "bbox": [
+        2161.0,
+        2120.0,
+        2465.0,
+        2192.0
+      ],
+      "confidence": 0.9807673692703247,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "My BAG...",
+      "bbox": [
+        2161.0,
+        2187.0,
+        2457.0,
+        2267.0
+      ],
+      "confidence": 0.8222944140434265,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "OUR",
+      "bbox": [
+        1290.0,
+        2750.0,
+        1394.0,
+        2800.0
+      ],
+      "confidence": 0.9925239682197571,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "YEAH,",
+      "bbox": [
+        2286.0,
+        2767.0,
+        2419.0,
+        2825.0
+      ],
+      "confidence": 0.9583584070205688,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "IDEAS OF",
+      "bbox": [
+        1227.0,
+        2799.0,
+        1453.0,
+        2868.0
+      ],
+      "confidence": 0.9505908489227295,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "Wow!",
+      "bbox": [
+        344.0,
+        2833.0,
+        539.0,
+        2896.0
+      ],
+      "confidence": 0.8633439540863037,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "THEYWERE",
+      "bbox": [
+        2228.0,
+        2829.0,
+        2485.0,
+        2875.0
+      ],
+      "confidence": 0.9796389937400818,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "WHAT A",
+      "bbox": [
+        1253.0,
+        2862.0,
+        1435.0,
+        2921.0
+      ],
+      "confidence": 0.9279583096504211,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "TALKING",
+      "bbox": [
+        2261.0,
+        2888.0,
+        2452.0,
+        2933.0
+      ],
+      "confidence": 0.9941424131393433,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "THAT'S",
+      "bbox": [
+        332.0,
+        2908.0,
+        556.0,
+        2983.0
+      ],
+      "confidence": 0.9724345803260803,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "GHOUL",
+      "bbox": [
+        1252.0,
+        2911.0,
+        1428.0,
+        2980.0
+      ],
+      "confidence": 0.9957539439201355,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "ABOUT",
+      "bbox": [
+        2274.0,
+        2942.0,
+        2440.0,
+        2987.0
+      ],
+      "confidence": 0.9926210641860962,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "REALLY",
+      "bbox": [
+        315.0,
+        2983.0,
+        560.0,
+        3058.0
+      ],
+      "confidence": 0.9922728538513184,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "LOOKS",
+      "bbox": [
+        1261.0,
+        2975.0,
+        1427.0,
+        3033.0
+      ],
+      "confidence": 0.9952676892280579,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "GHOULS",
+      "bbox": [
+        2261.0,
+        3000.0,
+        2452.0,
+        3046.0
+      ],
+      "confidence": 0.9930551052093506,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "LIKE.",
+      "bbox": [
+        1278.0,
+        3033.0,
+        1402.0,
+        3092.0
+      ],
+      "confidence": 0.9894010424613953,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "ON THE",
+      "bbox": [
+        2261.0,
+        3050.0,
+        2448.0,
+        3108.0
+      ],
+      "confidence": 0.9207050204277039,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "GOOD!",
+      "bbox": [
+        328.0,
+        3071.0,
+        564.0,
+        3142.0
+      ],
+      "confidence": 0.9251585006713867,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "NEWS,",
+      "bbox": [
+        2274.0,
+        3108.0,
+        2435.0,
+        3167.0
+      ],
+      "confidence": 0.9901968240737915,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "So...",
+      "bbox": [
+        2290.0,
+        3162.0,
+        2415.0,
+        3221.0
+      ],
+      "confidence": 0.861661434173584,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "HERE",
+      "bbox": [
+        1655.0,
+        3283.0,
+        1772.0,
+        3338.0
+      ],
+      "confidence": 0.9976156949996948,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "THEY",
+      "bbox": [
+        1660.0,
+        3338.0,
+        1763.0,
+        3388.0
+      ],
+      "confidence": 0.9889990091323853,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "HIDE'S",
+      "bbox": [
+        253.0,
+        3392.0,
+        419.0,
+        3450.0
+      ],
+      "confidence": 0.9762871265411377,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "ARE.",
+      "bbox": [
+        1664.0,
+        3388.0,
+        1755.0,
+        3433.0
+      ],
+      "confidence": 0.9678784012794495,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "SI",
+      "bbox": [
+        315.0,
+        3454.0,
+        369.0,
+        3508.0
+      ],
+      "confidence": 0.8404160737991333,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "RATHER",
+      "bbox": [
+        241.0,
+        3508.0,
+        431.0,
+        3567.0
+      ],
+      "confidence": 0.9959790110588074,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "UNIQUE",
+      "bbox": [
+        245.0,
+        3567.0,
+        427.0,
+        3625.0
+      ],
+      "confidence": 0.9953553676605225,
+      "source": "paddleocr"
+    },
+    {
+      "page": 26,
+      "text": "27",
+      "bbox": [
+        220.0,
+        3754.0,
+        282.0,
+        3808.0
+      ],
+      "confidence": 0.9992373585700989,
+      "source": "paddleocr"
+    }
+  ],
+  "bubbles": [
+    {
+      "page": 26,
+      "index": 1,
+      "text_display": "...AND\nSOWE\nALL\nSTARTED\n...",
+      "text_tts": "...AND SOWE ALL STARTED ...",
+      "bbox": [
+        1216.0,
+        408.0,
+        1448.0,
+        729.0
+      ],
+      "items": [
+        {
+          "page": 26,
+          "text": "...AND",
+          "bbox": [
+            1249.0,
+            408.0,
+            1415.0,
+            471.0
+          ],
+          "confidence": 0.885977029800415,
+          "source": "paddleocr"
+        },
+        {
+          "page": 26,
+          "text": "SOWE",
+          "bbox": [
+            1236.0,
+            471.0,
+            1427.0,
+            533.0
+          ],
+          "confidence": 0.9546191096305847,
+          "source": "paddleocr"
+        },
+        {
+          "page": 26,
+          "text": "ALL",
+          "bbox": [
+            1278.0,
+            538.0,
+            1386.0,
+            600.0
+          ],
+          "confidence": 0.9976450800895691,
+          "source": "paddleocr"
+        },
+        {
+          "page": 26,
+          "text": "STARTED",
+          "bbox": [
+            1216.0,
+            604.0,
+            1448.0,
+            663.0
+          ],
+          "confidence": 0.9971908926963806,
+          "source": "paddleocr"
+        },
+        {
+          "page": 26,
+          "text": "...",
+          "bbox": [
+            1303.0,
+            696.0,
+            1353.0,
+            729.0
+          ],
+          "confidence": 0.609283983707428,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.8889432191848755
+    },
+    {
+      "page": 26,
+      "index": 2,
+      "text_display": "...FIRING\nBOTTLE\nROCKETS\nAT HIDE.",
+      "text_tts": "...FIRING BOTTLE ROCKETS AT HIDE.",
+      "bbox": [
+        1166.0,
+        982.0,
+        1402.0,
+        1233.0
+      ],
+      "items": [
+        {
+          "page": 26,
+          "text": "...FIRING",
+          "bbox": [
+            1173.0,
+            982.0,
+            1395.0,
+            1055.0
+          ],
+          "confidence": 0.9390483498573303,
+          "source": "paddleocr"
+        },
+        {
+          "page": 26,
+          "text": "BOTTLE",
+          "bbox": [
+            1178.0,
+            1054.0,
+            1390.0,
+            1112.0
+          ],
+          "confidence": 0.9967389702796936,
+          "source": "paddleocr"
+        },
+        {
+          "page": 26,
+          "text": "ROCKETS",
+          "bbox": [
+            1166.0,
+            1108.0,
+            1402.0,
+            1167.0
+          ],
+          "confidence": 0.9968405961990356,
+          "source": "paddleocr"
+        },
+        {
+          "page": 26,
+          "text": "AT HIDE.",
+          "bbox": [
+            1178.0,
+            1175.0,
+            1390.0,
+            1233.0
+          ],
+          "confidence": 0.9284371137619019,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9652662575244904
+    },
+    {
+      "page": 26,
+      "index": 3,
+      "text_display": "THAT'S\nso\nMEAN!",
+      "text_tts": "THAT'S so MEAN!",
+      "bbox": [
+        382.0,
+        988.0,
+        573.0,
+        1188.0
+      ],
+      "items": [
+        {
+          "page": 26,
+          "text": "THAT'S",
+          "bbox": [
+            382.0,
+            988.0,
+            573.0,
+            1050.0
+          ],
+          "confidence": 0.9724802374839783,
+          "source": "paddleocr"
+        },
+        {
+          "page": 26,
+          "text": "so",
+          "bbox": [
+            427.0,
+            1058.0,
+            527.0,
+            1121.0
+          ],
+          "confidence": 0.6174107789993286,
+          "source": "paddleocr"
+        },
+        {
+          "page": 26,
+          "text": "MEAN!",
+          "bbox": [
+            382.0,
+            1129.0,
+            568.0,
+            1188.0
+          ],
+          "confidence": 0.9788891673088074,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.8562600612640381
+    },
+    {
+      "page": 26,
+      "index": 4,
+      "text_display": "BUT IT\nSOUNDS\nKINDA",
+      "text_tts": "BUT IT SOUNDS KINDA",
+      "bbox": [
+        241.0,
+        1286.0,
+        452.0,
+        1475.0
+      ],
+      "items": [
+        {
+          "page": 26,
+          "text": "BUT IT",
+          "bbox": [
+            252.0,
+            1286.0,
+            433.0,
+            1355.0
+          ],
+          "confidence": 0.9270081520080566,
+          "source": "paddleocr"
+        },
+        {
+          "page": 26,
+          "text": "SOUNDS",
+          "bbox": [
+            241.0,
+            1354.0,
+            452.0,
+            1413.0
+          ],
+          "confidence": 0.9957442879676819,
+          "source": "paddleocr"
+        },
+        {
+          "page": 26,
+          "text": "KINDA",
+          "bbox": [
+            270.0,
+            1417.0,
+            419.0,
+            1475.0
+          ],
+          "confidence": 0.9978882074356079,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9735468824704488
+    },
+    {
+      "page": 26,
+      "index": 5,
+      "text_display": "FUN\nTOO...",
+      "text_tts": "FUN TOO...",
+      "bbox": [
+        266.0,
+        1465.0,
+        415.0,
+        1596.0
+      ],
+      "items": [
+        {
+          "page": 26,
+          "text": "FUN",
+          "bbox": [
+            280.0,
+            1465.0,
+            400.0,
+            1539.0
+          ],
+          "confidence": 0.99363112449646,
+          "source": "paddleocr"
+        },
+        {
+          "page": 26,
+          "text": "TOO...",
+          "bbox": [
+            266.0,
+            1538.0,
+            415.0,
+            1596.0
+          ],
+          "confidence": 0.9802480340003967,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9869395792484283
+    },
+    {
+      "page": 26,
+      "index": 6,
+      "text_display": "OHYEAHI\nHAVE SOME\nDRAWINGS\nHIDE AND\nIDREWIN\nMy BAG...",
+      "text_tts": "OHYEAHI HAVE SOME DRAWINGS HIDE AND IDREWIN My BAG...",
+      "bbox": [
+        2157.0,
+        1858.0,
+        2477.0,
+        2267.0
+      ],
+      "items": [
+        {
+          "page": 26,
+          "text": "OHYEAHI",
+          "bbox": [
+            2166.0,
+            1858.0,
+            2473.0,
+            1917.0
+          ],
+          "confidence": 0.969950795173645,
+          "source": "paddleocr"
+        },
+        {
+          "page": 26,
+          "text": "HAVE SOME",
+          "bbox": [
+            2157.0,
+            1925.0,
+            2477.0,
+            1983.0
+          ],
+          "confidence": 0.9492437839508057,
+          "source": "paddleocr"
+        },
+        {
+          "page": 26,
+          "text": "DRAWINGS",
+          "bbox": [
+            2174.0,
+            1996.0,
+            2464.0,
+            2054.0
+          ],
+          "confidence": 0.9914243221282959,
+          "source": "paddleocr"
+        },
+        {
+          "page": 26,
+          "text": "HIDE AND",
+          "bbox": [
+            2182.0,
+            2062.0,
+            2448.0,
+            2121.0
+          ],
+          "confidence": 0.9443279504776001,
+          "source": "paddleocr"
+        },
+        {
+          "page": 26,
+          "text": "IDREWIN",
+          "bbox": [
+            2161.0,
+            2120.0,
+            2465.0,
+            2192.0
+          ],
+          "confidence": 0.9807673692703247,
+          "source": "paddleocr"
+        },
+        {
+          "page": 26,
+          "text": "My BAG...",
+          "bbox": [
+            2161.0,
+            2187.0,
+            2457.0,
+            2267.0
+          ],
+          "confidence": 0.8222944140434265,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9430014391740164
+    },
+    {
+      "page": 26,
+      "index": 7,
+      "text_display": "DRAW-\nINGS",
+      "text_tts": "DRAW- INGS",
+      "bbox": [
+        286.0,
+        2021.0,
+        461.0,
+        2150.0
+      ],
+      "items": [
+        {
+          "page": 26,
+          "text": "DRAW-",
+          "bbox": [
+            286.0,
+            2021.0,
+            461.0,
+            2083.0
+          ],
+          "confidence": 0.9892027974128723,
+          "source": "paddleocr"
+        },
+        {
+          "page": 26,
+          "text": "INGS",
+          "bbox": [
+            307.0,
+            2088.0,
+            452.0,
+            2150.0
+          ],
+          "confidence": 0.9593896865844727,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9742962419986725
+    },
+    {
+      "page": 26,
+      "index": 8,
+      "text_display": "YEAH,\nTHEYWERE\nTALKING\nABOUT\nGHOULS\nON THE\nNEWS,\nSo...",
+      "text_tts": "YEAH, THEYWERE TALKING ABOUT GHOULS ON THE NEWS, So...",
+      "bbox": [
+        2228.0,
+        2767.0,
+        2485.0,
+        3221.0
+      ],
+      "items": [
+        {
+          "page": 26,
+          "text": "YEAH,",
+          "bbox": [
+            2286.0,
+            2767.0,
+            2419.0,
+            2825.0
+          ],
+          "confidence": 0.9583584070205688,
+          "source": "paddleocr"
+        },
+        {
+          "page": 26,
+          "text": "THEYWERE",
+          "bbox": [
+            2228.0,
+            2829.0,
+            2485.0,
+            2875.0
+          ],
+          "confidence": 0.9796389937400818,
+          "source": "paddleocr"
+        },
+        {
+          "page": 26,
+          "text": "TALKING",
+          "bbox": [
+            2261.0,
+            2888.0,
+            2452.0,
+            2933.0
+          ],
+          "confidence": 0.9941424131393433,
+          "source": "paddleocr"
+        },
+        {
+          "page": 26,
+          "text": "ABOUT",
+          "bbox": [
+            2274.0,
+            2942.0,
+            2440.0,
+            2987.0
+          ],
+          "confidence": 0.9926210641860962,
+          "source": "paddleocr"
+        },
+        {
+          "page": 26,
+          "text": "GHOULS",
+          "bbox": [
+            2261.0,
+            3000.0,
+            2452.0,
+            3046.0
+          ],
+          "confidence": 0.9930551052093506,
+          "source": "paddleocr"
+        },
+        {
+          "page": 26,
+          "text": "ON THE",
+          "bbox": [
+            2261.0,
+            3050.0,
+            2448.0,
+            3108.0
+          ],
+          "confidence": 0.9207050204277039,
+          "source": "paddleocr"
+        },
+        {
+          "page": 26,
+          "text": "NEWS,",
+          "bbox": [
+            2274.0,
+            3108.0,
+            2435.0,
+            3167.0
+          ],
+          "confidence": 0.9901968240737915,
+          "source": "paddleocr"
+        },
+        {
+          "page": 26,
+          "text": "So...",
+          "bbox": [
+            2290.0,
+            3162.0,
+            2415.0,
+            3221.0
+          ],
+          "confidence": 0.861661434173584,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.961297407746315
+    },
+    {
+      "page": 26,
+      "index": 9,
+      "text_display": "WHAT A",
+      "text_tts": "WHAT A",
+      "bbox": [
+        1253.0,
+        2862.0,
+        1435.0,
+        2921.0
+      ],
+      "items": [
+        {
+          "page": 26,
+          "text": "WHAT A",
+          "bbox": [
+            1253.0,
+            2862.0,
+            1435.0,
+            2921.0
+          ],
+          "confidence": 0.9279583096504211,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9279583096504211
+    },
+    {
+      "page": 26,
+      "index": 10,
+      "text_display": "OUR\nIDEAS OF\nGHOUL\nLOOKS\nLIKE.",
+      "text_tts": "OUR IDEAS OF GHOUL LOOKS LIKE.",
+      "bbox": [
+        1227.0,
+        2750.0,
+        1453.0,
+        3092.0
+      ],
+      "items": [
+        {
+          "page": 26,
+          "text": "OUR",
+          "bbox": [
+            1290.0,
+            2750.0,
+            1394.0,
+            2800.0
+          ],
+          "confidence": 0.9925239682197571,
+          "source": "paddleocr"
+        },
+        {
+          "page": 26,
+          "text": "IDEAS OF",
+          "bbox": [
+            1227.0,
+            2799.0,
+            1453.0,
+            2868.0
+          ],
+          "confidence": 0.9505908489227295,
+          "source": "paddleocr"
+        },
+        {
+          "page": 26,
+          "text": "GHOUL",
+          "bbox": [
+            1252.0,
+            2911.0,
+            1428.0,
+            2980.0
+          ],
+          "confidence": 0.9957539439201355,
+          "source": "paddleocr"
+        },
+        {
+          "page": 26,
+          "text": "LOOKS",
+          "bbox": [
+            1261.0,
+            2975.0,
+            1427.0,
+            3033.0
+          ],
+          "confidence": 0.9952676892280579,
+          "source": "paddleocr"
+        },
+        {
+          "page": 26,
+          "text": "LIKE.",
+          "bbox": [
+            1278.0,
+            3033.0,
+            1402.0,
+            3092.0
+          ],
+          "confidence": 0.9894010424613953,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9847074985504151
+    },
+    {
+      "page": 26,
+      "index": 11,
+      "text_display": "Wow!\nTHAT'S\nREALLY\nGOOD!",
+      "text_tts": "Wow! THAT'S REALLY GOOD!",
+      "bbox": [
+        315.0,
+        2833.0,
+        564.0,
+        3142.0
+      ],
+      "items": [
+        {
+          "page": 26,
+          "text": "Wow!",
+          "bbox": [
+            344.0,
+            2833.0,
+            539.0,
+            2896.0
+          ],
+          "confidence": 0.8633439540863037,
+          "source": "paddleocr"
+        },
+        {
+          "page": 26,
+          "text": "THAT'S",
+          "bbox": [
+            332.0,
+            2908.0,
+            556.0,
+            2983.0
+          ],
+          "confidence": 0.9724345803260803,
+          "source": "paddleocr"
+        },
+        {
+          "page": 26,
+          "text": "REALLY",
+          "bbox": [
+            315.0,
+            2983.0,
+            560.0,
+            3058.0
+          ],
+          "confidence": 0.9922728538513184,
+          "source": "paddleocr"
+        },
+        {
+          "page": 26,
+          "text": "GOOD!",
+          "bbox": [
+            328.0,
+            3071.0,
+            564.0,
+            3142.0
+          ],
+          "confidence": 0.9251585006713867,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9383024722337723
+    },
+    {
+      "page": 26,
+      "index": 12,
+      "text_display": "HERE\nTHEY\nARE.",
+      "text_tts": "HERE THEY ARE.",
+      "bbox": [
+        1655.0,
+        3283.0,
+        1772.0,
+        3433.0
+      ],
+      "items": [
+        {
+          "page": 26,
+          "text": "HERE",
+          "bbox": [
+            1655.0,
+            3283.0,
+            1772.0,
+            3338.0
+          ],
+          "confidence": 0.9976156949996948,
+          "source": "paddleocr"
+        },
+        {
+          "page": 26,
+          "text": "THEY",
+          "bbox": [
+            1660.0,
+            3338.0,
+            1763.0,
+            3388.0
+          ],
+          "confidence": 0.9889990091323853,
+          "source": "paddleocr"
+        },
+        {
+          "page": 26,
+          "text": "ARE.",
+          "bbox": [
+            1664.0,
+            3388.0,
+            1755.0,
+            3433.0
+          ],
+          "confidence": 0.9678784012794495,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9848310351371765
+    },
+    {
+      "page": 26,
+      "index": 13,
+      "text_display": "HIDE'S\nSI\nRATHER\nUNIQUE",
+      "text_tts": "HIDE'S SI RATHER UNIQUE",
+      "bbox": [
+        241.0,
+        3392.0,
+        431.0,
+        3625.0
+      ],
+      "items": [
+        {
+          "page": 26,
+          "text": "HIDE'S",
+          "bbox": [
+            253.0,
+            3392.0,
+            419.0,
+            3450.0
+          ],
+          "confidence": 0.9762871265411377,
+          "source": "paddleocr"
+        },
+        {
+          "page": 26,
+          "text": "SI",
+          "bbox": [
+            315.0,
+            3454.0,
+            369.0,
+            3508.0
+          ],
+          "confidence": 0.8404160737991333,
+          "source": "paddleocr"
+        },
+        {
+          "page": 26,
+          "text": "RATHER",
+          "bbox": [
+            241.0,
+            3508.0,
+            431.0,
+            3567.0
+          ],
+          "confidence": 0.9959790110588074,
+          "source": "paddleocr"
+        },
+        {
+          "page": 26,
+          "text": "UNIQUE",
+          "bbox": [
+            245.0,
+            3567.0,
+            427.0,
+            3625.0
+          ],
+          "confidence": 0.9953553676605225,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9520093947649002
+    },
+    {
+      "page": 26,
+      "index": 14,
+      "text_display": "27",
+      "text_tts": "27",
+      "bbox": [
+        220.0,
+        3754.0,
+        282.0,
+        3808.0
+      ],
+      "items": [
+        {
+          "page": 26,
+          "text": "27",
+          "bbox": [
+            220.0,
+            3754.0,
+            282.0,
+            3808.0
+          ],
+          "confidence": 0.9992373585700989,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9992373585700989
+    }
+  ]
+}

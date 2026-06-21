@@ -1,0 +1,712 @@
+{
+  "page_data": {
+    "pdf_path": "Manga/Tokyo Ghoul Volume 1.pdf",
+    "page_index": 24,
+    "image_path": "cache/pages/page_0024.png",
+    "pdf_width": 1115.0,
+    "pdf_height": 1600.0,
+    "image_width": 2788,
+    "image_height": 4000,
+    "zoom": 2.5
+  },
+  "ocr_items": [
+    {
+      "page": 24,
+      "text": "WHAT'S",
+      "bbox": [
+        1249.0,
+        558.0,
+        1406.0,
+        617.0
+      ],
+      "confidence": 0.9278495907783508,
+      "source": "paddleocr"
+    },
+    {
+      "page": 24,
+      "text": "UP,",
+      "bbox": [
+        1294.0,
+        617.0,
+        1369.0,
+        671.0
+      ],
+      "confidence": 0.9048803448677063,
+      "source": "paddleocr"
+    },
+    {
+      "page": 24,
+      "text": "TOUKA",
+      "bbox": [
+        1253.0,
+        671.0,
+        1406.0,
+        729.0
+      ],
+      "confidence": 0.9963849186897278,
+      "source": "paddleocr"
+    },
+    {
+      "page": 24,
+      "text": "?",
+      "bbox": [
+        1315.0,
+        729.0,
+        1348.0,
+        771.0
+      ],
+      "confidence": 0.9905473589897156,
+      "source": "paddleocr"
+    },
+    {
+      "page": 24,
+      "text": "NOTH-",
+      "bbox": [
+        324.0,
+        1954.0,
+        568.0,
+        2042.0
+      ],
+      "confidence": 0.9969595074653625,
+      "source": "paddleocr"
+    },
+    {
+      "page": 24,
+      "text": "ING.",
+      "bbox": [
+        369.0,
+        2046.0,
+        519.0,
+        2125.0
+      ],
+      "confidence": 0.9685772657394409,
+      "source": "paddleocr"
+    },
+    {
+      "page": 24,
+      "text": "WELL,",
+      "bbox": [
+        1340.0,
+        2750.0,
+        1473.0,
+        2808.0
+      ],
+      "confidence": 0.9893004298210144,
+      "source": "paddleocr"
+    },
+    {
+      "page": 24,
+      "text": "I'M",
+      "bbox": [
+        1365.0,
+        2804.0,
+        1452.0,
+        2854.0
+      ],
+      "confidence": 0.9397576451301575,
+      "source": "paddleocr"
+    },
+    {
+      "page": 24,
+      "text": "GOING",
+      "bbox": [
+        1332.0,
+        2854.0,
+        1485.0,
+        2912.0
+      ],
+      "confidence": 0.9807546734809875,
+      "source": "paddleocr"
+    },
+    {
+      "page": 24,
+      "text": "THAT",
+      "bbox": [
+        1338.0,
+        2898.0,
+        1466.0,
+        2972.0
+      ],
+      "confidence": 0.9948387145996094,
+      "source": "paddleocr"
+    },
+    {
+      "page": 24,
+      "text": "THANK",
+      "bbox": [
+        2249.0,
+        2908.0,
+        2431.0,
+        2967.0
+      ],
+      "confidence": 0.9981869459152222,
+      "source": "paddleocr"
+    },
+    {
+      "page": 24,
+      "text": "WAY,",
+      "bbox": [
+        1357.0,
+        2967.0,
+        1456.0,
+        3013.0
+      ],
+      "confidence": 0.96265709400177,
+      "source": "paddleocr"
+    },
+    {
+      "page": 24,
+      "text": "YOU SO",
+      "bbox": [
+        2224.0,
+        2971.0,
+        2452.0,
+        3042.0
+      ],
+      "confidence": 0.743640124797821,
+      "source": "paddleocr"
+    },
+    {
+      "page": 24,
+      "text": "sO...",
+      "bbox": [
+        1351.0,
+        3011.0,
+        1462.0,
+        3068.0
+      ],
+      "confidence": 0.7731661796569824,
+      "source": "paddleocr"
+    },
+    {
+      "page": 24,
+      "text": "MUCH",
+      "bbox": [
+        2257.0,
+        3046.0,
+        2423.0,
+        3108.0
+      ],
+      "confidence": 0.9948583841323853,
+      "source": "paddleocr"
+    },
+    {
+      "page": 24,
+      "text": "FOR",
+      "bbox": [
+        2274.0,
+        3112.0,
+        2406.0,
+        3175.0
+      ],
+      "confidence": 0.9979853630065918,
+      "source": "paddleocr"
+    },
+    {
+      "page": 24,
+      "text": "TODAY.",
+      "bbox": [
+        2249.0,
+        3183.0,
+        2435.0,
+        3246.0
+      ],
+      "confidence": 0.9745197892189026,
+      "source": "paddleocr"
+    },
+    {
+      "page": 24,
+      "text": "NO,",
+      "bbox": [
+        1668.0,
+        3213.0,
+        1776.0,
+        3275.0
+      ],
+      "confidence": 0.9767241477966309,
+      "source": "paddleocr"
+    },
+    {
+      "page": 24,
+      "text": "THANK",
+      "bbox": [
+        1635.0,
+        3279.0,
+        1817.0,
+        3342.0
+      ],
+      "confidence": 0.9971232414245605,
+      "source": "paddleocr"
+    },
+    {
+      "page": 24,
+      "text": "YOU.",
+      "bbox": [
+        1655.0,
+        3346.0,
+        1792.0,
+        3417.0
+      ],
+      "confidence": 0.9642720222473145,
+      "source": "paddleocr"
+    },
+    {
+      "page": 24,
+      "text": "IHAD",
+      "bbox": [
+        1639.0,
+        3417.0,
+        1805.0,
+        3479.0
+      ],
+      "confidence": 0.9905229806900024,
+      "source": "paddleocr"
+    },
+    {
+      "page": 24,
+      "text": "UM.",
+      "bbox": [
+        203.0,
+        3433.0,
+        307.0,
+        3483.0
+      ],
+      "confidence": 0.7882082462310791,
+      "source": "paddleocr"
+    },
+    {
+      "page": 24,
+      "text": "FUN!",
+      "bbox": [
+        1655.0,
+        3483.0,
+        1792.0,
+        3546.0
+      ],
+      "confidence": 0.9885023832321167,
+      "source": "paddleocr"
+    },
+    {
+      "page": 24,
+      "text": "25",
+      "bbox": [
+        232.0,
+        3754.0,
+        286.0,
+        3792.0
+      ],
+      "confidence": 0.9993578791618347,
+      "source": "paddleocr"
+    }
+  ],
+  "bubbles": [
+    {
+      "page": 24,
+      "index": 1,
+      "text_display": "WHAT'S\nUP,\nTOUKA\n?",
+      "text_tts": "WHAT'S UP, TOUKA ?",
+      "bbox": [
+        1249.0,
+        558.0,
+        1406.0,
+        771.0
+      ],
+      "items": [
+        {
+          "page": 24,
+          "text": "WHAT'S",
+          "bbox": [
+            1249.0,
+            558.0,
+            1406.0,
+            617.0
+          ],
+          "confidence": 0.9278495907783508,
+          "source": "paddleocr"
+        },
+        {
+          "page": 24,
+          "text": "UP,",
+          "bbox": [
+            1294.0,
+            617.0,
+            1369.0,
+            671.0
+          ],
+          "confidence": 0.9048803448677063,
+          "source": "paddleocr"
+        },
+        {
+          "page": 24,
+          "text": "TOUKA",
+          "bbox": [
+            1253.0,
+            671.0,
+            1406.0,
+            729.0
+          ],
+          "confidence": 0.9963849186897278,
+          "source": "paddleocr"
+        },
+        {
+          "page": 24,
+          "text": "?",
+          "bbox": [
+            1315.0,
+            729.0,
+            1348.0,
+            771.0
+          ],
+          "confidence": 0.9905473589897156,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9549155533313751
+    },
+    {
+      "page": 24,
+      "index": 2,
+      "text_display": "NOTH-\nING.",
+      "text_tts": "NOTH- ING.",
+      "bbox": [
+        324.0,
+        1954.0,
+        568.0,
+        2125.0
+      ],
+      "items": [
+        {
+          "page": 24,
+          "text": "NOTH-",
+          "bbox": [
+            324.0,
+            1954.0,
+            568.0,
+            2042.0
+          ],
+          "confidence": 0.9969595074653625,
+          "source": "paddleocr"
+        },
+        {
+          "page": 24,
+          "text": "ING.",
+          "bbox": [
+            369.0,
+            2046.0,
+            519.0,
+            2125.0
+          ],
+          "confidence": 0.9685772657394409,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9827683866024017
+    },
+    {
+      "page": 24,
+      "index": 3,
+      "text_display": "WELL,\nI'M\nGOING\nWAY,\nsO...",
+      "text_tts": "WELL, I'M GOING WAY, sO...",
+      "bbox": [
+        1332.0,
+        2750.0,
+        1485.0,
+        3068.0
+      ],
+      "items": [
+        {
+          "page": 24,
+          "text": "WELL,",
+          "bbox": [
+            1340.0,
+            2750.0,
+            1473.0,
+            2808.0
+          ],
+          "confidence": 0.9893004298210144,
+          "source": "paddleocr"
+        },
+        {
+          "page": 24,
+          "text": "I'M",
+          "bbox": [
+            1365.0,
+            2804.0,
+            1452.0,
+            2854.0
+          ],
+          "confidence": 0.9397576451301575,
+          "source": "paddleocr"
+        },
+        {
+          "page": 24,
+          "text": "GOING",
+          "bbox": [
+            1332.0,
+            2854.0,
+            1485.0,
+            2912.0
+          ],
+          "confidence": 0.9807546734809875,
+          "source": "paddleocr"
+        },
+        {
+          "page": 24,
+          "text": "WAY,",
+          "bbox": [
+            1357.0,
+            2967.0,
+            1456.0,
+            3013.0
+          ],
+          "confidence": 0.96265709400177,
+          "source": "paddleocr"
+        },
+        {
+          "page": 24,
+          "text": "sO...",
+          "bbox": [
+            1351.0,
+            3011.0,
+            1462.0,
+            3068.0
+          ],
+          "confidence": 0.7731661796569824,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9291272044181824
+    },
+    {
+      "page": 24,
+      "index": 4,
+      "text_display": "THAT",
+      "text_tts": "THAT",
+      "bbox": [
+        1338.0,
+        2898.0,
+        1466.0,
+        2972.0
+      ],
+      "items": [
+        {
+          "page": 24,
+          "text": "THAT",
+          "bbox": [
+            1338.0,
+            2898.0,
+            1466.0,
+            2972.0
+          ],
+          "confidence": 0.9948387145996094,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9948387145996094
+    },
+    {
+      "page": 24,
+      "index": 5,
+      "text_display": "THANK\nYOU SO\nMUCH\nFOR\nTODAY.",
+      "text_tts": "THANK YOU SO MUCH FOR TODAY.",
+      "bbox": [
+        2224.0,
+        2908.0,
+        2452.0,
+        3246.0
+      ],
+      "items": [
+        {
+          "page": 24,
+          "text": "THANK",
+          "bbox": [
+            2249.0,
+            2908.0,
+            2431.0,
+            2967.0
+          ],
+          "confidence": 0.9981869459152222,
+          "source": "paddleocr"
+        },
+        {
+          "page": 24,
+          "text": "YOU SO",
+          "bbox": [
+            2224.0,
+            2971.0,
+            2452.0,
+            3042.0
+          ],
+          "confidence": 0.743640124797821,
+          "source": "paddleocr"
+        },
+        {
+          "page": 24,
+          "text": "MUCH",
+          "bbox": [
+            2257.0,
+            3046.0,
+            2423.0,
+            3108.0
+          ],
+          "confidence": 0.9948583841323853,
+          "source": "paddleocr"
+        },
+        {
+          "page": 24,
+          "text": "FOR",
+          "bbox": [
+            2274.0,
+            3112.0,
+            2406.0,
+            3175.0
+          ],
+          "confidence": 0.9979853630065918,
+          "source": "paddleocr"
+        },
+        {
+          "page": 24,
+          "text": "TODAY.",
+          "bbox": [
+            2249.0,
+            3183.0,
+            2435.0,
+            3246.0
+          ],
+          "confidence": 0.9745197892189026,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9418381214141845
+    },
+    {
+      "page": 24,
+      "index": 6,
+      "text_display": "NO,\nTHANK\nYOU.\nIHAD\nFUN!",
+      "text_tts": "NO, THANK YOU. IHAD FUN!",
+      "bbox": [
+        1635.0,
+        3213.0,
+        1817.0,
+        3546.0
+      ],
+      "items": [
+        {
+          "page": 24,
+          "text": "NO,",
+          "bbox": [
+            1668.0,
+            3213.0,
+            1776.0,
+            3275.0
+          ],
+          "confidence": 0.9767241477966309,
+          "source": "paddleocr"
+        },
+        {
+          "page": 24,
+          "text": "THANK",
+          "bbox": [
+            1635.0,
+            3279.0,
+            1817.0,
+            3342.0
+          ],
+          "confidence": 0.9971232414245605,
+          "source": "paddleocr"
+        },
+        {
+          "page": 24,
+          "text": "YOU.",
+          "bbox": [
+            1655.0,
+            3346.0,
+            1792.0,
+            3417.0
+          ],
+          "confidence": 0.9642720222473145,
+          "source": "paddleocr"
+        },
+        {
+          "page": 24,
+          "text": "IHAD",
+          "bbox": [
+            1639.0,
+            3417.0,
+            1805.0,
+            3479.0
+          ],
+          "confidence": 0.9905229806900024,
+          "source": "paddleocr"
+        },
+        {
+          "page": 24,
+          "text": "FUN!",
+          "bbox": [
+            1655.0,
+            3483.0,
+            1792.0,
+            3546.0
+          ],
+          "confidence": 0.9885023832321167,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.983428955078125
+    },
+    {
+      "page": 24,
+      "index": 7,
+      "text_display": "UM.",
+      "text_tts": "UM.",
+      "bbox": [
+        203.0,
+        3433.0,
+        307.0,
+        3483.0
+      ],
+      "items": [
+        {
+          "page": 24,
+          "text": "UM.",
+          "bbox": [
+            203.0,
+            3433.0,
+            307.0,
+            3483.0
+          ],
+          "confidence": 0.7882082462310791,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.7882082462310791
+    },
+    {
+      "page": 24,
+      "index": 8,
+      "text_display": "25",
+      "text_tts": "25",
+      "bbox": [
+        232.0,
+        3754.0,
+        286.0,
+        3792.0
+      ],
+      "items": [
+        {
+          "page": 24,
+          "text": "25",
+          "bbox": [
+            232.0,
+            3754.0,
+            286.0,
+            3792.0
+          ],
+          "confidence": 0.9993578791618347,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9993578791618347
+    }
+  ]
+}

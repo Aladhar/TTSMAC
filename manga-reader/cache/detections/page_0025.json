@@ -1,0 +1,1012 @@
+{
+  "page_data": {
+    "pdf_path": "Manga/Tokyo Ghoul Volume 1.pdf",
+    "page_index": 25,
+    "image_path": "cache/pages/page_0025.png",
+    "pdf_width": 1115.0,
+    "pdf_height": 1600.0,
+    "image_width": 2788,
+    "image_height": 4000,
+    "zoom": 2.5
+  },
+  "ocr_items": [
+    {
+      "page": 25,
+      "text": "DID",
+      "bbox": [
+        1126.0,
+        427.0,
+        1214.0,
+        489.0
+      ],
+      "confidence": 0.9838653206825256,
+      "source": "paddleocr"
+    },
+    {
+      "page": 25,
+      "text": "YOU HEAR",
+      "bbox": [
+        1083.0,
+        488.0,
+        1265.0,
+        533.0
+      ],
+      "confidence": 0.9326101541519165,
+      "source": "paddleocr"
+    },
+    {
+      "page": 25,
+      "text": "ABOUT",
+      "bbox": [
+        1108.0,
+        538.0,
+        1240.0,
+        583.0
+      ],
+      "confidence": 0.9929484128952026,
+      "source": "paddleocr"
+    },
+    {
+      "page": 25,
+      "text": "WHAT",
+      "bbox": [
+        1116.0,
+        587.0,
+        1228.0,
+        633.0
+      ],
+      "confidence": 0.9966504573822021,
+      "source": "paddleocr"
+    },
+    {
+      "page": 25,
+      "text": "HAPPENED",
+      "bbox": [
+        1079.0,
+        637.0,
+        1265.0,
+        683.0
+      ],
+      "confidence": 0.9969332218170166,
+      "source": "paddleocr"
+    },
+    {
+      "page": 25,
+      "text": "THERE",
+      "bbox": [
+        1108.0,
+        688.0,
+        1240.0,
+        733.0
+      ],
+      "confidence": 0.9963350296020508,
+      "source": "paddleocr"
+    },
+    {
+      "page": 25,
+      "text": "RECENTLY",
+      "bbox": [
+        1083.0,
+        733.0,
+        1261.0,
+        779.0
+      ],
+      "confidence": 0.9905261993408203,
+      "source": "paddleocr"
+    },
+    {
+      "page": 25,
+      "text": "I LIVE A",
+      "bbox": [
+        2141.0,
+        821.0,
+        2386.0,
+        892.0
+      ],
+      "confidence": 0.9056059718132019,
+      "source": "paddleocr"
+    },
+    {
+      "page": 25,
+      "text": "BIT PAST",
+      "bbox": [
+        2132.0,
+        896.0,
+        2381.0,
+        954.0
+      ],
+      "confidence": 0.9201776385307312,
+      "source": "paddleocr"
+    },
+    {
+      "page": 25,
+      "text": "TAKADA",
+      "bbox": [
+        2153.0,
+        958.0,
+        2373.0,
+        1029.0
+      ],
+      "confidence": 0.9958993792533875,
+      "source": "paddleocr"
+    },
+    {
+      "page": 25,
+      "text": "BUILDING",
+      "bbox": [
+        2124.0,
+        1025.0,
+        2398.0,
+        1096.0
+      ],
+      "confidence": 0.9939926862716675,
+      "source": "paddleocr"
+    },
+    {
+      "page": 25,
+      "text": "STREET...",
+      "bbox": [
+        2119.0,
+        1091.0,
+        2399.0,
+        1172.0
+      ],
+      "confidence": 0.9756374359130859,
+      "source": "paddleocr"
+    },
+    {
+      "page": 25,
+      "text": "OH...",
+      "bbox": [
+        1135.0,
+        1228.0,
+        1275.0,
+        1306.0
+      ],
+      "confidence": 0.9674248695373535,
+      "source": "paddleocr"
+    },
+    {
+      "page": 25,
+      "text": "UH,THE",
+      "bbox": [
+        1108.0,
+        1304.0,
+        1319.0,
+        1371.0
+      ],
+      "confidence": 0.9181523323059082,
+      "source": "paddleocr"
+    },
+    {
+      "page": 25,
+      "text": "GHOUL",
+      "bbox": [
+        1111.0,
+        1362.0,
+        1308.0,
+        1434.0
+      ],
+      "confidence": 0.9947463870048523,
+      "source": "paddleocr"
+    },
+    {
+      "page": 25,
+      "text": "YES...",
+      "bbox": [
+        338.0,
+        1490.0,
+        544.0,
+        1589.0
+      ],
+      "confidence": 0.9667840600013733,
+      "source": "paddleocr"
+    },
+    {
+      "page": 25,
+      "text": "I CAN",
+      "bbox": [
+        1257.0,
+        2117.0,
+        1440.0,
+        2192.0
+      ],
+      "confidence": 0.9279090762138367,
+      "source": "paddleocr"
+    },
+    {
+      "page": 25,
+      "text": "HARDLY",
+      "bbox": [
+        1240.0,
+        2192.0,
+        1452.0,
+        2258.0
+      ],
+      "confidence": 0.9950224757194519,
+      "source": "paddleocr"
+    },
+    {
+      "page": 25,
+      "text": "SLEEP",
+      "bbox": [
+        1257.0,
+        2258.0,
+        1440.0,
+        2321.0
+      ],
+      "confidence": 0.9968554377555847,
+      "source": "paddleocr"
+    },
+    {
+      "page": 25,
+      "text": "AT",
+      "bbox": [
+        1315.0,
+        2329.0,
+        1386.0,
+        2383.0
+      ],
+      "confidence": 0.9954403042793274,
+      "source": "paddleocr"
+    },
+    {
+      "page": 25,
+      "text": "NIGHT.",
+      "bbox": [
+        1256.0,
+        2391.0,
+        1441.0,
+        2464.0
+      ],
+      "confidence": 0.9282086491584778,
+      "source": "paddleocr"
+    },
+    {
+      "page": 25,
+      "text": "RMB",
+      "bbox": [
+        730.0,
+        2481.0,
+        864.0,
+        2596.0
+      ],
+      "confidence": 0.9512966275215149,
+      "source": "paddleocr"
+    },
+    {
+      "page": 25,
+      "text": "IT'S",
+      "bbox": [
+        1975.0,
+        2721.0,
+        2091.0,
+        2783.0
+      ],
+      "confidence": 0.9528002142906189,
+      "source": "paddleocr"
+    },
+    {
+      "page": 25,
+      "text": "BEEN",
+      "bbox": [
+        1950.0,
+        2796.0,
+        2116.0,
+        2858.0
+      ],
+      "confidence": 0.99591463804245,
+      "source": "paddleocr"
+    },
+    {
+      "page": 25,
+      "text": "I'VE",
+      "bbox": [
+        1265.0,
+        2888.0,
+        1398.0,
+        2950.0
+      ],
+      "confidence": 0.9687256217002869,
+      "source": "paddleocr"
+    },
+    {
+      "page": 25,
+      "text": "BEEN",
+      "bbox": [
+        1249.0,
+        2963.0,
+        1415.0,
+        3025.0
+      ],
+      "confidence": 0.9965274930000305,
+      "source": "paddleocr"
+    },
+    {
+      "page": 25,
+      "text": "AFRAID",
+      "bbox": [
+        1228.0,
+        3029.0,
+        1431.0,
+        3104.0
+      ],
+      "confidence": 0.9953860640525818,
+      "source": "paddleocr"
+    },
+    {
+      "page": 25,
+      "text": "TOGO",
+      "bbox": [
+        1228.0,
+        3108.0,
+        1431.0,
+        3171.0
+      ],
+      "confidence": 0.9728578925132751,
+      "source": "paddleocr"
+    },
+    {
+      "page": 25,
+      "text": "BOTH-",
+      "bbox": [
+        1816.0,
+        3145.0,
+        2018.0,
+        3230.0
+      ],
+      "confidence": 0.9903236627578735,
+      "source": "paddleocr"
+    },
+    {
+      "page": 25,
+      "text": "HOME",
+      "bbox": [
+        1232.0,
+        3175.0,
+        1423.0,
+        3250.0
+      ],
+      "confidence": 0.9961042404174805,
+      "source": "paddleocr"
+    },
+    {
+      "page": 25,
+      "text": "ERING",
+      "bbox": [
+        1820.0,
+        3220.0,
+        2022.0,
+        3305.0
+      ],
+      "confidence": 0.996265709400177,
+      "source": "paddleocr"
+    },
+    {
+      "page": 25,
+      "text": "ALONE...",
+      "bbox": [
+        1199.0,
+        3250.0,
+        1448.0,
+        3321.0
+      ],
+      "confidence": 0.9478486180305481,
+      "source": "paddleocr"
+    },
+    {
+      "page": 25,
+      "text": "ME.",
+      "bbox": [
+        1859.0,
+        3308.0,
+        1975.0,
+        3371.0
+      ],
+      "confidence": 0.9926711916923523,
+      "source": "paddleocr"
+    },
+    {
+      "page": 25,
+      "text": "26",
+      "bbox": [
+        2498.0,
+        3750.0,
+        2576.0,
+        3804.0
+      ],
+      "confidence": 0.9969750642776489,
+      "source": "paddleocr"
+    }
+  ],
+  "bubbles": [
+    {
+      "page": 25,
+      "index": 1,
+      "text_display": "DID\nYOU HEAR\nABOUT\nWHAT\nHAPPENED\nTHERE\nRECENTLY",
+      "text_tts": "DID YOU HEAR ABOUT WHAT HAPPENED THERE RECENTLY",
+      "bbox": [
+        1079.0,
+        427.0,
+        1265.0,
+        779.0
+      ],
+      "items": [
+        {
+          "page": 25,
+          "text": "DID",
+          "bbox": [
+            1126.0,
+            427.0,
+            1214.0,
+            489.0
+          ],
+          "confidence": 0.9838653206825256,
+          "source": "paddleocr"
+        },
+        {
+          "page": 25,
+          "text": "YOU HEAR",
+          "bbox": [
+            1083.0,
+            488.0,
+            1265.0,
+            533.0
+          ],
+          "confidence": 0.9326101541519165,
+          "source": "paddleocr"
+        },
+        {
+          "page": 25,
+          "text": "ABOUT",
+          "bbox": [
+            1108.0,
+            538.0,
+            1240.0,
+            583.0
+          ],
+          "confidence": 0.9929484128952026,
+          "source": "paddleocr"
+        },
+        {
+          "page": 25,
+          "text": "WHAT",
+          "bbox": [
+            1116.0,
+            587.0,
+            1228.0,
+            633.0
+          ],
+          "confidence": 0.9966504573822021,
+          "source": "paddleocr"
+        },
+        {
+          "page": 25,
+          "text": "HAPPENED",
+          "bbox": [
+            1079.0,
+            637.0,
+            1265.0,
+            683.0
+          ],
+          "confidence": 0.9969332218170166,
+          "source": "paddleocr"
+        },
+        {
+          "page": 25,
+          "text": "THERE",
+          "bbox": [
+            1108.0,
+            688.0,
+            1240.0,
+            733.0
+          ],
+          "confidence": 0.9963350296020508,
+          "source": "paddleocr"
+        },
+        {
+          "page": 25,
+          "text": "RECENTLY",
+          "bbox": [
+            1083.0,
+            733.0,
+            1261.0,
+            779.0
+          ],
+          "confidence": 0.9905261993408203,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9842669708388192
+    },
+    {
+      "page": 25,
+      "index": 2,
+      "text_display": "I LIVE A\nBIT PAST\nTAKADA\nBUILDING\nSTREET...",
+      "text_tts": "I LIVE A BIT PAST TAKADA BUILDING STREET...",
+      "bbox": [
+        2119.0,
+        821.0,
+        2399.0,
+        1172.0
+      ],
+      "items": [
+        {
+          "page": 25,
+          "text": "I LIVE A",
+          "bbox": [
+            2141.0,
+            821.0,
+            2386.0,
+            892.0
+          ],
+          "confidence": 0.9056059718132019,
+          "source": "paddleocr"
+        },
+        {
+          "page": 25,
+          "text": "BIT PAST",
+          "bbox": [
+            2132.0,
+            896.0,
+            2381.0,
+            954.0
+          ],
+          "confidence": 0.9201776385307312,
+          "source": "paddleocr"
+        },
+        {
+          "page": 25,
+          "text": "TAKADA",
+          "bbox": [
+            2153.0,
+            958.0,
+            2373.0,
+            1029.0
+          ],
+          "confidence": 0.9958993792533875,
+          "source": "paddleocr"
+        },
+        {
+          "page": 25,
+          "text": "BUILDING",
+          "bbox": [
+            2124.0,
+            1025.0,
+            2398.0,
+            1096.0
+          ],
+          "confidence": 0.9939926862716675,
+          "source": "paddleocr"
+        },
+        {
+          "page": 25,
+          "text": "STREET...",
+          "bbox": [
+            2119.0,
+            1091.0,
+            2399.0,
+            1172.0
+          ],
+          "confidence": 0.9756374359130859,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9582626223564148
+    },
+    {
+      "page": 25,
+      "index": 3,
+      "text_display": "OH...\nUH,THE",
+      "text_tts": "OH... UH,THE",
+      "bbox": [
+        1108.0,
+        1228.0,
+        1319.0,
+        1371.0
+      ],
+      "items": [
+        {
+          "page": 25,
+          "text": "OH...",
+          "bbox": [
+            1135.0,
+            1228.0,
+            1275.0,
+            1306.0
+          ],
+          "confidence": 0.9674248695373535,
+          "source": "paddleocr"
+        },
+        {
+          "page": 25,
+          "text": "UH,THE",
+          "bbox": [
+            1108.0,
+            1304.0,
+            1319.0,
+            1371.0
+          ],
+          "confidence": 0.9181523323059082,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9427886009216309
+    },
+    {
+      "page": 25,
+      "index": 4,
+      "text_display": "GHOUL",
+      "text_tts": "GHOUL",
+      "bbox": [
+        1111.0,
+        1362.0,
+        1308.0,
+        1434.0
+      ],
+      "items": [
+        {
+          "page": 25,
+          "text": "GHOUL",
+          "bbox": [
+            1111.0,
+            1362.0,
+            1308.0,
+            1434.0
+          ],
+          "confidence": 0.9947463870048523,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9947463870048523
+    },
+    {
+      "page": 25,
+      "index": 5,
+      "text_display": "YES...",
+      "text_tts": "YES...",
+      "bbox": [
+        338.0,
+        1490.0,
+        544.0,
+        1589.0
+      ],
+      "items": [
+        {
+          "page": 25,
+          "text": "YES...",
+          "bbox": [
+            338.0,
+            1490.0,
+            544.0,
+            1589.0
+          ],
+          "confidence": 0.9667840600013733,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9667840600013733
+    },
+    {
+      "page": 25,
+      "index": 6,
+      "text_display": "I CAN\nHARDLY\nSLEEP\nAT\nNIGHT.",
+      "text_tts": "I CAN HARDLY SLEEP AT NIGHT.",
+      "bbox": [
+        1240.0,
+        2117.0,
+        1452.0,
+        2464.0
+      ],
+      "items": [
+        {
+          "page": 25,
+          "text": "I CAN",
+          "bbox": [
+            1257.0,
+            2117.0,
+            1440.0,
+            2192.0
+          ],
+          "confidence": 0.9279090762138367,
+          "source": "paddleocr"
+        },
+        {
+          "page": 25,
+          "text": "HARDLY",
+          "bbox": [
+            1240.0,
+            2192.0,
+            1452.0,
+            2258.0
+          ],
+          "confidence": 0.9950224757194519,
+          "source": "paddleocr"
+        },
+        {
+          "page": 25,
+          "text": "SLEEP",
+          "bbox": [
+            1257.0,
+            2258.0,
+            1440.0,
+            2321.0
+          ],
+          "confidence": 0.9968554377555847,
+          "source": "paddleocr"
+        },
+        {
+          "page": 25,
+          "text": "AT",
+          "bbox": [
+            1315.0,
+            2329.0,
+            1386.0,
+            2383.0
+          ],
+          "confidence": 0.9954403042793274,
+          "source": "paddleocr"
+        },
+        {
+          "page": 25,
+          "text": "NIGHT.",
+          "bbox": [
+            1256.0,
+            2391.0,
+            1441.0,
+            2464.0
+          ],
+          "confidence": 0.9282086491584778,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9686871886253356
+    },
+    {
+      "page": 25,
+      "index": 7,
+      "text_display": "RMB",
+      "text_tts": "RMB",
+      "bbox": [
+        730.0,
+        2481.0,
+        864.0,
+        2596.0
+      ],
+      "items": [
+        {
+          "page": 25,
+          "text": "RMB",
+          "bbox": [
+            730.0,
+            2481.0,
+            864.0,
+            2596.0
+          ],
+          "confidence": 0.9512966275215149,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9512966275215149
+    },
+    {
+      "page": 25,
+      "index": 8,
+      "text_display": "IT'S\nBEEN",
+      "text_tts": "IT'S BEEN",
+      "bbox": [
+        1950.0,
+        2721.0,
+        2116.0,
+        2858.0
+      ],
+      "items": [
+        {
+          "page": 25,
+          "text": "IT'S",
+          "bbox": [
+            1975.0,
+            2721.0,
+            2091.0,
+            2783.0
+          ],
+          "confidence": 0.9528002142906189,
+          "source": "paddleocr"
+        },
+        {
+          "page": 25,
+          "text": "BEEN",
+          "bbox": [
+            1950.0,
+            2796.0,
+            2116.0,
+            2858.0
+          ],
+          "confidence": 0.99591463804245,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9743574261665344
+    },
+    {
+      "page": 25,
+      "index": 9,
+      "text_display": "BOTH-",
+      "text_tts": "BOTH-",
+      "bbox": [
+        1816.0,
+        3145.0,
+        2018.0,
+        3230.0
+      ],
+      "items": [
+        {
+          "page": 25,
+          "text": "BOTH-",
+          "bbox": [
+            1816.0,
+            3145.0,
+            2018.0,
+            3230.0
+          ],
+          "confidence": 0.9903236627578735,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9903236627578735
+    },
+    {
+      "page": 25,
+      "index": 10,
+      "text_display": "I'VE\nBEEN\nAFRAID\nTOGO\nHOME\nALONE...",
+      "text_tts": "I'VE BEEN AFRAID TOGO HOME ALONE...",
+      "bbox": [
+        1199.0,
+        2888.0,
+        1448.0,
+        3321.0
+      ],
+      "items": [
+        {
+          "page": 25,
+          "text": "I'VE",
+          "bbox": [
+            1265.0,
+            2888.0,
+            1398.0,
+            2950.0
+          ],
+          "confidence": 0.9687256217002869,
+          "source": "paddleocr"
+        },
+        {
+          "page": 25,
+          "text": "BEEN",
+          "bbox": [
+            1249.0,
+            2963.0,
+            1415.0,
+            3025.0
+          ],
+          "confidence": 0.9965274930000305,
+          "source": "paddleocr"
+        },
+        {
+          "page": 25,
+          "text": "AFRAID",
+          "bbox": [
+            1228.0,
+            3029.0,
+            1431.0,
+            3104.0
+          ],
+          "confidence": 0.9953860640525818,
+          "source": "paddleocr"
+        },
+        {
+          "page": 25,
+          "text": "TOGO",
+          "bbox": [
+            1228.0,
+            3108.0,
+            1431.0,
+            3171.0
+          ],
+          "confidence": 0.9728578925132751,
+          "source": "paddleocr"
+        },
+        {
+          "page": 25,
+          "text": "HOME",
+          "bbox": [
+            1232.0,
+            3175.0,
+            1423.0,
+            3250.0
+          ],
+          "confidence": 0.9961042404174805,
+          "source": "paddleocr"
+        },
+        {
+          "page": 25,
+          "text": "ALONE...",
+          "bbox": [
+            1199.0,
+            3250.0,
+            1448.0,
+            3321.0
+          ],
+          "confidence": 0.9478486180305481,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9795749882857004
+    },
+    {
+      "page": 25,
+      "index": 11,
+      "text_display": "ERING\nME.",
+      "text_tts": "ERING ME.",
+      "bbox": [
+        1820.0,
+        3220.0,
+        2022.0,
+        3371.0
+      ],
+      "items": [
+        {
+          "page": 25,
+          "text": "ERING",
+          "bbox": [
+            1820.0,
+            3220.0,
+            2022.0,
+            3305.0
+          ],
+          "confidence": 0.996265709400177,
+          "source": "paddleocr"
+        },
+        {
+          "page": 25,
+          "text": "ME.",
+          "bbox": [
+            1859.0,
+            3308.0,
+            1975.0,
+            3371.0
+          ],
+          "confidence": 0.9926711916923523,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9944684505462646
+    },
+    {
+      "page": 25,
+      "index": 12,
+      "text_display": "26",
+      "text_tts": "26",
+      "bbox": [
+        2498.0,
+        3750.0,
+        2576.0,
+        3804.0
+      ],
+      "items": [
+        {
+          "page": 25,
+          "text": "26",
+          "bbox": [
+            2498.0,
+            3750.0,
+            2576.0,
+            3804.0
+          ],
+          "confidence": 0.9969750642776489,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9969750642776489
+    }
+  ]
+}

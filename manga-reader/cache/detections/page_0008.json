@@ -1,0 +1,1087 @@
+{
+  "page_data": {
+    "pdf_path": "Manga/Tokyo Ghoul Volume 1.pdf",
+    "page_index": 8,
+    "image_path": "cache/pages/page_0008.png",
+    "pdf_width": 1115.0,
+    "pdf_height": 1600.0,
+    "image_width": 2788,
+    "image_height": 4000,
+    "zoom": 2.5
+  },
+  "ocr_items": [
+    {
+      "page": 8,
+      "text": "THEYSAY",
+      "bbox": [
+        2182.0,
+        358.0,
+        2419.0,
+        417.0
+      ],
+      "confidence": 0.9565649032592773,
+      "source": "paddleocr"
+    },
+    {
+      "page": 8,
+      "text": "GHOULS",
+      "bbox": [
+        2191.0,
+        421.0,
+        2410.0,
+        479.0
+      ],
+      "confidence": 0.9950695037841797,
+      "source": "paddleocr"
+    },
+    {
+      "page": 8,
+      "text": "HIDE",
+      "bbox": [
+        2232.0,
+        483.0,
+        2361.0,
+        542.0
+      ],
+      "confidence": 0.9968197345733643,
+      "source": "paddleocr"
+    },
+    {
+      "page": 8,
+      "text": "AMONGST",
+      "bbox": [
+        2166.0,
+        546.0,
+        2427.0,
+        604.0
+      ],
+      "confidence": 0.993542492389679,
+      "source": "paddleocr"
+    },
+    {
+      "page": 8,
+      "text": "US",
+      "bbox": [
+        2257.0,
+        608.0,
+        2336.0,
+        663.0
+      ],
+      "confidence": 0.9099953174591064,
+      "source": "paddleocr"
+    },
+    {
+      "page": 8,
+      "text": "DISGUISED",
+      "bbox": [
+        2157.0,
+        671.0,
+        2435.0,
+        729.0
+      ],
+      "confidence": 0.9670645594596863,
+      "source": "paddleocr"
+    },
+    {
+      "page": 8,
+      "text": "THEY",
+      "bbox": [
+        1917.0,
+        725.0,
+        2058.0,
+        788.0
+      ],
+      "confidence": 0.9886142611503601,
+      "source": "paddleocr"
+    },
+    {
+      "page": 8,
+      "text": "AS",
+      "bbox": [
+        2261.0,
+        733.0,
+        2336.0,
+        788.0
+      ],
+      "confidence": 0.9919685125350952,
+      "source": "paddleocr"
+    },
+    {
+      "page": 8,
+      "text": "COULD BE",
+      "bbox": [
+        1850.0,
+        792.0,
+        2128.0,
+        850.0
+      ],
+      "confidence": 0.9314876198768616,
+      "source": "paddleocr"
+    },
+    {
+      "page": 8,
+      "text": "HUMANS.",
+      "bbox": [
+        2182.0,
+        796.0,
+        2406.0,
+        854.0
+      ],
+      "confidence": 0.9910685420036316,
+      "source": "paddleocr"
+    },
+    {
+      "page": 8,
+      "text": "CLOSER",
+      "bbox": [
+        1879.0,
+        863.0,
+        2095.0,
+        908.0
+      ],
+      "confidence": 0.997824490070343,
+      "source": "paddleocr"
+    },
+    {
+      "page": 8,
+      "text": "THAN WE",
+      "bbox": [
+        1867.0,
+        921.0,
+        2112.0,
+        979.0
+      ],
+      "confidence": 0.9350509643554688,
+      "source": "paddleocr"
+    },
+    {
+      "page": 8,
+      "text": "THINK.",
+      "bbox": [
+        1900.0,
+        988.0,
+        2070.0,
+        1046.0
+      ],
+      "confidence": 0.9883973002433777,
+      "source": "paddleocr"
+    },
+    {
+      "page": 8,
+      "text": "DIS-",
+      "bbox": [
+        1577.0,
+        1721.0,
+        1684.0,
+        1771.0
+      ],
+      "confidence": 0.9879024028778076,
+      "source": "paddleocr"
+    },
+    {
+      "page": 8,
+      "text": "GUISED",
+      "bbox": [
+        1527.0,
+        1783.0,
+        1742.0,
+        1842.0
+      ],
+      "confidence": 0.9822496771812439,
+      "source": "paddleocr"
+    },
+    {
+      "page": 8,
+      "text": "AS",
+      "bbox": [
+        1597.0,
+        1858.0,
+        1672.0,
+        1913.0
+      ],
+      "confidence": 0.9879304766654968,
+      "source": "paddleocr"
+    },
+    {
+      "page": 8,
+      "text": "HUMANS,",
+      "bbox": [
+        1514.0,
+        1917.0,
+        1751.0,
+        1992.0
+      ],
+      "confidence": 0.9851781129837036,
+      "source": "paddleocr"
+    },
+    {
+      "page": 8,
+      "text": "HUH...?",
+      "bbox": [
+        1535.0,
+        1987.0,
+        1738.0,
+        2050.0
+      ],
+      "confidence": 0.9118536710739136,
+      "source": "paddleocr"
+    },
+    {
+      "page": 8,
+      "text": "WAIT A",
+      "bbox": [
+        2319.0,
+        2562.0,
+        2469.0,
+        2625.0
+      ],
+      "confidence": 0.9095011353492737,
+      "source": "paddleocr"
+    },
+    {
+      "page": 8,
+      "text": "SECOND!I",
+      "bbox": [
+        2278.0,
+        2638.0,
+        2510.0,
+        2708.0
+      ],
+      "confidence": 0.9535912871360779,
+      "source": "paddleocr"
+    },
+    {
+      "page": 8,
+      "text": "YEAH,",
+      "bbox": [
+        1373.0,
+        2700.0,
+        1523.0,
+        2758.0
+      ],
+      "confidence": 0.9586183428764343,
+      "source": "paddleocr"
+    },
+    {
+      "page": 8,
+      "text": "BET YOU'RE",
+      "bbox": [
+        2274.0,
+        2712.0,
+        2510.0,
+        2783.0
+      ],
+      "confidence": 0.8990219235420227,
+      "source": "paddleocr"
+    },
+    {
+      "page": 8,
+      "text": "RIGHT.",
+      "bbox": [
+        1369.0,
+        2763.0,
+        1531.0,
+        2821.0
+      ],
+      "confidence": 0.9623842835426331,
+      "source": "paddleocr"
+    },
+    {
+      "page": 8,
+      "text": "A GHOUL,",
+      "bbox": [
+        2280.0,
+        2778.0,
+        2491.0,
+        2868.0
+      ],
+      "confidence": 0.8102535009384155,
+      "source": "paddleocr"
+    },
+    {
+      "page": 8,
+      "text": "KANEKI.",
+      "bbox": [
+        2305.0,
+        2865.0,
+        2470.0,
+        2939.0
+      ],
+      "confidence": 0.9807928800582886,
+      "source": "paddleocr"
+    },
+    {
+      "page": 8,
+      "text": "EVEN IF",
+      "bbox": [
+        295.0,
+        3033.0,
+        535.0,
+        3104.0
+      ],
+      "confidence": 0.941650390625,
+      "source": "paddleocr"
+    },
+    {
+      "page": 8,
+      "text": "THEYPASS",
+      "bbox": [
+        249.0,
+        3100.0,
+        573.0,
+        3171.0
+      ],
+      "confidence": 0.9566363096237183,
+      "source": "paddleocr"
+    },
+    {
+      "page": 8,
+      "text": "AS HUMANS,",
+      "bbox": [
+        236.0,
+        3179.0,
+        593.0,
+        3250.0
+      ],
+      "confidence": 0.9272036552429199,
+      "source": "paddleocr"
+    },
+    {
+      "page": 8,
+      "text": "IFI",
+      "bbox": [
+        2373.0,
+        3200.0,
+        2477.0,
+        3267.0
+      ],
+      "confidence": 0.9803688526153564,
+      "source": "paddleocr"
+    },
+    {
+      "page": 8,
+      "text": "THEY'RE",
+      "bbox": [
+        290.0,
+        3258.0,
+        535.0,
+        3317.0
+      ],
+      "confidence": 0.9684861898422241,
+      "source": "paddleocr"
+    },
+    {
+      "page": 8,
+      "text": "WAS A",
+      "bbox": [
+        2336.0,
+        3271.0,
+        2510.0,
+        3333.0
+      ],
+      "confidence": 0.9188942909240723,
+      "source": "paddleocr"
+    },
+    {
+      "page": 8,
+      "text": "JUST",
+      "bbox": [
+        322.0,
+        3311.0,
+        499.0,
+        3397.0
+      ],
+      "confidence": 0.9813793301582336,
+      "source": "paddleocr"
+    },
+    {
+      "page": 8,
+      "text": "...YOU'D",
+      "bbox": [
+        1289.0,
+        3328.0,
+        1499.0,
+        3401.0
+      ],
+      "confidence": 0.9441792368888855,
+      "source": "paddleocr"
+    },
+    {
+      "page": 8,
+      "text": "GHOUL",
+      "bbox": [
+        2332.0,
+        3338.0,
+        2514.0,
+        3396.0
+      ],
+      "confidence": 0.996039092540741,
+      "source": "paddleocr"
+    },
+    {
+      "page": 8,
+      "text": "HUMAN-",
+      "bbox": [
+        295.0,
+        3396.0,
+        531.0,
+        3467.0
+      ],
+      "confidence": 0.9926958084106445,
+      "source": "paddleocr"
+    },
+    {
+      "page": 8,
+      "text": "BEDEAD",
+      "bbox": [
+        1274.0,
+        3404.0,
+        1510.0,
+        3463.0
+      ],
+      "confidence": 0.9941676259040833,
+      "source": "paddleocr"
+    },
+    {
+      "page": 8,
+      "text": "SHAPED,",
+      "bbox": [
+        286.0,
+        3471.0,
+        539.0,
+        3542.0
+      ],
+      "confidence": 0.9909048080444336,
+      "source": "paddleocr"
+    },
+    {
+      "page": 8,
+      "text": "ALREADY",
+      "bbox": [
+        1274.0,
+        3475.0,
+        1502.0,
+        3521.0
+      ],
+      "confidence": 0.9966479539871216,
+      "source": "paddleocr"
+    },
+    {
+      "page": 8,
+      "text": "RIGHT?",
+      "bbox": [
+        299.0,
+        3542.0,
+        527.0,
+        3612.0
+      ],
+      "confidence": 0.9526180624961853,
+      "source": "paddleocr"
+    }
+  ],
+  "bubbles": [
+    {
+      "page": 8,
+      "index": 1,
+      "text_display": "THEYSAY\nGHOULS\nHIDE\nAMONGST\nUS\nDISGUISED\nTHEY\nCOULD BE\nCLOSER\nTHAN WE\nTHINK.",
+      "text_tts": "THEYSAY GHOULS HIDE AMONGST US DISGUISED THEY COULD BE CLOSER THAN WE THINK.",
+      "bbox": [
+        1850.0,
+        358.0,
+        2435.0,
+        1046.0
+      ],
+      "items": [
+        {
+          "page": 8,
+          "text": "THEYSAY",
+          "bbox": [
+            2182.0,
+            358.0,
+            2419.0,
+            417.0
+          ],
+          "confidence": 0.9565649032592773,
+          "source": "paddleocr"
+        },
+        {
+          "page": 8,
+          "text": "GHOULS",
+          "bbox": [
+            2191.0,
+            421.0,
+            2410.0,
+            479.0
+          ],
+          "confidence": 0.9950695037841797,
+          "source": "paddleocr"
+        },
+        {
+          "page": 8,
+          "text": "HIDE",
+          "bbox": [
+            2232.0,
+            483.0,
+            2361.0,
+            542.0
+          ],
+          "confidence": 0.9968197345733643,
+          "source": "paddleocr"
+        },
+        {
+          "page": 8,
+          "text": "AMONGST",
+          "bbox": [
+            2166.0,
+            546.0,
+            2427.0,
+            604.0
+          ],
+          "confidence": 0.993542492389679,
+          "source": "paddleocr"
+        },
+        {
+          "page": 8,
+          "text": "US",
+          "bbox": [
+            2257.0,
+            608.0,
+            2336.0,
+            663.0
+          ],
+          "confidence": 0.9099953174591064,
+          "source": "paddleocr"
+        },
+        {
+          "page": 8,
+          "text": "DISGUISED",
+          "bbox": [
+            2157.0,
+            671.0,
+            2435.0,
+            729.0
+          ],
+          "confidence": 0.9670645594596863,
+          "source": "paddleocr"
+        },
+        {
+          "page": 8,
+          "text": "THEY",
+          "bbox": [
+            1917.0,
+            725.0,
+            2058.0,
+            788.0
+          ],
+          "confidence": 0.9886142611503601,
+          "source": "paddleocr"
+        },
+        {
+          "page": 8,
+          "text": "COULD BE",
+          "bbox": [
+            1850.0,
+            792.0,
+            2128.0,
+            850.0
+          ],
+          "confidence": 0.9314876198768616,
+          "source": "paddleocr"
+        },
+        {
+          "page": 8,
+          "text": "CLOSER",
+          "bbox": [
+            1879.0,
+            863.0,
+            2095.0,
+            908.0
+          ],
+          "confidence": 0.997824490070343,
+          "source": "paddleocr"
+        },
+        {
+          "page": 8,
+          "text": "THAN WE",
+          "bbox": [
+            1867.0,
+            921.0,
+            2112.0,
+            979.0
+          ],
+          "confidence": 0.9350509643554688,
+          "source": "paddleocr"
+        },
+        {
+          "page": 8,
+          "text": "THINK.",
+          "bbox": [
+            1900.0,
+            988.0,
+            2070.0,
+            1046.0
+          ],
+          "confidence": 0.9883973002433777,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9691301042383368
+    },
+    {
+      "page": 8,
+      "index": 2,
+      "text_display": "AS\nHUMANS.",
+      "text_tts": "AS HUMANS.",
+      "bbox": [
+        2182.0,
+        733.0,
+        2406.0,
+        854.0
+      ],
+      "items": [
+        {
+          "page": 8,
+          "text": "AS",
+          "bbox": [
+            2261.0,
+            733.0,
+            2336.0,
+            788.0
+          ],
+          "confidence": 0.9919685125350952,
+          "source": "paddleocr"
+        },
+        {
+          "page": 8,
+          "text": "HUMANS.",
+          "bbox": [
+            2182.0,
+            796.0,
+            2406.0,
+            854.0
+          ],
+          "confidence": 0.9910685420036316,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9915185272693634
+    },
+    {
+      "page": 8,
+      "index": 3,
+      "text_display": "DIS-\nGUISED\nAS\nHUMANS,\nHUH...?",
+      "text_tts": "DIS- GUISED AS HUMANS, HUH...?",
+      "bbox": [
+        1514.0,
+        1721.0,
+        1751.0,
+        2050.0
+      ],
+      "items": [
+        {
+          "page": 8,
+          "text": "DIS-",
+          "bbox": [
+            1577.0,
+            1721.0,
+            1684.0,
+            1771.0
+          ],
+          "confidence": 0.9879024028778076,
+          "source": "paddleocr"
+        },
+        {
+          "page": 8,
+          "text": "GUISED",
+          "bbox": [
+            1527.0,
+            1783.0,
+            1742.0,
+            1842.0
+          ],
+          "confidence": 0.9822496771812439,
+          "source": "paddleocr"
+        },
+        {
+          "page": 8,
+          "text": "AS",
+          "bbox": [
+            1597.0,
+            1858.0,
+            1672.0,
+            1913.0
+          ],
+          "confidence": 0.9879304766654968,
+          "source": "paddleocr"
+        },
+        {
+          "page": 8,
+          "text": "HUMANS,",
+          "bbox": [
+            1514.0,
+            1917.0,
+            1751.0,
+            1992.0
+          ],
+          "confidence": 0.9851781129837036,
+          "source": "paddleocr"
+        },
+        {
+          "page": 8,
+          "text": "HUH...?",
+          "bbox": [
+            1535.0,
+            1987.0,
+            1738.0,
+            2050.0
+          ],
+          "confidence": 0.9118536710739136,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9710228681564331
+    },
+    {
+      "page": 8,
+      "index": 4,
+      "text_display": "WAIT A\nSECOND!I\nBET YOU'RE\nA GHOUL,\nKANEKI.",
+      "text_tts": "WAIT A SECOND!I BET YOU'RE A GHOUL, KANEKI.",
+      "bbox": [
+        2274.0,
+        2562.0,
+        2510.0,
+        2939.0
+      ],
+      "items": [
+        {
+          "page": 8,
+          "text": "WAIT A",
+          "bbox": [
+            2319.0,
+            2562.0,
+            2469.0,
+            2625.0
+          ],
+          "confidence": 0.9095011353492737,
+          "source": "paddleocr"
+        },
+        {
+          "page": 8,
+          "text": "SECOND!I",
+          "bbox": [
+            2278.0,
+            2638.0,
+            2510.0,
+            2708.0
+          ],
+          "confidence": 0.9535912871360779,
+          "source": "paddleocr"
+        },
+        {
+          "page": 8,
+          "text": "BET YOU'RE",
+          "bbox": [
+            2274.0,
+            2712.0,
+            2510.0,
+            2783.0
+          ],
+          "confidence": 0.8990219235420227,
+          "source": "paddleocr"
+        },
+        {
+          "page": 8,
+          "text": "A GHOUL,",
+          "bbox": [
+            2280.0,
+            2778.0,
+            2491.0,
+            2868.0
+          ],
+          "confidence": 0.8102535009384155,
+          "source": "paddleocr"
+        },
+        {
+          "page": 8,
+          "text": "KANEKI.",
+          "bbox": [
+            2305.0,
+            2865.0,
+            2470.0,
+            2939.0
+          ],
+          "confidence": 0.9807928800582886,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9106321454048156
+    },
+    {
+      "page": 8,
+      "index": 5,
+      "text_display": "YEAH,\nRIGHT.",
+      "text_tts": "YEAH, RIGHT.",
+      "bbox": [
+        1369.0,
+        2700.0,
+        1531.0,
+        2821.0
+      ],
+      "items": [
+        {
+          "page": 8,
+          "text": "YEAH,",
+          "bbox": [
+            1373.0,
+            2700.0,
+            1523.0,
+            2758.0
+          ],
+          "confidence": 0.9586183428764343,
+          "source": "paddleocr"
+        },
+        {
+          "page": 8,
+          "text": "RIGHT.",
+          "bbox": [
+            1369.0,
+            2763.0,
+            1531.0,
+            2821.0
+          ],
+          "confidence": 0.9623842835426331,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9605013132095337
+    },
+    {
+      "page": 8,
+      "index": 6,
+      "text_display": "EVEN IF\nTHEYPASS\nAS HUMANS,\nTHEY'RE",
+      "text_tts": "EVEN IF THEYPASS AS HUMANS, THEY'RE",
+      "bbox": [
+        236.0,
+        3033.0,
+        593.0,
+        3317.0
+      ],
+      "items": [
+        {
+          "page": 8,
+          "text": "EVEN IF",
+          "bbox": [
+            295.0,
+            3033.0,
+            535.0,
+            3104.0
+          ],
+          "confidence": 0.941650390625,
+          "source": "paddleocr"
+        },
+        {
+          "page": 8,
+          "text": "THEYPASS",
+          "bbox": [
+            249.0,
+            3100.0,
+            573.0,
+            3171.0
+          ],
+          "confidence": 0.9566363096237183,
+          "source": "paddleocr"
+        },
+        {
+          "page": 8,
+          "text": "AS HUMANS,",
+          "bbox": [
+            236.0,
+            3179.0,
+            593.0,
+            3250.0
+          ],
+          "confidence": 0.9272036552429199,
+          "source": "paddleocr"
+        },
+        {
+          "page": 8,
+          "text": "THEY'RE",
+          "bbox": [
+            290.0,
+            3258.0,
+            535.0,
+            3317.0
+          ],
+          "confidence": 0.9684861898422241,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9484941363334656
+    },
+    {
+      "page": 8,
+      "index": 7,
+      "text_display": "IFI\nWAS A\nGHOUL",
+      "text_tts": "IFI WAS A GHOUL",
+      "bbox": [
+        2332.0,
+        3200.0,
+        2514.0,
+        3396.0
+      ],
+      "items": [
+        {
+          "page": 8,
+          "text": "IFI",
+          "bbox": [
+            2373.0,
+            3200.0,
+            2477.0,
+            3267.0
+          ],
+          "confidence": 0.9803688526153564,
+          "source": "paddleocr"
+        },
+        {
+          "page": 8,
+          "text": "WAS A",
+          "bbox": [
+            2336.0,
+            3271.0,
+            2510.0,
+            3333.0
+          ],
+          "confidence": 0.9188942909240723,
+          "source": "paddleocr"
+        },
+        {
+          "page": 8,
+          "text": "GHOUL",
+          "bbox": [
+            2332.0,
+            3338.0,
+            2514.0,
+            3396.0
+          ],
+          "confidence": 0.996039092540741,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9651007453600565
+    },
+    {
+      "page": 8,
+      "index": 8,
+      "text_display": "...YOU'D\nBEDEAD\nALREADY",
+      "text_tts": "...YOU'D BEDEAD ALREADY",
+      "bbox": [
+        1274.0,
+        3328.0,
+        1510.0,
+        3521.0
+      ],
+      "items": [
+        {
+          "page": 8,
+          "text": "...YOU'D",
+          "bbox": [
+            1289.0,
+            3328.0,
+            1499.0,
+            3401.0
+          ],
+          "confidence": 0.9441792368888855,
+          "source": "paddleocr"
+        },
+        {
+          "page": 8,
+          "text": "BEDEAD",
+          "bbox": [
+            1274.0,
+            3404.0,
+            1510.0,
+            3463.0
+          ],
+          "confidence": 0.9941676259040833,
+          "source": "paddleocr"
+        },
+        {
+          "page": 8,
+          "text": "ALREADY",
+          "bbox": [
+            1274.0,
+            3475.0,
+            1502.0,
+            3521.0
+          ],
+          "confidence": 0.9966479539871216,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9783316055933634
+    },
+    {
+      "page": 8,
+      "index": 9,
+      "text_display": "JUST\nHUMAN-\nSHAPED,\nRIGHT?",
+      "text_tts": "JUST HUMAN- SHAPED, RIGHT?",
+      "bbox": [
+        286.0,
+        3311.0,
+        539.0,
+        3612.0
+      ],
+      "items": [
+        {
+          "page": 8,
+          "text": "JUST",
+          "bbox": [
+            322.0,
+            3311.0,
+            499.0,
+            3397.0
+          ],
+          "confidence": 0.9813793301582336,
+          "source": "paddleocr"
+        },
+        {
+          "page": 8,
+          "text": "HUMAN-",
+          "bbox": [
+            295.0,
+            3396.0,
+            531.0,
+            3467.0
+          ],
+          "confidence": 0.9926958084106445,
+          "source": "paddleocr"
+        },
+        {
+          "page": 8,
+          "text": "SHAPED,",
+          "bbox": [
+            286.0,
+            3471.0,
+            539.0,
+            3542.0
+          ],
+          "confidence": 0.9909048080444336,
+          "source": "paddleocr"
+        },
+        {
+          "page": 8,
+          "text": "RIGHT?",
+          "bbox": [
+            299.0,
+            3542.0,
+            527.0,
+            3612.0
+          ],
+          "confidence": 0.9526180624961853,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9793995022773743
+    }
+  ]
+}

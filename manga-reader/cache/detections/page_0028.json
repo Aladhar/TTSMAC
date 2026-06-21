@@ -1,0 +1,442 @@
+{
+  "page_data": {
+    "pdf_path": "Manga/Tokyo Ghoul Volume 1.pdf",
+    "page_index": 28,
+    "image_path": "cache/pages/page_0028.png",
+    "pdf_width": 1115.0,
+    "pdf_height": 1600.0,
+    "image_width": 2788,
+    "image_height": 4000,
+    "zoom": 2.5
+  },
+  "ocr_items": [
+    {
+      "page": 28,
+      "text": "KANEKI",
+      "bbox": [
+        270.0,
+        867.0,
+        465.0,
+        925.0
+      ],
+      "confidence": 0.9955730438232422,
+      "source": "paddleocr"
+    },
+    {
+      "page": 28,
+      "text": "THE",
+      "bbox": [
+        348.0,
+        1400.0,
+        477.0,
+        1467.0
+      ],
+      "confidence": 0.998500406742096,
+      "source": "paddleocr"
+    },
+    {
+      "page": 28,
+      "text": "TRUTH",
+      "bbox": [
+        298.0,
+        1466.0,
+        524.0,
+        1555.0
+      ],
+      "confidence": 0.9939204454421997,
+      "source": "paddleocr"
+    },
+    {
+      "page": 28,
+      "text": "IS...",
+      "bbox": [
+        338.0,
+        1552.0,
+        483.0,
+        1639.0
+      ],
+      "confidence": 0.9792131185531616,
+      "source": "paddleocr"
+    },
+    {
+      "page": 28,
+      "text": "KANEKI",
+      "bbox": [
+        1036.0,
+        2295.0,
+        1262.0,
+        2380.0
+      ],
+      "confidence": 0.9950108528137207,
+      "source": "paddleocr"
+    },
+    {
+      "page": 28,
+      "text": "NOTICED",
+      "bbox": [
+        2274.0,
+        2408.0,
+        2502.0,
+        2467.0
+      ],
+      "confidence": 0.996817946434021,
+      "source": "paddleocr"
+    },
+    {
+      "page": 28,
+      "text": "THE",
+      "bbox": [
+        2336.0,
+        2475.0,
+        2452.0,
+        2537.0
+      ],
+      "confidence": 0.9972395896911621,
+      "source": "paddleocr"
+    },
+    {
+      "page": 28,
+      "text": "WAY...",
+      "bbox": [
+        2310.0,
+        2532.0,
+        2470.0,
+        2605.0
+      ],
+      "confidence": 0.9502323269844055,
+      "source": "paddleocr"
+    },
+    {
+      "page": 28,
+      "text": "I'VE",
+      "bbox": [
+        1075.0,
+        2942.0,
+        1228.0,
+        3021.0
+      ],
+      "confidence": 0.9752832651138306,
+      "source": "paddleocr"
+    },
+    {
+      "page": 28,
+      "text": "BEEN",
+      "bbox": [
+        1062.0,
+        3042.0,
+        1245.0,
+        3104.0
+      ],
+      "confidence": 0.9958904981613159,
+      "source": "paddleocr"
+    },
+    {
+      "page": 28,
+      "text": "YOU'VE",
+      "bbox": [
+        1361.0,
+        3354.0,
+        1552.0,
+        3417.0
+      ],
+      "confidence": 0.9763174057006836,
+      "source": "paddleocr"
+    },
+    {
+      "page": 28,
+      "text": "BEEN",
+      "bbox": [
+        1377.0,
+        3421.0,
+        1527.0,
+        3479.0
+      ],
+      "confidence": 0.9963732361793518,
+      "source": "paddleocr"
+    },
+    {
+      "page": 28,
+      "text": "LOOKING",
+      "bbox": [
+        1344.0,
+        3487.0,
+        1572.0,
+        3546.0
+      ],
+      "confidence": 0.9928658604621887,
+      "source": "paddleocr"
+    },
+    {
+      "page": 28,
+      "text": "AT ME.",
+      "bbox": [
+        1361.0,
+        3550.0,
+        1543.0,
+        3612.0
+      ],
+      "confidence": 0.9158275723457336,
+      "source": "paddleocr"
+    }
+  ],
+  "bubbles": [
+    {
+      "page": 28,
+      "index": 1,
+      "text_display": "KANEKI",
+      "text_tts": "KANEKI",
+      "bbox": [
+        270.0,
+        867.0,
+        465.0,
+        925.0
+      ],
+      "items": [
+        {
+          "page": 28,
+          "text": "KANEKI",
+          "bbox": [
+            270.0,
+            867.0,
+            465.0,
+            925.0
+          ],
+          "confidence": 0.9955730438232422,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9955730438232422
+    },
+    {
+      "page": 28,
+      "index": 2,
+      "text_display": "THE\nTRUTH\nIS...",
+      "text_tts": "THE TRUTH IS...",
+      "bbox": [
+        298.0,
+        1400.0,
+        524.0,
+        1639.0
+      ],
+      "items": [
+        {
+          "page": 28,
+          "text": "THE",
+          "bbox": [
+            348.0,
+            1400.0,
+            477.0,
+            1467.0
+          ],
+          "confidence": 0.998500406742096,
+          "source": "paddleocr"
+        },
+        {
+          "page": 28,
+          "text": "TRUTH",
+          "bbox": [
+            298.0,
+            1466.0,
+            524.0,
+            1555.0
+          ],
+          "confidence": 0.9939204454421997,
+          "source": "paddleocr"
+        },
+        {
+          "page": 28,
+          "text": "IS...",
+          "bbox": [
+            338.0,
+            1552.0,
+            483.0,
+            1639.0
+          ],
+          "confidence": 0.9792131185531616,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9905446569124857
+    },
+    {
+      "page": 28,
+      "index": 3,
+      "text_display": "KANEKI",
+      "text_tts": "KANEKI",
+      "bbox": [
+        1036.0,
+        2295.0,
+        1262.0,
+        2380.0
+      ],
+      "items": [
+        {
+          "page": 28,
+          "text": "KANEKI",
+          "bbox": [
+            1036.0,
+            2295.0,
+            1262.0,
+            2380.0
+          ],
+          "confidence": 0.9950108528137207,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9950108528137207
+    },
+    {
+      "page": 28,
+      "index": 4,
+      "text_display": "NOTICED\nTHE\nWAY...",
+      "text_tts": "NOTICED THE WAY...",
+      "bbox": [
+        2274.0,
+        2408.0,
+        2502.0,
+        2605.0
+      ],
+      "items": [
+        {
+          "page": 28,
+          "text": "NOTICED",
+          "bbox": [
+            2274.0,
+            2408.0,
+            2502.0,
+            2467.0
+          ],
+          "confidence": 0.996817946434021,
+          "source": "paddleocr"
+        },
+        {
+          "page": 28,
+          "text": "THE",
+          "bbox": [
+            2336.0,
+            2475.0,
+            2452.0,
+            2537.0
+          ],
+          "confidence": 0.9972395896911621,
+          "source": "paddleocr"
+        },
+        {
+          "page": 28,
+          "text": "WAY...",
+          "bbox": [
+            2310.0,
+            2532.0,
+            2470.0,
+            2605.0
+          ],
+          "confidence": 0.9502323269844055,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9814299543698629
+    },
+    {
+      "page": 28,
+      "index": 5,
+      "text_display": "I'VE\nBEEN",
+      "text_tts": "I'VE BEEN",
+      "bbox": [
+        1062.0,
+        2942.0,
+        1245.0,
+        3104.0
+      ],
+      "items": [
+        {
+          "page": 28,
+          "text": "I'VE",
+          "bbox": [
+            1075.0,
+            2942.0,
+            1228.0,
+            3021.0
+          ],
+          "confidence": 0.9752832651138306,
+          "source": "paddleocr"
+        },
+        {
+          "page": 28,
+          "text": "BEEN",
+          "bbox": [
+            1062.0,
+            3042.0,
+            1245.0,
+            3104.0
+          ],
+          "confidence": 0.9958904981613159,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9855868816375732
+    },
+    {
+      "page": 28,
+      "index": 6,
+      "text_display": "YOU'VE\nBEEN\nLOOKING\nAT ME.",
+      "text_tts": "YOU'VE BEEN LOOKING AT ME.",
+      "bbox": [
+        1344.0,
+        3354.0,
+        1572.0,
+        3612.0
+      ],
+      "items": [
+        {
+          "page": 28,
+          "text": "YOU'VE",
+          "bbox": [
+            1361.0,
+            3354.0,
+            1552.0,
+            3417.0
+          ],
+          "confidence": 0.9763174057006836,
+          "source": "paddleocr"
+        },
+        {
+          "page": 28,
+          "text": "BEEN",
+          "bbox": [
+            1377.0,
+            3421.0,
+            1527.0,
+            3479.0
+          ],
+          "confidence": 0.9963732361793518,
+          "source": "paddleocr"
+        },
+        {
+          "page": 28,
+          "text": "LOOKING",
+          "bbox": [
+            1344.0,
+            3487.0,
+            1572.0,
+            3546.0
+          ],
+          "confidence": 0.9928658604621887,
+          "source": "paddleocr"
+        },
+        {
+          "page": 28,
+          "text": "AT ME.",
+          "bbox": [
+            1361.0,
+            3550.0,
+            1543.0,
+            3612.0
+          ],
+          "confidence": 0.9158275723457336,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9703460186719894
+    }
+  ]
+}
