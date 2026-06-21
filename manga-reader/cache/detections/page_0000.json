@@ -1,0 +1,142 @@
+{
+  "page_data": {
+    "pdf_path": "Manga/Tokyo Ghoul Volume 1.pdf",
+    "page_index": 0,
+    "image_path": "cache/pages/page_0000.png",
+    "pdf_width": 1115.0,
+    "pdf_height": 1600.0,
+    "image_width": 2788,
+    "image_height": 4000,
+    "zoom": 2.5
+  },
+  "ocr_items": [
+    {
+      "page": 0,
+      "text": "TOKYO",
+      "bbox": [
+        120.0,
+        904.0,
+        1199.0,
+        1133.0
+      ],
+      "confidence": 0.9779881238937378,
+      "source": "paddleocr"
+    },
+    {
+      "page": 0,
+      "text": "GHOUL",
+      "bbox": [
+        111.0,
+        1187.0,
+        1183.0,
+        1447.0
+      ],
+      "confidence": 0.9949496984481812,
+      "source": "paddleocr"
+    },
+    {
+      "page": 0,
+      "text": "SUI",
+      "bbox": [
+        133.0,
+        2638.0,
+        328.0,
+        2750.0
+      ],
+      "confidence": 0.9761262536048889,
+      "source": "paddleocr"
+    },
+    {
+      "page": 0,
+      "text": "ISHIIJA",
+      "bbox": [
+        132.0,
+        2749.0,
+        503.0,
+        2876.0
+      ],
+      "confidence": 0.9193816184997559,
+      "source": "paddleocr"
+    }
+  ],
+  "bubbles": [
+    {
+      "page": 0,
+      "index": 1,
+      "text_display": "TOKYO\nGHOUL",
+      "text_tts": "TOKYO GHOUL",
+      "bbox": [
+        111.0,
+        904.0,
+        1199.0,
+        1447.0
+      ],
+      "items": [
+        {
+          "page": 0,
+          "text": "TOKYO",
+          "bbox": [
+            120.0,
+            904.0,
+            1199.0,
+            1133.0
+          ],
+          "confidence": 0.9779881238937378,
+          "source": "paddleocr"
+        },
+        {
+          "page": 0,
+          "text": "GHOUL",
+          "bbox": [
+            111.0,
+            1187.0,
+            1183.0,
+            1447.0
+          ],
+          "confidence": 0.9949496984481812,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9864689111709595
+    },
+    {
+      "page": 0,
+      "index": 2,
+      "text_display": "SUI\nISHIIJA",
+      "text_tts": "SUI ISHIIJA",
+      "bbox": [
+        132.0,
+        2638.0,
+        503.0,
+        2876.0
+      ],
+      "items": [
+        {
+          "page": 0,
+          "text": "SUI",
+          "bbox": [
+            133.0,
+            2638.0,
+            328.0,
+            2750.0
+          ],
+          "confidence": 0.9761262536048889,
+          "source": "paddleocr"
+        },
+        {
+          "page": 0,
+          "text": "ISHIIJA",
+          "bbox": [
+            132.0,
+            2749.0,
+            503.0,
+            2876.0
+          ],
+          "confidence": 0.9193816184997559,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9477539360523224
+    }
+  ]
+}

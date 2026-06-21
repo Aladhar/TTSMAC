@@ -1,0 +1,376 @@
+{
+  "page_data": {
+    "pdf_path": "Manga/Tokyo Ghoul Volume 1.pdf",
+    "page_index": 1,
+    "image_path": "cache/pages/page_0001.png",
+    "pdf_width": 1115.0,
+    "pdf_height": 1600.0,
+    "image_width": 2788,
+    "image_height": 4000,
+    "zoom": 2.5
+  },
+  "ocr_items": [
+    {
+      "page": 1,
+      "text": "TOKYO",
+      "bbox": [
+        137.0,
+        1125.0,
+        436.0,
+        1167.0
+      ],
+      "confidence": 0.9912165403366089,
+      "source": "paddleocr"
+    },
+    {
+      "page": 1,
+      "text": "GHOU",
+      "bbox": [
+        419.0,
+        1125.0,
+        689.0,
+        1167.0
+      ],
+      "confidence": 0.9677589535713196,
+      "source": "paddleocr"
+    },
+    {
+      "page": 1,
+      "text": "TOKYO",
+      "bbox": [
+        435.0,
+        1308.0,
+        938.0,
+        1451.0
+      ],
+      "confidence": 0.9813135266304016,
+      "source": "paddleocr"
+    },
+    {
+      "page": 1,
+      "text": "GHOUL",
+      "bbox": [
+        1041.0,
+        1583.0,
+        1543.0,
+        1700.0
+      ],
+      "confidence": 0.9751347303390503,
+      "source": "paddleocr"
+    },
+    {
+      "page": 1,
+      "text": "SUI",
+      "bbox": [
+        452.0,
+        1717.0,
+        589.0,
+        1788.0
+      ],
+      "confidence": 0.9590302109718323,
+      "source": "paddleocr"
+    },
+    {
+      "page": 1,
+      "text": "ISHIDA",
+      "bbox": [
+        456.0,
+        1788.0,
+        718.0,
+        1846.0
+      ],
+      "confidence": 0.9969106316566467,
+      "source": "paddleocr"
+    },
+    {
+      "page": 1,
+      "text": "0",
+      "bbox": [
+        436.0,
+        2121.0,
+        494.0,
+        2171.0
+      ],
+      "confidence": 0.7043996453285217,
+      "source": "paddleocr"
+    },
+    {
+      "page": 1,
+      "text": "K",
+      "bbox": [
+        560.0,
+        2117.0,
+        610.0,
+        2174.0
+      ],
+      "confidence": 0.978718638420105,
+      "source": "paddleocr"
+    },
+    {
+      "page": 1,
+      "text": "suiishidad",
+      "bbox": [
+        519.0,
+        2183.0,
+        851.0,
+        2242.0
+      ],
+      "confidence": 0.9336981773376465,
+      "source": "paddleocr"
+    },
+    {
+      "page": 1,
+      "text": "1",
+      "bbox": [
+        1021.0,
+        2592.0,
+        1178.0,
+        2933.0
+      ],
+      "confidence": 0.9251483678817749,
+      "source": "paddleocr"
+    }
+  ],
+  "bubbles": [
+    {
+      "page": 1,
+      "index": 1,
+      "text_display": "GHOU",
+      "text_tts": "GHOU",
+      "bbox": [
+        419.0,
+        1125.0,
+        689.0,
+        1167.0
+      ],
+      "items": [
+        {
+          "page": 1,
+          "text": "GHOU",
+          "bbox": [
+            419.0,
+            1125.0,
+            689.0,
+            1167.0
+          ],
+          "confidence": 0.9677589535713196,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9677589535713196
+    },
+    {
+      "page": 1,
+      "index": 2,
+      "text_display": "TOKYO",
+      "text_tts": "TOKYO",
+      "bbox": [
+        137.0,
+        1125.0,
+        436.0,
+        1167.0
+      ],
+      "items": [
+        {
+          "page": 1,
+          "text": "TOKYO",
+          "bbox": [
+            137.0,
+            1125.0,
+            436.0,
+            1167.0
+          ],
+          "confidence": 0.9912165403366089,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9912165403366089
+    },
+    {
+      "page": 1,
+      "index": 3,
+      "text_display": "TOKYO",
+      "text_tts": "TOKYO",
+      "bbox": [
+        435.0,
+        1308.0,
+        938.0,
+        1451.0
+      ],
+      "items": [
+        {
+          "page": 1,
+          "text": "TOKYO",
+          "bbox": [
+            435.0,
+            1308.0,
+            938.0,
+            1451.0
+          ],
+          "confidence": 0.9813135266304016,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9813135266304016
+    },
+    {
+      "page": 1,
+      "index": 4,
+      "text_display": "GHOUL",
+      "text_tts": "GHOUL",
+      "bbox": [
+        1041.0,
+        1583.0,
+        1543.0,
+        1700.0
+      ],
+      "items": [
+        {
+          "page": 1,
+          "text": "GHOUL",
+          "bbox": [
+            1041.0,
+            1583.0,
+            1543.0,
+            1700.0
+          ],
+          "confidence": 0.9751347303390503,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9751347303390503
+    },
+    {
+      "page": 1,
+      "index": 5,
+      "text_display": "SUI\nISHIDA",
+      "text_tts": "SUI ISHIDA",
+      "bbox": [
+        452.0,
+        1717.0,
+        718.0,
+        1846.0
+      ],
+      "items": [
+        {
+          "page": 1,
+          "text": "SUI",
+          "bbox": [
+            452.0,
+            1717.0,
+            589.0,
+            1788.0
+          ],
+          "confidence": 0.9590302109718323,
+          "source": "paddleocr"
+        },
+        {
+          "page": 1,
+          "text": "ISHIDA",
+          "bbox": [
+            456.0,
+            1788.0,
+            718.0,
+            1846.0
+          ],
+          "confidence": 0.9969106316566467,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9779704213142395
+    },
+    {
+      "page": 1,
+      "index": 6,
+      "text_display": "K\nsuiishidad",
+      "text_tts": "K suiishidad",
+      "bbox": [
+        519.0,
+        2117.0,
+        851.0,
+        2242.0
+      ],
+      "items": [
+        {
+          "page": 1,
+          "text": "K",
+          "bbox": [
+            560.0,
+            2117.0,
+            610.0,
+            2174.0
+          ],
+          "confidence": 0.978718638420105,
+          "source": "paddleocr"
+        },
+        {
+          "page": 1,
+          "text": "suiishidad",
+          "bbox": [
+            519.0,
+            2183.0,
+            851.0,
+            2242.0
+          ],
+          "confidence": 0.9336981773376465,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9562084078788757
+    },
+    {
+      "page": 1,
+      "index": 7,
+      "text_display": "0",
+      "text_tts": "0",
+      "bbox": [
+        436.0,
+        2121.0,
+        494.0,
+        2171.0
+      ],
+      "items": [
+        {
+          "page": 1,
+          "text": "0",
+          "bbox": [
+            436.0,
+            2121.0,
+            494.0,
+            2171.0
+          ],
+          "confidence": 0.7043996453285217,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.7043996453285217
+    },
+    {
+      "page": 1,
+      "index": 8,
+      "text_display": "1",
+      "text_tts": "1",
+      "bbox": [
+        1021.0,
+        2592.0,
+        1178.0,
+        2933.0
+      ],
+      "items": [
+        {
+          "page": 1,
+          "text": "1",
+          "bbox": [
+            1021.0,
+            2592.0,
+            1178.0,
+            2933.0
+          ],
+          "confidence": 0.9251483678817749,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9251483678817749
+    }
+  ]
+}

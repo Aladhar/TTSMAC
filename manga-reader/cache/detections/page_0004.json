@@ -1,0 +1,55 @@
+{
+  "page_data": {
+    "pdf_path": "Manga/Tokyo Ghoul Volume 1.pdf",
+    "page_index": 4,
+    "image_path": "cache/pages/page_0004.png",
+    "pdf_width": 2231.0,
+    "pdf_height": 1600.0,
+    "image_width": 5578,
+    "image_height": 4000,
+    "zoom": 2.5
+  },
+  "ocr_items": [
+    {
+      "page": 4,
+      "text": "TRAGEDY",
+      "bbox": [
+        4397.0,
+        152.0,
+        5347.0,
+        404.0
+      ],
+      "confidence": 0.9993213415145874,
+      "source": "paddleocr"
+    }
+  ],
+  "bubbles": [
+    {
+      "page": 4,
+      "index": 1,
+      "text_display": "TRAGEDY",
+      "text_tts": "TRAGEDY",
+      "bbox": [
+        4397.0,
+        152.0,
+        5347.0,
+        404.0
+      ],
+      "items": [
+        {
+          "page": 4,
+          "text": "TRAGEDY",
+          "bbox": [
+            4397.0,
+            152.0,
+            5347.0,
+            404.0
+          ],
+          "confidence": 0.9993213415145874,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9993213415145874
+    }
+  ]
+}

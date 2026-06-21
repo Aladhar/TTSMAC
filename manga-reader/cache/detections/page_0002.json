@@ -1,0 +1,1411 @@
+{
+  "page_data": {
+    "pdf_path": "Manga/Tokyo Ghoul Volume 1.pdf",
+    "page_index": 2,
+    "image_path": "cache/pages/page_0002.png",
+    "pdf_width": 1115.0,
+    "pdf_height": 1600.0,
+    "image_width": 2788,
+    "image_height": 4000,
+    "zoom": 2.5
+  },
+  "ocr_items": [
+    {
+      "page": 2,
+      "text": "TRAGEDY",
+      "bbox": [
+        2347.0,
+        162.0,
+        2669.0,
+        280.0
+      ],
+      "confidence": 0.9934973120689392,
+      "source": "paddleocr"
+    },
+    {
+      "page": 2,
+      "text": "ODDITY",
+      "bbox": [
+        2402.0,
+        608.0,
+        2668.0,
+        712.0
+      ],
+      "confidence": 0.9940333366394043,
+      "source": "paddleocr"
+    },
+    {
+      "page": 2,
+      "text": "49",
+      "bbox": [
+        2597.0,
+        721.0,
+        2672.0,
+        775.0
+      ],
+      "confidence": 0.9941658973693848,
+      "source": "paddleocr"
+    },
+    {
+      "page": 2,
+      "text": "#",
+      "bbox": [
+        1904.0,
+        750.0,
+        1946.0,
+        788.0
+      ],
+      "confidence": 0.9961472749710083,
+      "source": "paddleocr"
+    },
+    {
+      "page": 2,
+      "text": "00",
+      "bbox": [
+        1971.0,
+        746.0,
+        2145.0,
+        792.0
+      ],
+      "confidence": 0.9753075838088989,
+      "source": "paddleocr"
+    },
+    {
+      "page": 2,
+      "text": "2",
+      "bbox": [
+        2128.0,
+        746.0,
+        2211.0,
+        796.0
+      ],
+      "confidence": 0.9507094025611877,
+      "source": "paddleocr"
+    },
+    {
+      "page": 2,
+      "text": "[WORST",
+      "bbox": [
+        2397.0,
+        1032.0,
+        2681.0,
+        1151.0
+      ],
+      "confidence": 0.9493579268455505,
+      "source": "paddleocr"
+    },
+    {
+      "page": 2,
+      "text": "79",
+      "bbox": [
+        2587.0,
+        1148.0,
+        2669.0,
+        1210.0
+      ],
+      "confidence": 0.996464729309082,
+      "source": "paddleocr"
+    },
+    {
+      "page": 2,
+      "text": "#",
+      "bbox": [
+        1908.0,
+        1188.0,
+        1946.0,
+        1221.0
+      ],
+      "confidence": 0.9249351024627686,
+      "source": "paddleocr"
+    },
+    {
+      "page": 2,
+      "text": "0",
+      "bbox": [
+        2079.0,
+        1188.0,
+        2128.0,
+        1221.0
+      ],
+      "confidence": 0.6750321388244629,
+      "source": "paddleocr"
+    },
+    {
+      "page": 2,
+      "text": "COFFEE",
+      "bbox": [
+        2398.0,
+        1475.0,
+        2668.0,
+        1583.0
+      ],
+      "confidence": 0.9928953051567078,
+      "source": "paddleocr"
+    },
+    {
+      "page": 2,
+      "text": "106",
+      "bbox": [
+        2568.0,
+        1596.0,
+        2672.0,
+        1646.0
+      ],
+      "confidence": 0.9944226741790771,
+      "source": "paddleocr"
+    },
+    {
+      "page": 2,
+      "text": "TOKYO",
+      "bbox": [
+        904.0,
+        1737.0,
+        1124.0,
+        1779.0
+      ],
+      "confidence": 0.9938415288925171,
+      "source": "paddleocr"
+    },
+    {
+      "page": 2,
+      "text": "TOKYOGHOUL",
+      "bbox": [
+        1178.0,
+        1762.0,
+        2087.0,
+        1871.0
+      ],
+      "confidence": 0.9227917790412903,
+      "source": "paddleocr"
+    },
+    {
+      "page": 2,
+      "text": "HOU",
+      "bbox": [
+        606.0,
+        1837.0,
+        730.0,
+        1867.0
+      ],
+      "confidence": 0.9932141304016113,
+      "source": "paddleocr"
+    },
+    {
+      "page": 2,
+      "text": "SUI",
+      "bbox": [
+        1187.0,
+        1917.0,
+        1282.0,
+        1987.0
+      ],
+      "confidence": 0.9816584587097168,
+      "source": "paddleocr"
+    },
+    {
+      "page": 2,
+      "text": "FEEDING GROUND",
+      "bbox": [
+        2115.0,
+        1924.0,
+        2664.0,
+        2022.0
+      ],
+      "confidence": 0.9772946238517761,
+      "source": "paddleocr"
+    },
+    {
+      "page": 2,
+      "text": "ISHIIDA",
+      "bbox": [
+        1187.0,
+        1979.0,
+        1373.0,
+        2042.0
+      ],
+      "confidence": 0.9101870656013489,
+      "source": "paddleocr"
+    },
+    {
+      "page": 2,
+      "text": "125",
+      "bbox": [
+        2576.0,
+        2025.0,
+        2684.0,
+        2088.0
+      ],
+      "confidence": 0.995861828327179,
+      "source": "paddleocr"
+    },
+    {
+      "page": 2,
+      "text": "0",
+      "bbox": [
+        1996.0,
+        2062.0,
+        2029.0,
+        2100.0
+      ],
+      "confidence": 0.7998749613761902,
+      "source": "paddleocr"
+    },
+    {
+      "page": 2,
+      "text": "0",
+      "bbox": [
+        2083.0,
+        2058.0,
+        2124.0,
+        2100.0
+      ],
+      "confidence": 0.8152274489402771,
+      "source": "paddleocr"
+    },
+    {
+      "page": 2,
+      "text": "5",
+      "bbox": [
+        2166.0,
+        2058.0,
+        2203.0,
+        2104.0
+      ],
+      "confidence": 0.9990654587745667,
+      "source": "paddleocr"
+    },
+    {
+      "page": 2,
+      "text": "N",
+      "bbox": [
+        1013.0,
+        2104.0,
+        1065.0,
+        2157.0
+      ],
+      "confidence": 0.7193124294281006,
+      "source": "paddleocr"
+    },
+    {
+      "page": 2,
+      "text": "0",
+      "bbox": [
+        701.0,
+        2117.0,
+        726.0,
+        2154.0
+      ],
+      "confidence": 0.5597054362297058,
+      "source": "paddleocr"
+    },
+    {
+      "page": 2,
+      "text": "N",
+      "bbox": [
+        1996.0,
+        2112.0,
+        2029.0,
+        2150.0
+      ],
+      "confidence": 0.9517752528190613,
+      "source": "paddleocr"
+    },
+    {
+      "page": 2,
+      "text": "S",
+      "bbox": [
+        2647.0,
+        2108.0,
+        2684.0,
+        2158.0
+      ],
+      "confidence": 0.8859845399856567,
+      "source": "paddleocr"
+    },
+    {
+      "page": 2,
+      "text": "HOMING",
+      "bbox": [
+        2381.0,
+        2350.0,
+        2668.0,
+        2454.0
+      ],
+      "confidence": 0.9924526810646057,
+      "source": "paddleocr"
+    },
+    {
+      "page": 2,
+      "text": "143",
+      "bbox": [
+        2576.0,
+        2467.0,
+        2672.0,
+        2517.0
+      ],
+      "confidence": 0.9924677014350891,
+      "source": "paddleocr"
+    },
+    {
+      "page": 2,
+      "text": "#00",
+      "bbox": [
+        1892.0,
+        2487.0,
+        2141.0,
+        2546.0
+      ],
+      "confidence": 0.9200780391693115,
+      "source": "paddleocr"
+    },
+    {
+      "page": 2,
+      "text": "[DECEPTION",
+      "bbox": [
+        2285.0,
+        2783.0,
+        2677.0,
+        2901.0
+      ],
+      "confidence": 0.9518734216690063,
+      "source": "paddleocr"
+    },
+    {
+      "page": 2,
+      "text": "161",
+      "bbox": [
+        2576.0,
+        2908.0,
+        2668.0,
+        2954.0
+      ],
+      "confidence": 0.9128219485282898,
+      "source": "paddleocr"
+    },
+    {
+      "page": 2,
+      "text": "#00",
+      "bbox": [
+        1892.0,
+        2925.0,
+        2132.0,
+        2983.0
+      ],
+      "confidence": 0.8921803832054138,
+      "source": "paddleocr"
+    },
+    {
+      "page": 2,
+      "text": "KAGUNE",
+      "bbox": [
+        2381.0,
+        3225.0,
+        2676.0,
+        3333.0
+      ],
+      "confidence": 0.9852292537689209,
+      "source": "paddleocr"
+    },
+    {
+      "page": 2,
+      "text": "79",
+      "bbox": [
+        2576.0,
+        3346.0,
+        2668.0,
+        3392.0
+      ],
+      "confidence": 0.9970592260360718,
+      "source": "paddleocr"
+    },
+    {
+      "page": 2,
+      "text": "8",
+      "bbox": [
+        2166.0,
+        3375.0,
+        2207.0,
+        3408.0
+      ],
+      "confidence": 0.8950536251068115,
+      "source": "paddleocr"
+    },
+    {
+      "page": 2,
+      "text": "HATCH",
+      "bbox": [
+        2423.0,
+        3662.0,
+        2676.0,
+        3771.0
+      ],
+      "confidence": 0.9884182214736938,
+      "source": "paddleocr"
+    },
+    {
+      "page": 2,
+      "text": "198",
+      "bbox": [
+        2554.0,
+        3769.0,
+        2678.0,
+        3843.0
+      ],
+      "confidence": 0.9804800152778625,
+      "source": "paddleocr"
+    },
+    {
+      "page": 2,
+      "text": "0",
+      "bbox": [
+        1979.0,
+        3808.0,
+        2037.0,
+        3842.0
+      ],
+      "confidence": 0.7895698547363281,
+      "source": "paddleocr"
+    },
+    {
+      "page": 2,
+      "text": "0",
+      "bbox": [
+        2070.0,
+        3808.0,
+        2132.0,
+        3850.0
+      ],
+      "confidence": 0.9412373900413513,
+      "source": "paddleocr"
+    },
+    {
+      "page": 2,
+      "text": "9",
+      "bbox": [
+        2166.0,
+        3808.0,
+        2207.0,
+        3842.0
+      ],
+      "confidence": 0.7491225600242615,
+      "source": "paddleocr"
+    }
+  ],
+  "bubbles": [
+    {
+      "page": 2,
+      "index": 1,
+      "text_display": "TRAGEDY",
+      "text_tts": "TRAGEDY",
+      "bbox": [
+        2347.0,
+        162.0,
+        2669.0,
+        280.0
+      ],
+      "items": [
+        {
+          "page": 2,
+          "text": "TRAGEDY",
+          "bbox": [
+            2347.0,
+            162.0,
+            2669.0,
+            280.0
+          ],
+          "confidence": 0.9934973120689392,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9934973120689392
+    },
+    {
+      "page": 2,
+      "index": 2,
+      "text_display": "ODDITY\n49",
+      "text_tts": "ODDITY 49",
+      "bbox": [
+        2402.0,
+        608.0,
+        2672.0,
+        775.0
+      ],
+      "items": [
+        {
+          "page": 2,
+          "text": "ODDITY",
+          "bbox": [
+            2402.0,
+            608.0,
+            2668.0,
+            712.0
+          ],
+          "confidence": 0.9940333366394043,
+          "source": "paddleocr"
+        },
+        {
+          "page": 2,
+          "text": "49",
+          "bbox": [
+            2597.0,
+            721.0,
+            2672.0,
+            775.0
+          ],
+          "confidence": 0.9941658973693848,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9940996170043945
+    },
+    {
+      "page": 2,
+      "index": 3,
+      "text_display": "2",
+      "text_tts": "2",
+      "bbox": [
+        2128.0,
+        746.0,
+        2211.0,
+        796.0
+      ],
+      "items": [
+        {
+          "page": 2,
+          "text": "2",
+          "bbox": [
+            2128.0,
+            746.0,
+            2211.0,
+            796.0
+          ],
+          "confidence": 0.9507094025611877,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9507094025611877
+    },
+    {
+      "page": 2,
+      "index": 4,
+      "text_display": "00",
+      "text_tts": "00",
+      "bbox": [
+        1971.0,
+        746.0,
+        2145.0,
+        792.0
+      ],
+      "items": [
+        {
+          "page": 2,
+          "text": "00",
+          "bbox": [
+            1971.0,
+            746.0,
+            2145.0,
+            792.0
+          ],
+          "confidence": 0.9753075838088989,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9753075838088989
+    },
+    {
+      "page": 2,
+      "index": 5,
+      "text_display": "#",
+      "text_tts": "#",
+      "bbox": [
+        1904.0,
+        750.0,
+        1946.0,
+        788.0
+      ],
+      "items": [
+        {
+          "page": 2,
+          "text": "#",
+          "bbox": [
+            1904.0,
+            750.0,
+            1946.0,
+            788.0
+          ],
+          "confidence": 0.9961472749710083,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9961472749710083
+    },
+    {
+      "page": 2,
+      "index": 6,
+      "text_display": "[WORST\n79",
+      "text_tts": "[WORST 79",
+      "bbox": [
+        2397.0,
+        1032.0,
+        2681.0,
+        1210.0
+      ],
+      "items": [
+        {
+          "page": 2,
+          "text": "[WORST",
+          "bbox": [
+            2397.0,
+            1032.0,
+            2681.0,
+            1151.0
+          ],
+          "confidence": 0.9493579268455505,
+          "source": "paddleocr"
+        },
+        {
+          "page": 2,
+          "text": "79",
+          "bbox": [
+            2587.0,
+            1148.0,
+            2669.0,
+            1210.0
+          ],
+          "confidence": 0.996464729309082,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9729113280773163
+    },
+    {
+      "page": 2,
+      "index": 7,
+      "text_display": "0",
+      "text_tts": "0",
+      "bbox": [
+        2079.0,
+        1188.0,
+        2128.0,
+        1221.0
+      ],
+      "items": [
+        {
+          "page": 2,
+          "text": "0",
+          "bbox": [
+            2079.0,
+            1188.0,
+            2128.0,
+            1221.0
+          ],
+          "confidence": 0.6750321388244629,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.6750321388244629
+    },
+    {
+      "page": 2,
+      "index": 8,
+      "text_display": "#",
+      "text_tts": "#",
+      "bbox": [
+        1908.0,
+        1188.0,
+        1946.0,
+        1221.0
+      ],
+      "items": [
+        {
+          "page": 2,
+          "text": "#",
+          "bbox": [
+            1908.0,
+            1188.0,
+            1946.0,
+            1221.0
+          ],
+          "confidence": 0.9249351024627686,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9249351024627686
+    },
+    {
+      "page": 2,
+      "index": 9,
+      "text_display": "COFFEE\n106",
+      "text_tts": "COFFEE 106",
+      "bbox": [
+        2398.0,
+        1475.0,
+        2672.0,
+        1646.0
+      ],
+      "items": [
+        {
+          "page": 2,
+          "text": "COFFEE",
+          "bbox": [
+            2398.0,
+            1475.0,
+            2668.0,
+            1583.0
+          ],
+          "confidence": 0.9928953051567078,
+          "source": "paddleocr"
+        },
+        {
+          "page": 2,
+          "text": "106",
+          "bbox": [
+            2568.0,
+            1596.0,
+            2672.0,
+            1646.0
+          ],
+          "confidence": 0.9944226741790771,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9936589896678925
+    },
+    {
+      "page": 2,
+      "index": 10,
+      "text_display": "TOKYO",
+      "text_tts": "TOKYO",
+      "bbox": [
+        904.0,
+        1737.0,
+        1124.0,
+        1779.0
+      ],
+      "items": [
+        {
+          "page": 2,
+          "text": "TOKYO",
+          "bbox": [
+            904.0,
+            1737.0,
+            1124.0,
+            1779.0
+          ],
+          "confidence": 0.9938415288925171,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9938415288925171
+    },
+    {
+      "page": 2,
+      "index": 11,
+      "text_display": "TOKYOGHOUL\nSUI",
+      "text_tts": "TOKYOGHOUL SUI",
+      "bbox": [
+        1178.0,
+        1762.0,
+        2087.0,
+        1987.0
+      ],
+      "items": [
+        {
+          "page": 2,
+          "text": "TOKYOGHOUL",
+          "bbox": [
+            1178.0,
+            1762.0,
+            2087.0,
+            1871.0
+          ],
+          "confidence": 0.9227917790412903,
+          "source": "paddleocr"
+        },
+        {
+          "page": 2,
+          "text": "SUI",
+          "bbox": [
+            1187.0,
+            1917.0,
+            1282.0,
+            1987.0
+          ],
+          "confidence": 0.9816584587097168,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9522251188755035
+    },
+    {
+      "page": 2,
+      "index": 12,
+      "text_display": "HOU",
+      "text_tts": "HOU",
+      "bbox": [
+        606.0,
+        1837.0,
+        730.0,
+        1867.0
+      ],
+      "items": [
+        {
+          "page": 2,
+          "text": "HOU",
+          "bbox": [
+            606.0,
+            1837.0,
+            730.0,
+            1867.0
+          ],
+          "confidence": 0.9932141304016113,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9932141304016113
+    },
+    {
+      "page": 2,
+      "index": 13,
+      "text_display": "FEEDING GROUND\n125\nS",
+      "text_tts": "FEEDING GROUND 125 S",
+      "bbox": [
+        2115.0,
+        1924.0,
+        2684.0,
+        2158.0
+      ],
+      "items": [
+        {
+          "page": 2,
+          "text": "FEEDING GROUND",
+          "bbox": [
+            2115.0,
+            1924.0,
+            2664.0,
+            2022.0
+          ],
+          "confidence": 0.9772946238517761,
+          "source": "paddleocr"
+        },
+        {
+          "page": 2,
+          "text": "125",
+          "bbox": [
+            2576.0,
+            2025.0,
+            2684.0,
+            2088.0
+          ],
+          "confidence": 0.995861828327179,
+          "source": "paddleocr"
+        },
+        {
+          "page": 2,
+          "text": "S",
+          "bbox": [
+            2647.0,
+            2108.0,
+            2684.0,
+            2158.0
+          ],
+          "confidence": 0.8859845399856567,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.953046997388204
+    },
+    {
+      "page": 2,
+      "index": 14,
+      "text_display": "5",
+      "text_tts": "5",
+      "bbox": [
+        2166.0,
+        2058.0,
+        2203.0,
+        2104.0
+      ],
+      "items": [
+        {
+          "page": 2,
+          "text": "5",
+          "bbox": [
+            2166.0,
+            2058.0,
+            2203.0,
+            2104.0
+          ],
+          "confidence": 0.9990654587745667,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9990654587745667
+    },
+    {
+      "page": 2,
+      "index": 15,
+      "text_display": "0\nN",
+      "text_tts": "0 N",
+      "bbox": [
+        1996.0,
+        2058.0,
+        2124.0,
+        2150.0
+      ],
+      "items": [
+        {
+          "page": 2,
+          "text": "0",
+          "bbox": [
+            2083.0,
+            2058.0,
+            2124.0,
+            2100.0
+          ],
+          "confidence": 0.8152274489402771,
+          "source": "paddleocr"
+        },
+        {
+          "page": 2,
+          "text": "N",
+          "bbox": [
+            1996.0,
+            2112.0,
+            2029.0,
+            2150.0
+          ],
+          "confidence": 0.9517752528190613,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.8835013508796692
+    },
+    {
+      "page": 2,
+      "index": 16,
+      "text_display": "0",
+      "text_tts": "0",
+      "bbox": [
+        1996.0,
+        2062.0,
+        2029.0,
+        2100.0
+      ],
+      "items": [
+        {
+          "page": 2,
+          "text": "0",
+          "bbox": [
+            1996.0,
+            2062.0,
+            2029.0,
+            2100.0
+          ],
+          "confidence": 0.7998749613761902,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.7998749613761902
+    },
+    {
+      "page": 2,
+      "index": 17,
+      "text_display": "ISHIIDA",
+      "text_tts": "ISHIIDA",
+      "bbox": [
+        1187.0,
+        1979.0,
+        1373.0,
+        2042.0
+      ],
+      "items": [
+        {
+          "page": 2,
+          "text": "ISHIIDA",
+          "bbox": [
+            1187.0,
+            1979.0,
+            1373.0,
+            2042.0
+          ],
+          "confidence": 0.9101870656013489,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9101870656013489
+    },
+    {
+      "page": 2,
+      "index": 18,
+      "text_display": "N",
+      "text_tts": "N",
+      "bbox": [
+        1013.0,
+        2104.0,
+        1065.0,
+        2157.0
+      ],
+      "items": [
+        {
+          "page": 2,
+          "text": "N",
+          "bbox": [
+            1013.0,
+            2104.0,
+            1065.0,
+            2157.0
+          ],
+          "confidence": 0.7193124294281006,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.7193124294281006
+    },
+    {
+      "page": 2,
+      "index": 19,
+      "text_display": "0",
+      "text_tts": "0",
+      "bbox": [
+        701.0,
+        2117.0,
+        726.0,
+        2154.0
+      ],
+      "items": [
+        {
+          "page": 2,
+          "text": "0",
+          "bbox": [
+            701.0,
+            2117.0,
+            726.0,
+            2154.0
+          ],
+          "confidence": 0.5597054362297058,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.5597054362297058
+    },
+    {
+      "page": 2,
+      "index": 20,
+      "text_display": "HOMING\n143",
+      "text_tts": "HOMING 143",
+      "bbox": [
+        2381.0,
+        2350.0,
+        2672.0,
+        2517.0
+      ],
+      "items": [
+        {
+          "page": 2,
+          "text": "HOMING",
+          "bbox": [
+            2381.0,
+            2350.0,
+            2668.0,
+            2454.0
+          ],
+          "confidence": 0.9924526810646057,
+          "source": "paddleocr"
+        },
+        {
+          "page": 2,
+          "text": "143",
+          "bbox": [
+            2576.0,
+            2467.0,
+            2672.0,
+            2517.0
+          ],
+          "confidence": 0.9924677014350891,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9924601912498474
+    },
+    {
+      "page": 2,
+      "index": 21,
+      "text_display": "#00",
+      "text_tts": "#00",
+      "bbox": [
+        1892.0,
+        2487.0,
+        2141.0,
+        2546.0
+      ],
+      "items": [
+        {
+          "page": 2,
+          "text": "#00",
+          "bbox": [
+            1892.0,
+            2487.0,
+            2141.0,
+            2546.0
+          ],
+          "confidence": 0.9200780391693115,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9200780391693115
+    },
+    {
+      "page": 2,
+      "index": 22,
+      "text_display": "[DECEPTION\n161",
+      "text_tts": "[DECEPTION 161",
+      "bbox": [
+        2285.0,
+        2783.0,
+        2677.0,
+        2954.0
+      ],
+      "items": [
+        {
+          "page": 2,
+          "text": "[DECEPTION",
+          "bbox": [
+            2285.0,
+            2783.0,
+            2677.0,
+            2901.0
+          ],
+          "confidence": 0.9518734216690063,
+          "source": "paddleocr"
+        },
+        {
+          "page": 2,
+          "text": "161",
+          "bbox": [
+            2576.0,
+            2908.0,
+            2668.0,
+            2954.0
+          ],
+          "confidence": 0.9128219485282898,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9323476850986481
+    },
+    {
+      "page": 2,
+      "index": 23,
+      "text_display": "#00",
+      "text_tts": "#00",
+      "bbox": [
+        1892.0,
+        2925.0,
+        2132.0,
+        2983.0
+      ],
+      "items": [
+        {
+          "page": 2,
+          "text": "#00",
+          "bbox": [
+            1892.0,
+            2925.0,
+            2132.0,
+            2983.0
+          ],
+          "confidence": 0.8921803832054138,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.8921803832054138
+    },
+    {
+      "page": 2,
+      "index": 24,
+      "text_display": "KAGUNE\n79",
+      "text_tts": "KAGUNE 79",
+      "bbox": [
+        2381.0,
+        3225.0,
+        2676.0,
+        3392.0
+      ],
+      "items": [
+        {
+          "page": 2,
+          "text": "KAGUNE",
+          "bbox": [
+            2381.0,
+            3225.0,
+            2676.0,
+            3333.0
+          ],
+          "confidence": 0.9852292537689209,
+          "source": "paddleocr"
+        },
+        {
+          "page": 2,
+          "text": "79",
+          "bbox": [
+            2576.0,
+            3346.0,
+            2668.0,
+            3392.0
+          ],
+          "confidence": 0.9970592260360718,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9911442399024963
+    },
+    {
+      "page": 2,
+      "index": 25,
+      "text_display": "8",
+      "text_tts": "8",
+      "bbox": [
+        2166.0,
+        3375.0,
+        2207.0,
+        3408.0
+      ],
+      "items": [
+        {
+          "page": 2,
+          "text": "8",
+          "bbox": [
+            2166.0,
+            3375.0,
+            2207.0,
+            3408.0
+          ],
+          "confidence": 0.8950536251068115,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.8950536251068115
+    },
+    {
+      "page": 2,
+      "index": 26,
+      "text_display": "HATCH\n198",
+      "text_tts": "HATCH 198",
+      "bbox": [
+        2423.0,
+        3662.0,
+        2678.0,
+        3843.0
+      ],
+      "items": [
+        {
+          "page": 2,
+          "text": "HATCH",
+          "bbox": [
+            2423.0,
+            3662.0,
+            2676.0,
+            3771.0
+          ],
+          "confidence": 0.9884182214736938,
+          "source": "paddleocr"
+        },
+        {
+          "page": 2,
+          "text": "198",
+          "bbox": [
+            2554.0,
+            3769.0,
+            2678.0,
+            3843.0
+          ],
+          "confidence": 0.9804800152778625,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9844491183757782
+    },
+    {
+      "page": 2,
+      "index": 27,
+      "text_display": "9",
+      "text_tts": "9",
+      "bbox": [
+        2166.0,
+        3808.0,
+        2207.0,
+        3842.0
+      ],
+      "items": [
+        {
+          "page": 2,
+          "text": "9",
+          "bbox": [
+            2166.0,
+            3808.0,
+            2207.0,
+            3842.0
+          ],
+          "confidence": 0.7491225600242615,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.7491225600242615
+    },
+    {
+      "page": 2,
+      "index": 28,
+      "text_display": "0",
+      "text_tts": "0",
+      "bbox": [
+        2070.0,
+        3808.0,
+        2132.0,
+        3850.0
+      ],
+      "items": [
+        {
+          "page": 2,
+          "text": "0",
+          "bbox": [
+            2070.0,
+            3808.0,
+            2132.0,
+            3850.0
+          ],
+          "confidence": 0.9412373900413513,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.9412373900413513
+    },
+    {
+      "page": 2,
+      "index": 29,
+      "text_display": "0",
+      "text_tts": "0",
+      "bbox": [
+        1979.0,
+        3808.0,
+        2037.0,
+        3842.0
+      ],
+      "items": [
+        {
+          "page": 2,
+          "text": "0",
+          "bbox": [
+            1979.0,
+            3808.0,
+            2037.0,
+            3842.0
+          ],
+          "confidence": 0.7895698547363281,
+          "source": "paddleocr"
+        }
+      ],
+      "confidence": 0.7895698547363281
+    }
+  ]
+}
